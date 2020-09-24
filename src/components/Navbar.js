@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 
 const Navbar = () => {
 
@@ -14,11 +15,17 @@ const Navbar = () => {
 
                 <span className="ml-3 text-xl text-white">NameIt</span>
             </a>
-            <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-            {/* <a className="mr-5 hover:text-gray-900">First Link</a>
-            <a className="mr-5 hover:text-gray-900">Second Link</a>
-            <a className="mr-5 hover:text-gray-900">Third Link</a>
-            <a className="mr-5 hover:text-gray-900">Fourth Link</a> */}
+            <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+                <Link to="/home">
+                    <button class="mr-5 hover:text-white">Home</button>
+                </Link>
+                <Link to="/pretrained">
+                    <button class="mr-5 hover:text-white">Pre Trained</button>
+                </Link>
+                <Link to="/request">
+                    <button class="mr-5 hover:text-white">Request</button>
+                </Link>
+                
             </nav>
             <button className="inline-flex items-center bg-gray-200 border-0 py-1 px-3 round focus:outline-none hover:bg-gray-300 rounded-lg text-base mt-4 md:mt-0" onClick={redirect}>Github
             <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-4 h-4 ml-1" viewBox="0 0 24 24">
