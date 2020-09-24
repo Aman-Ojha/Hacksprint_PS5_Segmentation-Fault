@@ -17,13 +17,13 @@ const Navbar = () => {
             </a>
             <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
                 <Link to="/home">
-                    <button class="mr-5 hover:text-white">Home</button>
+                    <a class="mr-5 text-gray-500 hover:text-white" href="/home">Home</a>
                 </Link>
                 <Link to="/pretrained">
-                    <button class="mr-5 hover:text-white">Pre Trained</button>
+                    <a class="mr-5 text-gray-500 hover:text-white" href="/pretrained">Pre Trained</a>
                 </Link>
                 <Link to="/request">
-                    <button class="mr-5 hover:text-white">Request</button>
+                    <a class="mr-5 text-gray-500 hover:text-white" href="/request">Request</a>
                 </Link>
                 
             </nav>
