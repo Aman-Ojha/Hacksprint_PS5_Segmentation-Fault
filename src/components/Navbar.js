@@ -20,7 +20,7 @@ const Navbar = () => {
                     <a class="mr-5 text-gray-500 hover:text-white" href="/home">Home</a>
                 </Link>
                 <Link to="/pretrained">
-                    <a class="mr-5 text-gray-500 hover:text-white" href="/pretrained">Pre Trained</a>
+                    <a class="mr-5 text-gray-500 hover:text-white" href="/pretrained">Pre-Trained</a>
                 </Link>
                 <Link to="/request">
                     <a class="mr-5 text-gray-500 hover:text-white" href="/request">Request</a>
