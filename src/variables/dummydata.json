@@ -2,172 +2,6924 @@
     "status": "success",
     "data": [
       {
-        "id": "1",
-        "employee_name": "Tiger Nixon",
-        "employee_salary": "320800",
-        "employee_age": "61",
-        "profile_image": ""
+        "ID": 0,
+        "Symbol": "20MICRONS",
+        "Name": "20_Microns_Limited"
       },
       {
-        "id": "2",
-        "employee_name": "Garrett Winters",
-        "employee_salary": "170750",
-        "employee_age": "63",
-        "profile_image": ""
+        "ID": 1,
+        "Symbol": "3IINFOTECH",
+        "Name": "3i_Infotech_Limited"
       },
       {
-        "id": "3",
-        "employee_name": "Ashton Cox",
-        "employee_salary": "86000",
-        "employee_age": "66",
-        "profile_image": ""
+        "ID": 2,
+        "Symbol": "3MINDIA",
+        "Name": "3M_India_Limited"
       },
       {
-        "id": "4",
-        "employee_name": "Cedric Kelly",
-        "employee_salary": "433060",
-        "employee_age": "22",
-        "profile_image": ""
+        "ID": 3,
+        "Symbol": "A2ZMES",
+        "Name": "A2Z_Maintenance_&_Engineering_Services_Limited"
       },
       {
-        "id": "5",
-        "employee_name": "Airi Satou",
-        "employee_salary": "162700",
-        "employee_age": "33",
-        "profile_image": ""
+        "ID": 4,
+        "Symbol": "AANJANEYA",
+        "Name": "Aanjaneya_Lifecare_Limited"
       },
       {
-        "id": "6",
-        "employee_name": "Brielle Williamson",
-        "employee_salary": "372000",
-        "employee_age": "61",
-        "profile_image": ""
+        "ID": 5,
+        "Symbol": "AARTIDRUGS",
+        "Name": "Aarti_Drugs_Limited"
       },
       {
-        "id": "7",
-        "employee_name": "Herrod Chandler",
-        "employee_salary": "137500",
-        "employee_age": "59",
-        "profile_image": ""
+        "ID": 6,
+        "Symbol": "AARTIIND",
+        "Name": "Aarti_Industries_Limited"
       },
       {
-        "id": "8",
-        "employee_name": "Rhona Davidson",
-        "employee_salary": "327900",
-        "employee_age": "55",
-        "profile_image": ""
+        "ID": 7,
+        "Symbol": "AARVEEDEN",
+        "Name": "Aarvee_Denims_&_Exports_Limited"
       },
       {
-        "id": "9",
-        "employee_name": "Colleen Hurst",
-        "employee_salary": "205500",
-        "employee_age": "39",
-        "profile_image": ""
+        "ID": 8,
+        "Symbol": "ABAN",
+        "Name": "Aban_Offshore_Limited"
       },
       {
-        "id": "10",
-        "employee_name": "Sonya Frost",
-        "employee_salary": "103600",
-        "employee_age": "23",
-        "profile_image": ""
+        "ID": 9,
+        "Symbol": "ABB",
+        "Name": "ABB_Limited"
       },
       {
-        "id": "11",
-        "employee_name": "Jena Gaines",
-        "employee_salary": "90560",
-        "employee_age": "30",
-        "profile_image": ""
+        "ID": 10,
+        "Symbol": "ABCIL",
+        "Name": "Aditya_Birla_Chemicals_(India)_Limited"
       },
       {
-        "id": "12",
-        "employee_name": "Quinn Flynn",
-        "employee_salary": "342000",
-        "employee_age": "22",
-        "profile_image": ""
+        "ID": 11,
+        "Symbol": "ABGSHIP",
+        "Name": "ABG_Shipyard_Limited"
       },
       {
-        "id": "13",
-        "employee_name": "Charde Marshall",
-        "employee_salary": "470600",
-        "employee_age": "36",
-        "profile_image": ""
+        "ID": 12,
+        "Symbol": "ABIRLANUVO",
+        "Name": "Aditya_Birla_Nuvo_Limited"
       },
       {
-        "id": "14",
-        "employee_name": "Haley Kennedy",
-        "employee_salary": "313500",
-        "employee_age": "43",
-        "profile_image": ""
+        "ID": 13,
+        "Symbol": "ACC",
+        "Name": "ACC_Limited"
       },
       {
-        "id": "15",
-        "employee_name": "Tatyana Fitzpatrick",
-        "employee_salary": "385750",
-        "employee_age": "19",
-        "profile_image": ""
+        "ID": 14,
+        "Symbol": "ACE",
+        "Name": "Action_Construction_Equipment_Limited"
       },
       {
-        "id": "16",
-        "employee_name": "Michael Silva",
-        "employee_salary": "198500",
-        "employee_age": "66",
-        "profile_image": ""
+        "ID": 15,
+        "Symbol": "ACKRUTI",
+        "Name": "Ackruti_City_Limited"
       },
       {
-        "id": "17",
-        "employee_name": "Paul Byrd",
-        "employee_salary": "725000",
-        "employee_age": "64",
-        "profile_image": ""
+        "ID": 16,
+        "Symbol": "ADANIENT",
+        "Name": "Adani_Enterprises_Limited"
       },
       {
-        "id": "18",
-        "employee_name": "Gloria Little",
-        "employee_salary": "237500",
-        "employee_age": "59",
-        "profile_image": ""
+        "ID": 17,
+        "Symbol": "ACROPETAL",
+        "Name": "Acropetal_Technologies_Limited"
       },
       {
-        "id": "19",
-        "employee_name": "Bradley Greer",
-        "employee_salary": "132000",
-        "employee_age": "41",
-        "profile_image": ""
+        "ID": 18,
+        "Symbol": "ADANIPOWER",
+        "Name": "Adani_Power_Limited"
       },
       {
-        "id": "20",
-        "employee_name": "Dai Rios",
-        "employee_salary": "217500",
-        "employee_age": "35",
-        "profile_image": ""
+        "ID": 19,
+        "Symbol": "ADFFOODS",
+        "Name": "ADF_Foods_Limited"
       },
       {
-        "id": "21",
-        "employee_name": "Jenette Caldwell",
-        "employee_salary": "345000",
-        "employee_age": "30",
-        "profile_image": ""
+        "ID": 20,
+        "Symbol": "ADHUNIK",
+        "Name": "Adhunik_Metaliks_Limited"
       },
       {
-        "id": "22",
-        "employee_name": "Yuri Berry",
-        "employee_salary": "675000",
-        "employee_age": "40",
-        "profile_image": ""
+        "ID": 21,
+        "Symbol": "ADORWELD",
+        "Name": "Ador_Welding_Limited"
       },
       {
-        "id": "23",
-        "employee_name": "Caesar Vance",
-        "employee_salary": "106450",
-        "employee_age": "21",
-        "profile_image": ""
+        "ID": 22,
+        "Symbol": "ADSL",
+        "Name": "Allied_Digital_Services_Limited"
       },
       {
-        "id": "24",
-        "employee_name": "Doris Wilder",
-        "employee_salary": "85600",
-        "employee_age": "23",
-        "profile_image": ""
+        "ID": 23,
+        "Symbol": "ADVANIHOTR",
+        "Name": "Advani_Hotels_&_Resorts_(India)_Limited"
+      },
+      {
+        "ID": 24,
+        "Symbol": "ADVANTA",
+        "Name": "Advanta_India_Limited"
+      },
+      {
+        "ID": 25,
+        "Symbol": "AEGISCHEM",
+        "Name": "Aegis_Logistics_Limited"
+      },
+      {
+        "ID": 26,
+        "Symbol": "AFL",
+        "Name": "Accel_Frontline_Limited"
+      },
+      {
+        "ID": 27,
+        "Symbol": "AFTEK",
+        "Name": "Aftek_Limited"
+      },
+      {
+        "ID": 28,
+        "Symbol": "AGCNET",
+        "Name": "AGC_Networks_Limited"
+      },
+      {
+        "ID": 29,
+        "Symbol": "AGRODUTCH",
+        "Name": "Agro_Dutch_Industries_Limited"
+      },
+      {
+        "ID": 30,
+        "Symbol": "AHLEAST",
+        "Name": "Asian_Hotels_(East)_Limited"
+      },
+      {
+        "ID": 31,
+        "Symbol": "AHLUCONT",
+        "Name": "Ahluwalia_Contracts_(India)_Limited"
+      },
+      {
+        "ID": 32,
+        "Symbol": "AHLWEST",
+        "Name": "Asian_Hotels_(West)_Limited"
+      },
+      {
+        "ID": 33,
+        "Symbol": "AHMEDFORGE",
+        "Name": "Ahmednagar_Forgings_Limited"
+      },
+      {
+        "ID": 34,
+        "Symbol": "AIAENG",
+        "Name": "AIA_Engineering_Limited"
+      },
+      {
+        "ID": 35,
+        "Symbol": "AICHAMP",
+        "Name": "AI_Champdany_Industries_Limited"
+      },
+      {
+        "ID": 36,
+        "Symbol": "AJANTPHARM",
+        "Name": "Ajanta_Pharma_Limited"
+      },
+      {
+        "ID": 37,
+        "Symbol": "AJMERA",
+        "Name": "Ajmera_Realty_&_Infra_India_Limited"
+      },
+      {
+        "ID": 38,
+        "Symbol": "AKSHOPTFBR",
+        "Name": "Aksh_Optifibre_Limited"
+      },
+      {
+        "ID": 39,
+        "Symbol": "AKZOINDIA",
+        "Name": "Akzo_Nobel_India_Limited"
+      },
+      {
+        "ID": 40,
+        "Symbol": "ALBK",
+        "Name": "Allahabad_Bank"
+      },
+      {
+        "ID": 41,
+        "Symbol": "ALCHEM",
+        "Name": "Alchemist_Limited"
+      },
+      {
+        "ID": 42,
+        "Symbol": "ALEMBICLTD",
+        "Name": "Alembic_Limited"
+      },
+      {
+        "ID": 43,
+        "Symbol": "ALFALAVAL",
+        "Name": "Alfa_Laval_(India)_Limited"
+      },
+      {
+        "ID": 44,
+        "Symbol": "ALICON",
+        "Name": "Alicon_Castalloy_Limited"
+      },
+      {
+        "ID": 45,
+        "Symbol": "ALKALI",
+        "Name": "Alkali_Metals_Limited"
+      },
+      {
+        "ID": 46,
+        "Symbol": "ALKYLAMINE",
+        "Name": "Alkyl_Amines_Chemicals_Limited"
+      },
+      {
+        "ID": 47,
+        "Symbol": "ALLCARGO",
+        "Name": "Allcargo_Global_Logistics_Limited"
+      },
+      {
+        "ID": 48,
+        "Symbol": "ALLSEC",
+        "Name": "Allsec_Technologies_Limited"
+      },
+      {
+        "ID": 49,
+        "Symbol": "ALMONDZ",
+        "Name": "Almondz_Global_Securities_Limited"
+      },
+      {
+        "ID": 50,
+        "Symbol": "ALOKTEXT",
+        "Name": "Alok_Industries_Limited"
+      },
+      {
+        "ID": 51,
+        "Symbol": "ALPHAGEO",
+        "Name": "Alphageo_(India)_Limited"
+      },
+      {
+        "ID": 52,
+        "Symbol": "AMAR",
+        "Name": "Amar_Remedies_Limited"
+      },
+      {
+        "ID": 53,
+        "Symbol": "AMARAJABAT",
+        "Name": "Amara_Raja_Batteries_Limited"
+      },
+      {
+        "ID": 54,
+        "Symbol": "ALPSINDUS",
+        "Name": "Alps_Industries_Limited"
+      },
+      {
+        "ID": 55,
+        "Symbol": "AMBIKCO",
+        "Name": "Ambika_Cotton_Mills_Limited"
+      },
+      {
+        "ID": 56,
+        "Symbol": "AMBUJACEM",
+        "Name": "Ambuja_Cements_Limited"
+      },
+      {
+        "ID": 57,
+        "Symbol": "AMDIND",
+        "Name": "AMD_Industries_Limited"
+      },
+      {
+        "ID": 58,
+        "Symbol": "AMTEKAUTO",
+        "Name": "Amtek_Auto_Limited"
+      },
+      {
+        "ID": 59,
+        "Symbol": "AMTEKINDIA",
+        "Name": "Amtek_India_Limited"
+      },
+      {
+        "ID": 60,
+        "Symbol": "ANANTRAJ",
+        "Name": "Anant_Raj_Industries_Limited"
+      },
+      {
+        "ID": 61,
+        "Symbol": "ANDHRABANK",
+        "Name": "Andhra_Bank"
+      },
+      {
+        "ID": 62,
+        "Symbol": "ANDHRSUGAR",
+        "Name": "The_Andhra_Sugars_Limited"
+      },
+      {
+        "ID": 63,
+        "Symbol": "ANGIND",
+        "Name": "ANG_Industries_Limited"
+      },
+      {
+        "ID": 64,
+        "Symbol": "ANIKINDS",
+        "Name": "Anik_Industries_Limited"
+      },
+      {
+        "ID": 65,
+        "Symbol": "ANDHRACEMT",
+        "Name": "Andhra_Cements_Limited"
+      },
+      {
+        "ID": 66,
+        "Symbol": "ANKURDRUGS",
+        "Name": "Ankur_Drugs_And_Pharma_Limited"
+      },
+      {
+        "ID": 67,
+        "Symbol": "ANSALAPI",
+        "Name": "Ansal_Properties_&_Infrastructure_Limited"
+      },
+      {
+        "ID": 68,
+        "Symbol": "ANSALHSG",
+        "Name": "Ansal_Housing_and_Construction_Limited"
+      },
+      {
+        "ID": 69,
+        "Symbol": "ANTGRAPHIC",
+        "Name": "Antarctica_Limited"
+      },
+      {
+        "ID": 70,
+        "Symbol": "APARINDS",
+        "Name": "Apar_Industries_Limited"
+      },
+      {
+        "ID": 71,
+        "Symbol": "APCOTEXIND",
+        "Name": "Apcotex_Industries_Limited"
+      },
+      {
+        "ID": 72,
+        "Symbol": "APIL",
+        "Name": "Alstom_Projects_India_Limited"
+      },
+      {
+        "ID": 73,
+        "Symbol": "APOLLOHOSP",
+        "Name": "Apollo_Hospitals_Enterprise_Limited"
+      },
+      {
+        "ID": 74,
+        "Symbol": "APOLLOTYRE",
+        "Name": "Apollo_Tyres_Limited"
+      },
+      {
+        "ID": 75,
+        "Symbol": "APPAPER",
+        "Name": "The_Andhra_Pradesh_Paper_Mills_Limited"
+      },
+      {
+        "ID": 76,
+        "Symbol": "APTECHT",
+        "Name": "Aptech_Limited"
+      },
+      {
+        "ID": 77,
+        "Symbol": "AQUA",
+        "Name": "Aqua_Logistics_Limited"
+      },
+      {
+        "ID": 78,
+        "Symbol": "ARCHIDPLY",
+        "Name": "Archidply_Industries_Limited"
+      },
+      {
+        "ID": 79,
+        "Symbol": "ARCHIES",
+        "Name": "Archies_Limited"
+      },
+      {
+        "ID": 80,
+        "Symbol": "AREVAT&D",
+        "Name": "Areva_T&D_India_Limited"
+      },
+      {
+        "ID": 81,
+        "Symbol": "ARIES",
+        "Name": "Aries_Agro_Limited"
+      },
+      {
+        "ID": 82,
+        "Symbol": "ARIHANT",
+        "Name": "Arihant_Foundations_&_Housing_Limited"
+      },
+      {
+        "ID": 83,
+        "Symbol": "ARL",
+        "Name": "Arvind_Remedies_Limited"
+      },
+      {
+        "ID": 84,
+        "Symbol": "AROGRANITE",
+        "Name": "Aro_Granite_Industries_Limited"
+      },
+      {
+        "ID": 85,
+        "Symbol": "ARROWTEX",
+        "Name": "Arrow_Textiles_Limited"
+      },
+      {
+        "ID": 86,
+        "Symbol": "ARSHIYA",
+        "Name": "Arshiya_International_Limited"
+      },
+      {
+        "ID": 87,
+        "Symbol": "ARSSINFRA",
+        "Name": "ARSS_Infrastructure_Projects_Limited"
+      },
+      {
+        "ID": 88,
+        "Symbol": "ARVIND",
+        "Name": "Arvind_Limited"
+      },
+      {
+        "ID": 89,
+        "Symbol": "ASAHIINDIA",
+        "Name": "Asahi_India_Glass_Limited"
+      },
+      {
+        "ID": 90,
+        "Symbol": "ASAL",
+        "Name": "Automotive_Stampings_and_Assemblies_Limited"
+      },
+      {
+        "ID": 91,
+        "Symbol": "ASHAPURMIN",
+        "Name": "Ashapura_Minechem_Limited"
+      },
+      {
+        "ID": 92,
+        "Symbol": "ASHCONIUL",
+        "Name": "Ashco_Niulab_Industries_Limited"
+      },
+      {
+        "ID": 93,
+        "Symbol": "ASHIANA",
+        "Name": "Ashiana_Housing_Limited"
+      },
+      {
+        "ID": 94,
+        "Symbol": "ASHIMASYN",
+        "Name": "Ashima_Limited"
+      },
+      {
+        "ID": 95,
+        "Symbol": "ASHOKA",
+        "Name": "Ashoka_Buildcon_Limited"
+      },
+      {
+        "ID": 96,
+        "Symbol": "ASHOKLEY",
+        "Name": "Ashok_Leyland_Limited"
+      },
+      {
+        "ID": 97,
+        "Symbol": "ASIANELEC",
+        "Name": "Asian_Electronics_Limited"
+      },
+      {
+        "ID": 98,
+        "Symbol": "ASIANHOTNR",
+        "Name": "Asian_Hotels_(North)_Limited"
+      },
+      {
+        "ID": 99,
+        "Symbol": "ASIANPAINT",
+        "Name": "Asian_Paints_Limited"
+      },
+      {
+        "ID": 100,
+        "Symbol": "ASIANTILES",
+        "Name": "Asian_Granito_India_Limited"
+      },
+      {
+        "ID": 101,
+        "Symbol": "ASIL",
+        "Name": "Amit_Spinning_Industries_Limited"
+      },
+      {
+        "ID": 102,
+        "Symbol": "ASSAMCO",
+        "Name": "Assam_Company_India_Limited"
+      },
+      {
+        "ID": 103,
+        "Symbol": "ASTEC",
+        "Name": "Astec_LifeSciences_Limited"
+      },
+      {
+        "ID": 104,
+        "Symbol": "ASTERSILI",
+        "Name": "Aster_Silicates_Limited"
+      },
+      {
+        "ID": 105,
+        "Symbol": "ASTRAL",
+        "Name": "Astral_Poly_Technik_Limited"
+      },
+      {
+        "ID": 106,
+        "Symbol": "ASTRAMICRO",
+        "Name": "Astra_Microwave_Products_Limited"
+      },
+      {
+        "ID": 107,
+        "Symbol": "ASTRAZEN",
+        "Name": "AstraZeneca_Pharma_India_Limited"
+      },
+      {
+        "ID": 108,
+        "Symbol": "ATFL",
+        "Name": "Agro_Tech_Foods_Limited"
+      },
+      {
+        "ID": 109,
+        "Symbol": "ATLANTA",
+        "Name": "Atlanta_Limited"
+      },
+      {
+        "ID": 110,
+        "Symbol": "ATLASCYCLE",
+        "Name": "Atlas_Cycles_(Haryana)_Limited"
+      },
+      {
+        "ID": 111,
+        "Symbol": "ATNINTER",
+        "Name": "ATN_International_Limited"
+      },
+      {
+        "ID": 112,
+        "Symbol": "ATUL",
+        "Name": "Atul_Limited"
+      },
+      {
+        "ID": 113,
+        "Symbol": "AURIONPRO",
+        "Name": "Aurionpro_Solutions_Limited"
+      },
+      {
+        "ID": 114,
+        "Symbol": "AUROPHARMA",
+        "Name": "Aurobindo_Pharma_Limited"
+      },
+      {
+        "ID": 115,
+        "Symbol": "AUSOMENT",
+        "Name": "Ausom_Enterprise_Limited"
+      },
+      {
+        "ID": 116,
+        "Symbol": "AUSTRAL",
+        "Name": "Austral_Coke_&_Projects_Limited"
+      },
+      {
+        "ID": 117,
+        "Symbol": "AUTOAXLES",
+        "Name": "Automotive_Axles_Limited"
+      },
+      {
+        "ID": 118,
+        "Symbol": "AUTOIND",
+        "Name": "Autoline_Industries_Limited"
+      },
+      {
+        "ID": 119,
+        "Symbol": "AUTOLITIND",
+        "Name": "Autolite_(India)_Limited"
+      },
+      {
+        "ID": 120,
+        "Symbol": "AVANTI",
+        "Name": "Avanti_Feeds_Limited"
+      },
+      {
+        "ID": 121,
+        "Symbol": "AVENTIS",
+        "Name": "Aventis_Pharma_Limited"
+      },
+      {
+        "ID": 122,
+        "Symbol": "AVTNPL",
+        "Name": "AVT_Natural_Products_Limited"
+      },
+      {
+        "ID": 123,
+        "Symbol": "AXISBANK",
+        "Name": "Axis_Bank_Limited"
+      },
+      {
+        "ID": 124,
+        "Symbol": "AXIS-IT&T",
+        "Name": "Axis-IT&T_Limited"
+      },
+      {
+        "ID": 125,
+        "Symbol": "BAGFILMS",
+        "Name": "B.A.G_Films_and_Media_Limited"
+      },
+      {
+        "ID": 126,
+        "Symbol": "BAJAJ-AUTO",
+        "Name": "Bajaj_Auto_Limited"
+      },
+      {
+        "ID": 127,
+        "Symbol": "BAJAJCORP",
+        "Name": "Bajaj_Corp_Limited"
+      },
+      {
+        "ID": 128,
+        "Symbol": "BAJAJELEC",
+        "Name": "Bajaj_Electricals_Limited"
+      },
+      {
+        "ID": 129,
+        "Symbol": "BAJAJFINSV",
+        "Name": "Bajaj_Finserv_Limited"
+      },
+      {
+        "ID": 130,
+        "Symbol": "BAJAJHIND",
+        "Name": "Bajaj_Hindusthan_Limited"
+      },
+      {
+        "ID": 131,
+        "Symbol": "BAJAJHLDNG",
+        "Name": "Bajaj_Holdings_&_Investment_Limited"
+      },
+      {
+        "ID": 132,
+        "Symbol": "BAJFINANCE",
+        "Name": "Bajaj_Finance_Limited"
+      },
+      {
+        "ID": 133,
+        "Symbol": "BALAJITELE",
+        "Name": "Balaji_Telefilms_Limited"
+      },
+      {
+        "ID": 134,
+        "Symbol": "BALAMINES",
+        "Name": "Balaji_Amines_Limited"
+      },
+      {
+        "ID": 135,
+        "Symbol": "BALKRISIND",
+        "Name": "Balkrishna_Industries_Limited"
+      },
+      {
+        "ID": 136,
+        "Symbol": "BALLARPUR",
+        "Name": "Ballarpur_Industries_Limited"
+      },
+      {
+        "ID": 137,
+        "Symbol": "BALMLAWRIE",
+        "Name": "Balmer_Lawrie_&_Company_Limited"
+      },
+      {
+        "ID": 138,
+        "Symbol": "BALPHARMA",
+        "Name": "Bal_Pharma_Limited"
+      },
+      {
+        "ID": 139,
+        "Symbol": "BALRAMCHIN",
+        "Name": "Balrampur_Chini_Mills_Limited"
+      },
+      {
+        "ID": 140,
+        "Symbol": "BANARISUG",
+        "Name": "Bannari_Amman_Sugars_Limited"
+      },
+      {
+        "ID": 141,
+        "Symbol": "BANCOINDIA",
+        "Name": "Banco_Products_(I)_Limited"
+      },
+      {
+        "ID": 142,
+        "Symbol": "BANG",
+        "Name": "Bang_Overseas_Limited"
+      },
+      {
+        "ID": 143,
+        "Symbol": "BANKBARODA",
+        "Name": "Bank_of_Baroda"
+      },
+      {
+        "ID": 144,
+        "Symbol": "BANKINDIA",
+        "Name": "Bank_of_India"
+      },
+      {
+        "ID": 145,
+        "Symbol": "BANSWRAS",
+        "Name": "Banswara_Syntex_Limited"
+      },
+      {
+        "ID": 146,
+        "Symbol": "BARTRONICS",
+        "Name": "Bartronics_India_Limited"
+      },
+      {
+        "ID": 147,
+        "Symbol": "BASF",
+        "Name": "BASF_India_Limited"
+      },
+      {
+        "ID": 148,
+        "Symbol": "BASML",
+        "Name": "Bannari_Amman_Spinning_Mills_Limited"
+      },
+      {
+        "ID": 149,
+        "Symbol": "BATAINDIA",
+        "Name": "Bata_India_Limited"
+      },
+      {
+        "ID": 150,
+        "Symbol": "BATLIBOI",
+        "Name": "Batliboi_Limited"
+      },
+      {
+        "ID": 151,
+        "Symbol": "BBL",
+        "Name": "Bharat_Bijlee_Limited"
+      },
+      {
+        "ID": 152,
+        "Symbol": "BBTC",
+        "Name": "Bombay_Burmah_Trading_Corporation_Limited"
+      },
+      {
+        "ID": 153,
+        "Symbol": "BEDMUTHA",
+        "Name": "Bedmutha_Industries_Limited"
+      },
+      {
+        "ID": 154,
+        "Symbol": "BEL",
+        "Name": "Bharat_Electronics_Limited"
+      },
+      {
+        "ID": 155,
+        "Symbol": "BELLCERATL",
+        "Name": "Bell_Ceramics_Limited"
+      },
+      {
+        "ID": 156,
+        "Symbol": "BEML",
+        "Name": "BEML_Limited"
+      },
+      {
+        "ID": 157,
+        "Symbol": "BEPL",
+        "Name": "Bhansali_Engineering_Polymers_Limited"
+      },
+      {
+        "ID": 158,
+        "Symbol": "BERGEPAINT",
+        "Name": "Berger_Paints_(I)_Limited"
+      },
+      {
+        "ID": 159,
+        "Symbol": "BFINVEST",
+        "Name": "BF_Investment_Limited"
+      },
+      {
+        "ID": 160,
+        "Symbol": "BFUTILITIE",
+        "Name": "BF_Utilities_Limited"
+      },
+      {
+        "ID": 161,
+        "Symbol": "BGRENERGY",
+        "Name": "BGR_Energy_Systems_Limited"
+      },
+      {
+        "ID": 162,
+        "Symbol": "BHAGWATIHO",
+        "Name": "Bhagwati_Banquets_and_Hotels_Limited"
+      },
+      {
+        "ID": 163,
+        "Symbol": "BHAGYNAGAR",
+        "Name": "Bhagyanagar_India_Limited"
+      },
+      {
+        "ID": 164,
+        "Symbol": "BHARATFORG",
+        "Name": "Bharat_Forge_Limited"
+      },
+      {
+        "ID": 165,
+        "Symbol": "BHARATGEAR",
+        "Name": "Bharat_Gears_Limited"
+      },
+      {
+        "ID": 166,
+        "Symbol": "BHARATRAS",
+        "Name": "Bharat_Rasayan_Limited"
+      },
+      {
+        "ID": 167,
+        "Symbol": "BHARTIARTL",
+        "Name": "Bharti_Airtel_Limited"
+      },
+      {
+        "ID": 168,
+        "Symbol": "BHARTISHIP",
+        "Name": "Bharati_Shipyard_Limited"
+      },
+      {
+        "ID": 169,
+        "Symbol": "BHEL",
+        "Name": "Bharat_Heavy_Electricals_Limited"
+      },
+      {
+        "ID": 170,
+        "Symbol": "BHUSANSTL",
+        "Name": "Bhushan_Steel_Limited"
+      },
+      {
+        "ID": 171,
+        "Symbol": "BIL",
+        "Name": "Bhartiya_International_Limited"
+      },
+      {
+        "ID": 172,
+        "Symbol": "BILPOWER",
+        "Name": "Bilpower_Limited"
+      },
+      {
+        "ID": 173,
+        "Symbol": "BINANIIND",
+        "Name": "Binani_Industries_Limited"
+      },
+      {
+        "ID": 174,
+        "Symbol": "BINDALAGRO",
+        "Name": "Oswal_Chemicals_&_Fertilizers_Limited"
+      },
+      {
+        "ID": 175,
+        "Symbol": "BIOCON",
+        "Name": "Biocon_Limited"
+      },
+      {
+        "ID": 176,
+        "Symbol": "BIRLACORPN",
+        "Name": "Birla_Corporation_Limited"
+      },
+      {
+        "ID": 177,
+        "Symbol": "BIRLACOT",
+        "Name": "Birla_Cotsyn_(India)_Limited"
+      },
+      {
+        "ID": 178,
+        "Symbol": "BIRLAERIC",
+        "Name": "Birla_Ericsson_Optical_Limited"
+      },
+      {
+        "ID": 179,
+        "Symbol": "BIRLAMONEY",
+        "Name": "Aditya_Birla_Money_Limited"
+      },
+      {
+        "ID": 180,
+        "Symbol": "BIRLAPOWER",
+        "Name": "Birla_Power_Solutions_Limited"
+      },
+      {
+        "ID": 181,
+        "Symbol": "BLBLIMITED",
+        "Name": "BLB_Limited"
+      },
+      {
+        "ID": 182,
+        "Symbol": "BLISSGVS",
+        "Name": "Bliss_GVS_Pharma_Limited"
+      },
+      {
+        "ID": 183,
+        "Symbol": "BLKASHYAP",
+        "Name": "B._L._Kashyap_and_Sons_Limited"
+      },
+      {
+        "ID": 184,
+        "Symbol": "BLUECHIP",
+        "Name": "Blue_Chip_India_Limited"
+      },
+      {
+        "ID": 185,
+        "Symbol": "BLUECOAST",
+        "Name": "Blue_Coast_Hotels_and_Resorts_Limited"
+      },
+      {
+        "ID": 186,
+        "Symbol": "BLUEDART",
+        "Name": "Blue_Dart_Express_Limited"
+      },
+      {
+        "ID": 187,
+        "Symbol": "BLUESTARCO",
+        "Name": "Blue_Star_Limited"
+      },
+      {
+        "ID": 188,
+        "Symbol": "BLUESTINFO",
+        "Name": "Blue_Star_Infotech_Limited"
+      },
+      {
+        "ID": 189,
+        "Symbol": "BOC",
+        "Name": "BOC_India_Limited"
+      },
+      {
+        "ID": 190,
+        "Symbol": "BOMDYEING",
+        "Name": "Bombay_Dyeing_&_Mfg_Company_Limited"
+      },
+      {
+        "ID": 191,
+        "Symbol": "BOSCHLTD",
+        "Name": "Bosch_Limited"
+      },
+      {
+        "ID": 192,
+        "Symbol": "BPCL",
+        "Name": "Bharat_Petroleum_Corporation_Limited"
+      },
+      {
+        "ID": 193,
+        "Symbol": "BPL",
+        "Name": "BPL_Limited"
+      },
+      {
+        "ID": 194,
+        "Symbol": "BRANDHOUSE",
+        "Name": "Brandhouse_Retails_Limited"
+      },
+      {
+        "ID": 195,
+        "Symbol": "BRFL",
+        "Name": "Bombay_Rayon_Fashions_Limited"
+      },
+      {
+        "ID": 196,
+        "Symbol": "BRIGADE",
+        "Name": "Brigade_Enterprises_Limited"
+      },
+      {
+        "ID": 197,
+        "Symbol": "BRITANNIA",
+        "Name": "Britannia_Industries_Limited"
+      },
+      {
+        "ID": 198,
+        "Symbol": "BROADCAST",
+        "Name": "Broadcast_Initiatives_Limited"
+      },
+      {
+        "ID": 199,
+        "Symbol": "BSELINFRA",
+        "Name": "BSEL_Infrastructure_Realty_Limited"
+      },
+      {
+        "ID": 200,
+        "Symbol": "BSL",
+        "Name": "BSL_Limited"
+      },
+      {
+        "ID": 201,
+        "Symbol": "BSTRANSCOM",
+        "Name": "BS_TransComm_Limited"
+      },
+      {
+        "ID": 202,
+        "Symbol": "BURNPUR",
+        "Name": "Burnpur_Cement_Limited"
+      },
+      {
+        "ID": 203,
+        "Symbol": "BVCL",
+        "Name": "Barak_Valley_Cements_Limited"
+      },
+      {
+        "ID": 204,
+        "Symbol": "CADILAHC",
+        "Name": "Cadila_Healthcare_Limited"
+      },
+      {
+        "ID": 205,
+        "Symbol": "CAIRN",
+        "Name": "Cairn_India_Limited"
+      },
+      {
+        "ID": 206,
+        "Symbol": "CALSOFT",
+        "Name": "California_Software_Company_Limited"
+      },
+      {
+        "ID": 207,
+        "Symbol": "CAMBRIDGE",
+        "Name": "Cambridge_Solutions_Limited"
+      },
+      {
+        "ID": 208,
+        "Symbol": "CAMLIN",
+        "Name": "Camlin_Limited"
+      },
+      {
+        "ID": 209,
+        "Symbol": "CANBK",
+        "Name": "Canara_Bank"
+      },
+      {
+        "ID": 210,
+        "Symbol": "CANDC",
+        "Name": "C_&_C_Constructions_Limited"
+      },
+      {
+        "ID": 211,
+        "Symbol": "CANFINHOME",
+        "Name": "Can_Fin_Homes_Limited"
+      },
+      {
+        "ID": 212,
+        "Symbol": "CANTABIL",
+        "Name": "Cantabil_Retail_India_Limited"
+      },
+      {
+        "ID": 213,
+        "Symbol": "CARBORUNIV",
+        "Name": "Carborundum_Universal_Limited"
+      },
+      {
+        "ID": 214,
+        "Symbol": "CAROLINFO",
+        "Name": "Carol_Info_Services_Limited"
+      },
+      {
+        "ID": 215,
+        "Symbol": "CASTROL",
+        "Name": "Castrol_India_Limited"
+      },
+      {
+        "ID": 216,
+        "Symbol": "CCCL",
+        "Name": "Consolidated_Construction_Consortium_Limited"
+      },
+      {
+        "ID": 217,
+        "Symbol": "CCL",
+        "Name": "CCL_Products_(India)_Limited"
+      },
+      {
+        "ID": 218,
+        "Symbol": "CEATLTD",
+        "Name": "CEAT_Limited"
+      },
+      {
+        "ID": 219,
+        "Symbol": "CEBBCO",
+        "Name": "Commercial_Engineers_&_Body_Builders_Co_Limited"
+      },
+      {
+        "ID": 220,
+        "Symbol": "CELESTIAL",
+        "Name": "Celestial_Biolabs_Limited"
+      },
+      {
+        "ID": 221,
+        "Symbol": "CENTENKA",
+        "Name": "Century_Enka_Limited"
+      },
+      {
+        "ID": 222,
+        "Symbol": "CENTEXT",
+        "Name": "Century_Extrusions_Limited"
+      },
+      {
+        "ID": 223,
+        "Symbol": "CENTRALBK",
+        "Name": "Central_Bank_of_India"
+      },
+      {
+        "ID": 224,
+        "Symbol": "CENTUM",
+        "Name": "Centum_Electronics_Limited"
+      },
+      {
+        "ID": 225,
+        "Symbol": "CENTURYPLY",
+        "Name": "Century_Plyboards_(India)_Limited"
+      },
+      {
+        "ID": 226,
+        "Symbol": "CENTURYTEX",
+        "Name": "Century_Textiles_&_Industries_Limited"
+      },
+      {
+        "ID": 227,
+        "Symbol": "CERA",
+        "Name": "Cera_Sanitaryware_Limited"
+      },
+      {
+        "ID": 228,
+        "Symbol": "CESC",
+        "Name": "CESC_Limited"
+      },
+      {
+        "ID": 229,
+        "Symbol": "CHAMBLFERT",
+        "Name": "Chambal_Fertilizers_&_Chemicals_Limited"
+      },
+      {
+        "ID": 230,
+        "Symbol": "CHEMFALKAL",
+        "Name": "Chemfab_Alkalis_Limited"
+      },
+      {
+        "ID": 231,
+        "Symbol": "CHEMPLAST",
+        "Name": "Chemplast_Sanmar_Limited"
+      },
+      {
+        "ID": 232,
+        "Symbol": "CHENNPETRO",
+        "Name": "Chennai_Petroleum_Corporation_Limited"
+      },
+      {
+        "ID": 233,
+        "Symbol": "CHESLINTEX",
+        "Name": "Cheslind_Textiles_Limited"
+      },
+      {
+        "ID": 234,
+        "Symbol": "CHETTINAD",
+        "Name": "Chettinad_Cement_Corporation_Limited"
+      },
+      {
+        "ID": 235,
+        "Symbol": "CHOLAFIN",
+        "Name": "Cholamandalam_Investment_and_Finance_Company_Limited"
+      },
+      {
+        "ID": 236,
+        "Symbol": "CILNOVA",
+        "Name": "CIL_Nova_Petrochemicals_Limited"
+      },
+      {
+        "ID": 237,
+        "Symbol": "CINEMAX",
+        "Name": "Cinemax_India_Limited"
+      },
+      {
+        "ID": 238,
+        "Symbol": "CINEVISTA",
+        "Name": "Cinevistaas_Limited"
+      },
+      {
+        "ID": 239,
+        "Symbol": "CIPLA",
+        "Name": "Cipla_Limited"
+      },
+      {
+        "ID": 240,
+        "Symbol": "CLASSIC",
+        "Name": "Classic_Diamonds_(India)_Limited"
+      },
+      {
+        "ID": 241,
+        "Symbol": "CLNINDIA",
+        "Name": "Clariant_Chemicals_(India)_Limited"
+      },
+      {
+        "ID": 242,
+        "Symbol": "CLUTCHAUTO",
+        "Name": "Clutch_Auto_Limited"
+      },
+      {
+        "ID": 243,
+        "Symbol": "CMAHENDRA",
+        "Name": "C._Mahendra_Exports_Limited"
+      },
+      {
+        "ID": 244,
+        "Symbol": "CMC",
+        "Name": "CMC_Limited"
+      },
+      {
+        "ID": 245,
+        "Symbol": "COALINDIA",
+        "Name": "Coal_India_Limited"
+      },
+      {
+        "ID": 246,
+        "Symbol": "COLPAL",
+        "Name": "Colgate_Palmolive_(India)_Limited"
+      },
+      {
+        "ID": 247,
+        "Symbol": "CONCOR",
+        "Name": "Container_Corporation_of_India_Limited"
+      },
+      {
+        "ID": 248,
+        "Symbol": "CONSOFINVT",
+        "Name": "Consolidated_Finvest_&_Holdings_Limited"
+      },
+      {
+        "ID": 249,
+        "Symbol": "CORAL-HUB",
+        "Name": "Coral_Hub_Limited"
+      },
+      {
+        "ID": 250,
+        "Symbol": "CORDSCABLE",
+        "Name": "Cords_Cable_Industries_Limited"
+      },
+      {
+        "ID": 251,
+        "Symbol": "COREPROTEC",
+        "Name": "Core_Projects_and_Technologies_Limited"
+      },
+      {
+        "ID": 252,
+        "Symbol": "COROMANDEL",
+        "Name": "Coromandel_International_Limited"
+      },
+      {
+        "ID": 253,
+        "Symbol": "CORPBANK",
+        "Name": "Corporation_Bank"
+      },
+      {
+        "ID": 254,
+        "Symbol": "COSMOFILMS",
+        "Name": "Cosmo_Films_Limited"
+      },
+      {
+        "ID": 255,
+        "Symbol": "COX&KINGS",
+        "Name": "Cox_&_Kings_Limited"
+      },
+      {
+        "ID": 256,
+        "Symbol": "CPIL",
+        "Name": "Career_Point_Infosystems_Limited"
+      },
+      {
+        "ID": 257,
+        "Symbol": "CREATIVEYE",
+        "Name": "Creative_Eye_Limited"
+      },
+      {
+        "ID": 258,
+        "Symbol": "CRESTANI",
+        "Name": "Crest_Animation_Studios_Limited"
+      },
+      {
+        "ID": 259,
+        "Symbol": "CREWBOS",
+        "Name": "Crew_B.O.S._Products_Limited"
+      },
+      {
+        "ID": 260,
+        "Symbol": "CRISIL",
+        "Name": "CRISIL_Limited"
+      },
+      {
+        "ID": 261,
+        "Symbol": "CROMPGREAV",
+        "Name": "Crompton_Greaves_Limited"
+      },
+      {
+        "ID": 262,
+        "Symbol": "CRONIMET",
+        "Name": "Cronimet_Alloys_India_Limited"
+      },
+      {
+        "ID": 263,
+        "Symbol": "CTE",
+        "Name": "Cambridge_Technology_Enterprises_Limited"
+      },
+      {
+        "ID": 264,
+        "Symbol": "CUB",
+        "Name": "City_Union_Bank_Limited"
+      },
+      {
+        "ID": 265,
+        "Symbol": "CUBEXTUB",
+        "Name": "Cubex_Tubings_Limited"
+      },
+      {
+        "ID": 266,
+        "Symbol": "CUMMINSIND",
+        "Name": "Cummins_India_Limited"
+      },
+      {
+        "ID": 267,
+        "Symbol": "CURATECH",
+        "Name": "Cura_Technologies_Limited"
+      },
+      {
+        "ID": 268,
+        "Symbol": "CYBERMEDIA",
+        "Name": "Cyber_Media_(India)_Limited"
+      },
+      {
+        "ID": 269,
+        "Symbol": "CYBERTECH",
+        "Name": "Cybertech_Systems_And_Software_Limited"
+      },
+      {
+        "ID": 270,
+        "Symbol": "DAAWAT",
+        "Name": "LT_Foods_Limited"
+      },
+      {
+        "ID": 271,
+        "Symbol": "DABUR",
+        "Name": "Dabur_India_Limited"
+      },
+      {
+        "ID": 272,
+        "Symbol": "DALMIASUG",
+        "Name": "Dalmia_Bharat_Sugar_and_Industries_Limited"
+      },
+      {
+        "ID": 273,
+        "Symbol": "DATAMATICS",
+        "Name": "Datamatics_Global_Services_Limited"
+      },
+      {
+        "ID": 274,
+        "Symbol": "DBCORP",
+        "Name": "D.B.Corp_Limited"
+      },
+      {
+        "ID": 275,
+        "Symbol": "DBREALTY",
+        "Name": "D_B_Realty_Limited"
+      },
+      {
+        "ID": 276,
+        "Symbol": "DCB",
+        "Name": "Development_Credit_Bank_Limited"
+      },
+      {
+        "ID": 277,
+        "Symbol": "DCHL",
+        "Name": "Deccan_Chronicle_Holdings_Limited"
+      },
+      {
+        "ID": 278,
+        "Symbol": "DCM",
+        "Name": "DCM_Limited"
+      },
+      {
+        "ID": 279,
+        "Symbol": "DCMSRMCONS",
+        "Name": "DCM_Shriram_Consolidated_Limited"
+      },
+      {
+        "ID": 280,
+        "Symbol": "DCW",
+        "Name": "DCW_Limited"
+      },
+      {
+        "ID": 281,
+        "Symbol": "DECCANCE",
+        "Name": "Deccan_Cements_Limited"
+      },
+      {
+        "ID": 282,
+        "Symbol": "DECOLIGHT",
+        "Name": "Decolight_Ceramics_Limited"
+      },
+      {
+        "ID": 283,
+        "Symbol": "DEEPAKFERT",
+        "Name": "Deepak_Fertilizers_and_Petrochemicals_Corporation_Limited"
+      },
+      {
+        "ID": 284,
+        "Symbol": "DEEPAKNTR",
+        "Name": "Deepak_Nitrite_Limited"
+      },
+      {
+        "ID": 285,
+        "Symbol": "DEEPIND",
+        "Name": "Deep_Industries_Limited"
+      },
+      {
+        "ID": 286,
+        "Symbol": "DELTACORP",
+        "Name": "Delta_Corp_Limited"
+      },
+      {
+        "ID": 287,
+        "Symbol": "DELTAMAGNT",
+        "Name": "Delta_Magnets_Limited"
+      },
+      {
+        "ID": 288,
+        "Symbol": "DEN",
+        "Name": "Den_Networks_Limited"
+      },
+      {
+        "ID": 289,
+        "Symbol": "DENABANK",
+        "Name": "Dena_Bank"
+      },
+      {
+        "ID": 290,
+        "Symbol": "DENORA",
+        "Name": "De_Nora_India_Limited"
+      },
+      {
+        "ID": 291,
+        "Symbol": "DEWANHOUS",
+        "Name": "Dewan_Housing_Finance_Corporation_Limited"
+      },
+      {
+        "ID": 292,
+        "Symbol": "DHAMPURSUG",
+        "Name": "The_Dhampur_Sugar_Mills_Limited"
+      },
+      {
+        "ID": 293,
+        "Symbol": "DHANBANK",
+        "Name": "Dhanlaxmi_Bank_Limited"
+      },
+      {
+        "ID": 294,
+        "Symbol": "DHANUKA",
+        "Name": "Dhanuka_Agritech_Limited"
+      },
+      {
+        "ID": 295,
+        "Symbol": "DHANUS",
+        "Name": "Dhanus_Technologies_Limited"
+      },
+      {
+        "ID": 296,
+        "Symbol": "DHARSUGAR",
+        "Name": "Dharani_Sugars_&_Chemicals_Limited"
+      },
+      {
+        "ID": 297,
+        "Symbol": "DHUNINV",
+        "Name": "Dhunseri_Investments_Limited"
+      },
+      {
+        "ID": 298,
+        "Symbol": "DIAPOWER",
+        "Name": "Diamond_Power_Infra_Ltd"
+      },
+      {
+        "ID": 299,
+        "Symbol": "DICIND",
+        "Name": "DIC_India_Limited"
+      },
+      {
+        "ID": 300,
+        "Symbol": "DIGJAM",
+        "Name": "Digjam_Limited"
+      },
+      {
+        "ID": 301,
+        "Symbol": "DISHMAN",
+        "Name": "Dishman_Pharmaceuticals_and_Chemicals"
+      },
+      {
+        "ID": 302,
+        "Symbol": "DISHTV",
+        "Name": "Dish_TV_India_Limited"
+      },
+      {
+        "ID": 303,
+        "Symbol": "DIVISLAB",
+        "Name": "Divi's_Laboratories_Limited"
+      },
+      {
+        "ID": 304,
+        "Symbol": "DLF",
+        "Name": "DLF_Limited"
+      },
+      {
+        "ID": 305,
+        "Symbol": "DLINKINDIA",
+        "Name": "D-Link_(India)_Limited"
+      },
+      {
+        "ID": 306,
+        "Symbol": "DOLPHINOFF",
+        "Name": "Dolphin_Offshore_Enterprises_(India)_Limited"
+      },
+      {
+        "ID": 307,
+        "Symbol": "DONEAR",
+        "Name": "Donear_Industries_Limited"
+      },
+      {
+        "ID": 308,
+        "Symbol": "DPSCLTD",
+        "Name": "DPSC_Limited"
+      },
+      {
+        "ID": 309,
+        "Symbol": "DPTL",
+        "Name": "Dhunseri_Petrochem_&_Tea_Limited"
+      },
+      {
+        "ID": 310,
+        "Symbol": "DQE",
+        "Name": "DQ_Entertainment_(International)_Limited"
+      },
+      {
+        "ID": 311,
+        "Symbol": "DREDGECORP",
+        "Name": "Dredging_Corporation_of_India_Limited"
+      },
+      {
+        "ID": 312,
+        "Symbol": "DRREDDY",
+        "Name": "Dr._Reddy's_Laboratories_Limited"
+      },
+      {
+        "ID": 313,
+        "Symbol": "DSKULKARNI",
+        "Name": "DS_Kulkarni_Developers_Limited"
+      },
+      {
+        "ID": 314,
+        "Symbol": "DUNCANSIND",
+        "Name": "Duncans_Industries_Limited"
+      },
+      {
+        "ID": 315,
+        "Symbol": "DWARKESH",
+        "Name": "Dwarikesh_Sugar_Industries_Limited"
+      },
+      {
+        "ID": 316,
+        "Symbol": "DYNAMATECH",
+        "Name": "Dynamatic_Technologies_Limited"
+      },
+      {
+        "ID": 317,
+        "Symbol": "DYNASYS",
+        "Name": "Dynacons_Systems_&_Solutions_Limited"
+      },
+      {
+        "ID": 318,
+        "Symbol": "EASTSILK",
+        "Name": "Eastern_Silk_Industries_Limited"
+      },
+      {
+        "ID": 319,
+        "Symbol": "EASUNREYRL",
+        "Name": "Easun_Reyrolle_Limited"
+      },
+      {
+        "ID": 320,
+        "Symbol": "ECEIND",
+        "Name": "ECE_Industries_Limited"
+      },
+      {
+        "ID": 321,
+        "Symbol": "ECLERX",
+        "Name": "eClerx_Services_Limited"
+      },
+      {
+        "ID": 322,
+        "Symbol": "EDELWEISS",
+        "Name": "Edelweiss_Capital_Limited"
+      },
+      {
+        "ID": 323,
+        "Symbol": "EDL",
+        "Name": "Empee_Distilleries_Limited"
+      },
+      {
+        "ID": 324,
+        "Symbol": "EDSERV",
+        "Name": "Edserv_Softsystems_Limited"
+      },
+      {
+        "ID": 325,
+        "Symbol": "EDUCOMP",
+        "Name": "Educomp_Solutions_Limited"
+      },
+      {
+        "ID": 326,
+        "Symbol": "EICHERMOT",
+        "Name": "Eicher_Motors_Limited"
+      },
+      {
+        "ID": 327,
+        "Symbol": "EIDPARRY",
+        "Name": "EID_Parry_India_Limited"
+      },
+      {
+        "ID": 328,
+        "Symbol": "EIHAHOTELS",
+        "Name": "EIH_Associated_Hotels_Limited"
+      },
+      {
+        "ID": 329,
+        "Symbol": "EIHOTEL",
+        "Name": "EIH_Limited"
+      },
+      {
+        "ID": 330,
+        "Symbol": "EIMCOELECO",
+        "Name": "Eimco_Elecon_(India)_Limited"
+      },
+      {
+        "ID": 331,
+        "Symbol": "EKC",
+        "Name": "Everest_Kanto_Cylinder_Limited"
+      },
+      {
+        "ID": 332,
+        "Symbol": "ELDERPHARM",
+        "Name": "Elder_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 333,
+        "Symbol": "ELECON",
+        "Name": "Elecon_Engineering_Company_Limited"
+      },
+      {
+        "ID": 334,
+        "Symbol": "ELECTCAST",
+        "Name": "Electrosteel_Castings_Limited"
+      },
+      {
+        "ID": 335,
+        "Symbol": "ELECTHERM",
+        "Name": "Electrotherm_(India)_Limited"
+      },
+      {
+        "ID": 336,
+        "Symbol": "ELGIEQUIP",
+        "Name": "Elgi_Equipments_Limited"
+      },
+      {
+        "ID": 337,
+        "Symbol": "EMAMIINFRA",
+        "Name": "Emami_Infrastructure_Limited"
+      },
+      {
+        "ID": 338,
+        "Symbol": "EMAMILTD",
+        "Name": "Emami_Limited"
+      },
+      {
+        "ID": 339,
+        "Symbol": "EMCO",
+        "Name": "Emco_Limited"
+      },
+      {
+        "ID": 340,
+        "Symbol": "EMKAY",
+        "Name": "Emkay_Global_Financial_Services_Limited"
+      },
+      {
+        "ID": 341,
+        "Symbol": "EMMBI",
+        "Name": "Emmbi_Polyarns_Limited"
+      },
+      {
+        "ID": 342,
+        "Symbol": "ENERGYDEV",
+        "Name": "Energy_Development_Company_Limited"
+      },
+      {
+        "ID": 343,
+        "Symbol": "ENGINERSIN",
+        "Name": "Engineers_India_Limited"
+      },
+      {
+        "ID": 344,
+        "Symbol": "ENIL",
+        "Name": "Entertainment_Network_(India)_Limited"
+      },
+      {
+        "ID": 345,
+        "Symbol": "ENTEGRA",
+        "Name": "Entegra_Limited"
+      },
+      {
+        "ID": 346,
+        "Symbol": "ERAINFRA",
+        "Name": "Era_Infra_Engineering_Limited"
+      },
+      {
+        "ID": 347,
+        "Symbol": "EROSMEDIA",
+        "Name": "Eros_International_Media_Limited"
+      },
+      {
+        "ID": 348,
+        "Symbol": "ESABINDIA",
+        "Name": "Esab_India_Limited"
+      },
+      {
+        "ID": 349,
+        "Symbol": "ESCORTS",
+        "Name": "Escorts_Limited"
+      },
+      {
+        "ID": 350,
+        "Symbol": "ESL",
+        "Name": "Electrosteel_Steels_Limited"
+      },
+      {
+        "ID": 351,
+        "Symbol": "ESSAROIL",
+        "Name": "Essar_Oil_Limited"
+      },
+      {
+        "ID": 352,
+        "Symbol": "ESSARPORTS",
+        "Name": "Essar_Ports_Limited"
+      },
+      {
+        "ID": 353,
+        "Symbol": "ESSDEE",
+        "Name": "Ess_Dee_Aluminium_Limited"
+      },
+      {
+        "ID": 354,
+        "Symbol": "ESSELPACK",
+        "Name": "Essel_Propack_Limited"
+      },
+      {
+        "ID": 355,
+        "Symbol": "ESTER",
+        "Name": "Ester_Industries_Limited"
+      },
+      {
+        "ID": 356,
+        "Symbol": "EUROCERA",
+        "Name": "Euro_Ceramics_Limited"
+      },
+      {
+        "ID": 357,
+        "Symbol": "EUROMULTI",
+        "Name": "Euro_Multivision_Limited"
+      },
+      {
+        "ID": 358,
+        "Symbol": "EUROTEXIND",
+        "Name": "Eurotex_Industries_and_Exports_Limited"
+      },
+      {
+        "ID": 359,
+        "Symbol": "EVEREADY",
+        "Name": "Eveready_Industries_India_Limited"
+      },
+      {
+        "ID": 360,
+        "Symbol": "EVERESTIND",
+        "Name": "Everest_Industries_Limited"
+      },
+      {
+        "ID": 361,
+        "Symbol": "EVERONN",
+        "Name": "Everonn_Education_Limited"
+      },
+      {
+        "ID": 362,
+        "Symbol": "EVINIX",
+        "Name": "Evinix_Accessories_Limited"
+      },
+      {
+        "ID": 363,
+        "Symbol": "EXCELCROP",
+        "Name": "Excel_Crop_Care_Limited"
+      },
+      {
+        "ID": 364,
+        "Symbol": "EXCELINDUS",
+        "Name": "Excel_Industries_Limited"
+      },
+      {
+        "ID": 365,
+        "Symbol": "EXCELINFO",
+        "Name": "Excel_Infoways_Limited"
+      },
+      {
+        "ID": 366,
+        "Symbol": "EXIDEIND",
+        "Name": "Exide_Industries_Limited"
+      },
+      {
+        "ID": 367,
+        "Symbol": "FACT",
+        "Name": "Fertilizers_and_Chemicals_Travancore_Limited"
+      },
+      {
+        "ID": 368,
+        "Symbol": "FAGBEARING",
+        "Name": "FAG_Bearings_India_Limited"
+      },
+      {
+        "ID": 369,
+        "Symbol": "FAME",
+        "Name": "Fame_India_Limited"
+      },
+      {
+        "ID": 370,
+        "Symbol": "FARMAXIND",
+        "Name": "Farmax_India_Limited"
+      },
+      {
+        "ID": 371,
+        "Symbol": "FCH",
+        "Name": "Future_Capital_Holdings_Limited"
+      },
+      {
+        "ID": 372,
+        "Symbol": "FCSSOFT",
+        "Name": "FCS_Software_Solutions_Limited"
+      },
+      {
+        "ID": 373,
+        "Symbol": "FDC",
+        "Name": "FDC_Limited"
+      },
+      {
+        "ID": 374,
+        "Symbol": "FEDDERLOYD",
+        "Name": "Fedders_Lloyd_Corporation_Limited"
+      },
+      {
+        "ID": 375,
+        "Symbol": "FEDERALBNK",
+        "Name": "The_Federal_Bank_Limited"
+      },
+      {
+        "ID": 376,
+        "Symbol": "FIEMIND",
+        "Name": "Fiem_Industries_Limited"
+      },
+      {
+        "ID": 377,
+        "Symbol": "FINANTECH",
+        "Name": "Financial_Technologies_(India)_Limited"
+      },
+      {
+        "ID": 378,
+        "Symbol": "FINCABLES",
+        "Name": "Finolex_Cables_Limited"
+      },
+      {
+        "ID": 379,
+        "Symbol": "FINPIPE",
+        "Name": "Finolex_Industries_Limited"
+      },
+      {
+        "ID": 380,
+        "Symbol": "FIRSTLEASE",
+        "Name": "First_Leasing_Company_of_India_Limited"
+      },
+      {
+        "ID": 381,
+        "Symbol": "FIRSTWIN",
+        "Name": "First_Winner_Industries_Limited"
+      },
+      {
+        "ID": 382,
+        "Symbol": "FKONCO",
+        "Name": "Fresenius_Kabi_Oncology_Limited"
+      },
+      {
+        "ID": 383,
+        "Symbol": "FMGOETZE",
+        "Name": "Federal-Mogul_Goetze_(India)_Limited"
+      },
+      {
+        "ID": 384,
+        "Symbol": "FORTIS",
+        "Name": "Fortis_Healthcare_(India)_Limited"
+      },
+      {
+        "ID": 385,
+        "Symbol": "FOSECOIND",
+        "Name": "Foseco_India_Limited"
+      },
+      {
+        "ID": 386,
+        "Symbol": "FOURSOFT",
+        "Name": "Four_Soft_Limited"
+      },
+      {
+        "ID": 387,
+        "Symbol": "FSL",
+        "Name": "Firstsource_Solutions_Limited"
+      },
+      {
+        "ID": 388,
+        "Symbol": "FUTUREVENT",
+        "Name": "Future_Ventures_India_Limited"
+      },
+      {
+        "ID": 389,
+        "Symbol": "GABRIEL",
+        "Name": "Gabriel_India_Limited"
+      },
+      {
+        "ID": 390,
+        "Symbol": "GAEL",
+        "Name": "Gujarat_Ambuja_Exports_Limited"
+      },
+      {
+        "ID": 391,
+        "Symbol": "GAIL",
+        "Name": "GAIL_(India)_Limited"
+      },
+      {
+        "ID": 392,
+        "Symbol": "GAL",
+        "Name": "Gyscoal_Alloys_Limited"
+      },
+      {
+        "ID": 393,
+        "Symbol": "GALLANTT",
+        "Name": "Gallantt_Metal_Limited"
+      },
+      {
+        "ID": 394,
+        "Symbol": "GALLISPAT",
+        "Name": "Gallantt_Ispat_Limited"
+      },
+      {
+        "ID": 395,
+        "Symbol": "GAMMNINFRA",
+        "Name": "Gammon_Infrastructure_Projects_Limited"
+      },
+      {
+        "ID": 396,
+        "Symbol": "GAMMONIND",
+        "Name": "Gammon_India_Limited"
+      },
+      {
+        "ID": 397,
+        "Symbol": "GANDHITUBE",
+        "Name": "Gandhi_Special_Tubes_Limited"
+      },
+      {
+        "ID": 398,
+        "Symbol": "GANESHHOUC",
+        "Name": "Ganesh_Housing_Corporation_Limited"
+      },
+      {
+        "ID": 399,
+        "Symbol": "GARDENSILK",
+        "Name": "Garden_Silk_Mills_Limited"
+      },
+      {
+        "ID": 400,
+        "Symbol": "GARWALLROP",
+        "Name": "Garware_Wall_Ropes_Limited"
+      },
+      {
+        "ID": 401,
+        "Symbol": "GLOBOFFS",
+        "Name": "Global_Offshore_Services_Limited"
+      },
+      {
+        "ID": 402,
+        "Symbol": "GATI",
+        "Name": "GATI_Limited"
+      },
+      {
+        "ID": 403,
+        "Symbol": "GDL",
+        "Name": "Gateway_Distriparks_Limited"
+      },
+      {
+        "ID": 404,
+        "Symbol": "GEECEE",
+        "Name": "GeeCee_Ventures_Limited"
+      },
+      {
+        "ID": 405,
+        "Symbol": "GEINDSYS",
+        "Name": "GEI_Industrial_Systems_Limited"
+      },
+      {
+        "ID": 406,
+        "Symbol": "GEMINI",
+        "Name": "Gemini_Communication_Limited"
+      },
+      {
+        "ID": 407,
+        "Symbol": "GENESYS",
+        "Name": "Genesys_International_Corporation_Limited"
+      },
+      {
+        "ID": 408,
+        "Symbol": "GENUSPOWER",
+        "Name": "Genus_Power_Infrastructures_Limited"
+      },
+      {
+        "ID": 409,
+        "Symbol": "GEODESIC",
+        "Name": "Geodesic_Limited"
+      },
+      {
+        "ID": 410,
+        "Symbol": "GEOJITBNPP",
+        "Name": "Geojit_BNP_Paribas_Financial_Services_Limited"
+      },
+      {
+        "ID": 411,
+        "Symbol": "GEOMETRIC",
+        "Name": "Geometric_Limited"
+      },
+      {
+        "ID": 412,
+        "Symbol": "GESHIP",
+        "Name": "The_Great_Eastern_Shipping_Company_Limited"
+      },
+      {
+        "ID": 413,
+        "Symbol": "GHCL",
+        "Name": "GHCL_Limited"
+      },
+      {
+        "ID": 414,
+        "Symbol": "GICHSGFIN",
+        "Name": "GIC_Housing_Finance_Limited"
+      },
+      {
+        "ID": 415,
+        "Symbol": "GILLANDERS",
+        "Name": "Gillanders_Arbuthnot_&_Company_Limited"
+      },
+      {
+        "ID": 416,
+        "Symbol": "GILLETTE",
+        "Name": "Gillette_India_Limited"
+      },
+      {
+        "ID": 417,
+        "Symbol": "GINNIFILA",
+        "Name": "Ginni_Filaments_Limited"
+      },
+      {
+        "ID": 418,
+        "Symbol": "GIPCL",
+        "Name": "Gujarat_Industries_Power_Company_Limited"
+      },
+      {
+        "ID": 419,
+        "Symbol": "GISOLUTION",
+        "Name": "GI_Engineering_Solutions_Limited"
+      },
+      {
+        "ID": 420,
+        "Symbol": "GITANJALI",
+        "Name": "Gitanjali_Gems_Limited"
+      },
+      {
+        "ID": 421,
+        "Symbol": "GKWLIMITED",
+        "Name": "GKW_Limited"
+      },
+      {
+        "ID": 422,
+        "Symbol": "GLAXO",
+        "Name": "GlaxoSmithKline_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 423,
+        "Symbol": "GLENMARK",
+        "Name": "Glenmark_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 424,
+        "Symbol": "GLFL",
+        "Name": "Gujarat_Lease_Financing_Limited"
+      },
+      {
+        "ID": 425,
+        "Symbol": "GLOBALVECT",
+        "Name": "Global_Vectra_Helicorp_Limited"
+      },
+      {
+        "ID": 426,
+        "Symbol": "GLOBUSSPR",
+        "Name": "Globus_Spirits_Limited"
+      },
+      {
+        "ID": 427,
+        "Symbol": "GLODYNE",
+        "Name": "Glodyne_Technoserve_Limited"
+      },
+      {
+        "ID": 428,
+        "Symbol": "GLORY",
+        "Name": "Glory_Polyfilms_Limited"
+      },
+      {
+        "ID": 429,
+        "Symbol": "GMBREW",
+        "Name": "GM_Breweries_Limited"
+      },
+      {
+        "ID": 430,
+        "Symbol": "GMDCLTD",
+        "Name": "Gujarat_Mineral_Development_Corporation_Limited"
+      },
+      {
+        "ID": 431,
+        "Symbol": "GMRINFRA",
+        "Name": "GMR_Infrastructure_Limited"
+      },
+      {
+        "ID": 432,
+        "Symbol": "GNFC",
+        "Name": "Gujarat_Narmada_Valley_Fertilizer_Company_Limited"
+      },
+      {
+        "ID": 433,
+        "Symbol": "GOACARBON",
+        "Name": "Goa_Carbon_Limited"
+      },
+      {
+        "ID": 434,
+        "Symbol": "GODFRYPHLP",
+        "Name": "Godfrey_Phillips_India_Limited"
+      },
+      {
+        "ID": 435,
+        "Symbol": "GODREJCP",
+        "Name": "Godrej_Consumer_Products_Limited"
+      },
+      {
+        "ID": 436,
+        "Symbol": "GODREJIND",
+        "Name": "Godrej_Industries_Limited"
+      },
+      {
+        "ID": 437,
+        "Symbol": "GODREJPROP",
+        "Name": "Godrej_Properties_Limited"
+      },
+      {
+        "ID": 438,
+        "Symbol": "GOENKA",
+        "Name": "Goenka_Diamond_and_Jewels_Limited"
+      },
+      {
+        "ID": 439,
+        "Symbol": "GOKEX",
+        "Name": "Gokaldas_Exports_Limited"
+      },
+      {
+        "ID": 440,
+        "Symbol": "GOKUL",
+        "Name": "Gokul_Refoils_and_Solvent_Limited"
+      },
+      {
+        "ID": 441,
+        "Symbol": "GOLDENTOBC",
+        "Name": "Golden_Tobacco_Limited"
+      },
+      {
+        "ID": 442,
+        "Symbol": "GOLDIAM",
+        "Name": "Goldiam_International_Limited"
+      },
+      {
+        "ID": 443,
+        "Symbol": "GOLDINFRA",
+        "Name": "Goldstone_Infratech_Limited"
+      },
+      {
+        "ID": 444,
+        "Symbol": "GOLDTECH",
+        "Name": "Goldstone_Technologies_Limited"
+      },
+      {
+        "ID": 445,
+        "Symbol": "GPIL",
+        "Name": "Godawari_Power_And_Ispat_limited"
+      },
+      {
+        "ID": 446,
+        "Symbol": "GPPL",
+        "Name": "Gujarat_Pipavav_Port_Limited"
+      },
+      {
+        "ID": 447,
+        "Symbol": "GRABALALK",
+        "Name": "Grabal_Alok_Impex_Limited"
+      },
+      {
+        "ID": 448,
+        "Symbol": "GRANULES",
+        "Name": "Granules_India_Limited"
+      },
+      {
+        "ID": 449,
+        "Symbol": "GRAPHITE",
+        "Name": "Graphite_India_Limited"
+      },
+      {
+        "ID": 450,
+        "Symbol": "GRASIM",
+        "Name": "Grasim_Industries_Limited"
+      },
+      {
+        "ID": 451,
+        "Symbol": "GREAVESCOT",
+        "Name": "Greaves_Cotton_Limited"
+      },
+      {
+        "ID": 452,
+        "Symbol": "GREENPLY",
+        "Name": "Greenply_Industries_Limited"
+      },
+      {
+        "ID": 453,
+        "Symbol": "GREENPOWER",
+        "Name": "Orient_Green_Power_Company_Limited"
+      },
+      {
+        "ID": 454,
+        "Symbol": "GRINDWELL",
+        "Name": "Grindwell_Norton_Limited"
+      },
+      {
+        "ID": 455,
+        "Symbol": "GRUH",
+        "Name": "Gruh_Finance_Limited"
+      },
+      {
+        "ID": 456,
+        "Symbol": "GSFC",
+        "Name": "Gujarat_State_Fertilizers_&_Chemicals_Limited"
+      },
+      {
+        "ID": 457,
+        "Symbol": "GSKCONS",
+        "Name": "GlaxoSmithKline_Consumer_Healthcare_Limited"
+      },
+      {
+        "ID": 458,
+        "Symbol": "GSLNOVA",
+        "Name": "GSL_Nova_Petrochemicals_Limited"
+      },
+      {
+        "ID": 459,
+        "Symbol": "GSPL",
+        "Name": "Gujarat_State_Petronet_Limited"
+      },
+      {
+        "ID": 460,
+        "Symbol": "GSSAMERICA",
+        "Name": "GSS_America_Infotech_Limited"
+      },
+      {
+        "ID": 461,
+        "Symbol": "GTL",
+        "Name": "GTL_Limited"
+      },
+      {
+        "ID": 462,
+        "Symbol": "GTLINFRA",
+        "Name": "GTL_Infrastructure_Limited"
+      },
+      {
+        "ID": 463,
+        "Symbol": "GTNIND",
+        "Name": "GTN_Industries_Limited"
+      },
+      {
+        "ID": 464,
+        "Symbol": "GTOFFSHORE",
+        "Name": "Great_Offshore_Limited"
+      },
+      {
+        "ID": 465,
+        "Symbol": "GUFICBIO",
+        "Name": "Gufic_Biosciences_Limited"
+      },
+      {
+        "ID": 466,
+        "Symbol": "GUJALKALI",
+        "Name": "Gujarat_Alkalies_and_Chemicals_Limited"
+      },
+      {
+        "ID": 467,
+        "Symbol": "GUJAPOLLO",
+        "Name": "Gujarat_Apollo_Industries_Limited"
+      },
+      {
+        "ID": 468,
+        "Symbol": "GUJFLUORO",
+        "Name": "Gujarat_Fluorochemicals_Limited"
+      },
+      {
+        "ID": 469,
+        "Symbol": "GUJNRECOKE",
+        "Name": "Gujarat_NRE_Coke_Limited"
+      },
+      {
+        "ID": 470,
+        "Symbol": "GUJRATGAS",
+        "Name": "Gujarat_Gas_Company_Limited"
+      },
+      {
+        "ID": 471,
+        "Symbol": "GUJSIDHCEM",
+        "Name": "Gujarat_Sidhee_Cements_Limited"
+      },
+      {
+        "ID": 472,
+        "Symbol": "GUJSTATFIN",
+        "Name": "Gujarat_State_Financial_Corporation"
+      },
+      {
+        "ID": 473,
+        "Symbol": "GULFOILCOR",
+        "Name": "Gulf_Oil_Corporation_Limited"
+      },
+      {
+        "ID": 474,
+        "Symbol": "GVKPIL",
+        "Name": "GVK_Power_&_Infrastructure_Limited"
+      },
+      {
+        "ID": 475,
+        "Symbol": "HALONIX",
+        "Name": "Halonix_Limited"
+      },
+      {
+        "ID": 476,
+        "Symbol": "HANUNG",
+        "Name": "Hanung_Toys_and_Textiles_Limited"
+      },
+      {
+        "ID": 477,
+        "Symbol": "HARITASEAT",
+        "Name": "Harita_Seating_Systems_Limited"
+      },
+      {
+        "ID": 478,
+        "Symbol": "HARRMALAYA",
+        "Name": "Harrisons_Malayalam_Limited"
+      },
+      {
+        "ID": 479,
+        "Symbol": "HATHWAY",
+        "Name": "Hathway_Cable_&_Datacom_Limited"
+      },
+      {
+        "ID": 480,
+        "Symbol": "HAVELLS",
+        "Name": "Havells_India_Limited"
+      },
+      {
+        "ID": 481,
+        "Symbol": "HBLPOWER",
+        "Name": "HBL_Power_Systems_Limited"
+      },
+      {
+        "ID": 482,
+        "Symbol": "HBSTOCK",
+        "Name": "HB_Stockholdings_Limited"
+      },
+      {
+        "ID": 483,
+        "Symbol": "HCC",
+        "Name": "Hindustan_Construction_Company_Limited"
+      },
+      {
+        "ID": 484,
+        "Symbol": "HCIL",
+        "Name": "Himadri_Chemicals_and_Industries_Limited"
+      },
+      {
+        "ID": 485,
+        "Symbol": "HCL-INSYS",
+        "Name": "HCL_Infosystems_Limited"
+      },
+      {
+        "ID": 486,
+        "Symbol": "HCLTECH",
+        "Name": "HCL_Technologies_Limited"
+      },
+      {
+        "ID": 487,
+        "Symbol": "HDFC",
+        "Name": "Housing_Development_Finance_Corporation_Limited"
+      },
+      {
+        "ID": 488,
+        "Symbol": "HDFCBANK",
+        "Name": "HDFC_Bank_Limited"
+      },
+      {
+        "ID": 489,
+        "Symbol": "HDIL",
+        "Name": "Housing_Development_and_Infrastructure_Limited"
+      },
+      {
+        "ID": 490,
+        "Symbol": "HEG",
+        "Name": "HEG_Limited"
+      },
+      {
+        "ID": 491,
+        "Symbol": "HEIDELBERG",
+        "Name": "HeidelbergCement_India_Limited"
+      },
+      {
+        "ID": 492,
+        "Symbol": "HELIOSMATH",
+        "Name": "Helios_And_Matheson_Information_Technology_Limited"
+      },
+      {
+        "ID": 493,
+        "Symbol": "HERCULES",
+        "Name": "Hercules_Hoists_Limited"
+      },
+      {
+        "ID": 494,
+        "Symbol": "HERITGFOOD",
+        "Name": "Heritage_Foods_(India)_Limited"
+      },
+      {
+        "ID": 495,
+        "Symbol": "HEROHONDA",
+        "Name": "Hero_Honda_Motors_Limited"
+      },
+      {
+        "ID": 496,
+        "Symbol": "HEXAWARE",
+        "Name": "Hexaware_Technologies_Limited"
+      },
+      {
+        "ID": 497,
+        "Symbol": "HFCL",
+        "Name": "Himachal_Futuristic_Communications_Limited"
+      },
+      {
+        "ID": 498,
+        "Symbol": "HGSL",
+        "Name": "Hinduja_Global_Solutions_Limited"
+      },
+      {
+        "ID": 499,
+        "Symbol": "HIKAL",
+        "Name": "Hikal_Limited"
+      },
+      {
+        "ID": 500,
+        "Symbol": "HILTON",
+        "Name": "Hilton_Metal_Forging_Limited"
+      },
+      {
+        "ID": 501,
+        "Symbol": "HIMATSEIDE",
+        "Name": "Himatsingka_Seide_Limited"
+      },
+      {
+        "ID": 502,
+        "Symbol": "HINDALCO",
+        "Name": "Hindalco_Industries_Limited"
+      },
+      {
+        "ID": 503,
+        "Symbol": "HINDCOMPOS",
+        "Name": "Hindustan_Composites_Limited"
+      },
+      {
+        "ID": 504,
+        "Symbol": "HINDCOPPER",
+        "Name": "Hindustan_Copper_Limited"
+      },
+      {
+        "ID": 505,
+        "Symbol": "HINDDORROL",
+        "Name": "Hindustan_Dorr-Oliver_Limited"
+      },
+      {
+        "ID": 506,
+        "Symbol": "HINDMOTORS",
+        "Name": "Hindustan_Motors_Limited"
+      },
+      {
+        "ID": 507,
+        "Symbol": "HINDNATGLS",
+        "Name": "Hindusthan_National_Glass_&_Industries_Limited"
+      },
+      {
+        "ID": 508,
+        "Symbol": "HINDOILEXP",
+        "Name": "Hindustan_Oil_Exploration_Company_Limited"
+      },
+      {
+        "ID": 509,
+        "Symbol": "HINDPETRO",
+        "Name": "Hindustan_Petroleum_Corporation_Limited"
+      },
+      {
+        "ID": 510,
+        "Symbol": "HINDSYNTEX",
+        "Name": "Hind_Syntex_Limited"
+      },
+      {
+        "ID": 511,
+        "Symbol": "HINDUJAFO",
+        "Name": "Hinduja_Foundries_Limited"
+      },
+      {
+        "ID": 512,
+        "Symbol": "HINDUJAVEN",
+        "Name": "Hinduja_Ventures_Limited"
+      },
+      {
+        "ID": 513,
+        "Symbol": "HINDUNILVR",
+        "Name": "Hindustan_Unilever_Limited"
+      },
+      {
+        "ID": 514,
+        "Symbol": "HINDZINC",
+        "Name": "Hindustan_Zinc_Limited"
+      },
+      {
+        "ID": 515,
+        "Symbol": "HIRECT",
+        "Name": "Hind_Rectifiers_Limited"
+      },
+      {
+        "ID": 516,
+        "Symbol": "HITACHIHOM",
+        "Name": "Hitachi_Home_and_Life_Solutions_(India)_Limited"
+      },
+      {
+        "ID": 517,
+        "Symbol": "HITECHGEAR",
+        "Name": "Hi-Tech_Gears_Limited"
+      },
+      {
+        "ID": 518,
+        "Symbol": "HITECHPLAS",
+        "Name": "Hitech_Plast_Limited"
+      },
+      {
+        "ID": 519,
+        "Symbol": "HMT",
+        "Name": "HMT_Limited"
+      },
+      {
+        "ID": 520,
+        "Symbol": "HMVL",
+        "Name": "Hindustan_Media_Ventures_Limited"
+      },
+      {
+        "ID": 521,
+        "Symbol": "HOCL",
+        "Name": "Hindustan_Organic_Chemicals_Limited"
+      },
+      {
+        "ID": 522,
+        "Symbol": "HONAUT",
+        "Name": "Honeywell_Automation_India_Limited"
+      },
+      {
+        "ID": 523,
+        "Symbol": "HONDAPOWER",
+        "Name": "Honda_Siel_Power_Products_Limited"
+      },
+      {
+        "ID": 524,
+        "Symbol": "HOPFL",
+        "Name": "House_of_Pearl_Fashions_Limited"
+      },
+      {
+        "ID": 525,
+        "Symbol": "HORIZONINF",
+        "Name": "Horizon_Infrastructure_Limited"
+      },
+      {
+        "ID": 526,
+        "Symbol": "HOTELEELA",
+        "Name": "Hotel_Leela_Venture_Limited"
+      },
+      {
+        "ID": 527,
+        "Symbol": "HOTELRUGBY",
+        "Name": "Hotel_Rugby_Limited"
+      },
+      {
+        "ID": 528,
+        "Symbol": "HOVS",
+        "Name": "HOV_Services_Limited"
+      },
+      {
+        "ID": 529,
+        "Symbol": "HSIL",
+        "Name": "HSIL_Limited"
+      },
+      {
+        "ID": 530,
+        "Symbol": "HTMEDIA",
+        "Name": "HT_Media_Limited"
+      },
+      {
+        "ID": 531,
+        "Symbol": "HYDRBADIND",
+        "Name": "Hyderabad_Industries_Limited"
+      },
+      {
+        "ID": 532,
+        "Symbol": "IBN18",
+        "Name": "ibn18_Broadcast_Limited"
+      },
+      {
+        "ID": 533,
+        "Symbol": "IBPOW",
+        "Name": "Indiabulls_Power_Limited"
+      },
+      {
+        "ID": 534,
+        "Symbol": "IBREALEST",
+        "Name": "Indiabulls_Real_Estate_Limited"
+      },
+      {
+        "ID": 535,
+        "Symbol": "IBSEC",
+        "Name": "Indiabulls_Securities_Limited"
+      },
+      {
+        "ID": 536,
+        "Symbol": "ICICIBANK",
+        "Name": "ICICI_Bank_Limited"
+      },
+      {
+        "ID": 537,
+        "Symbol": "ICIL",
+        "Name": "Indo_Count_Industries_Limited"
+      },
+      {
+        "ID": 538,
+        "Symbol": "ICRA",
+        "Name": "ICRA_Limited"
+      },
+      {
+        "ID": 539,
+        "Symbol": "ICSA",
+        "Name": "ICSA_(India)_Limited"
+      },
+      {
+        "ID": 540,
+        "Symbol": "IDBI",
+        "Name": "IDBI_Bank_Limited"
+      },
+      {
+        "ID": 541,
+        "Symbol": "IDEA",
+        "Name": "Idea_Cellular_Limited"
+      },
+      {
+        "ID": 542,
+        "Symbol": "IDFC",
+        "Name": "Infrastructure_Development_Finance_Company_Limited"
+      },
+      {
+        "ID": 543,
+        "Symbol": "IFBAGRO",
+        "Name": "IFB_Agro_Industries_Limited"
+      },
+      {
+        "ID": 544,
+        "Symbol": "IFBIND",
+        "Name": "IFB_Industries_Limited"
+      },
+      {
+        "ID": 545,
+        "Symbol": "IFCI",
+        "Name": "IFCI_Limited"
+      },
+      {
+        "ID": 546,
+        "Symbol": "IFGLREFRAC",
+        "Name": "IFGL_Refractories_Limited"
+      },
+      {
+        "ID": 547,
+        "Symbol": "IGARASHI",
+        "Name": "Igarashi_Motors_India_Limited"
+      },
+      {
+        "ID": 548,
+        "Symbol": "IGL",
+        "Name": "Indraprastha_Gas_Limited"
+      },
+      {
+        "ID": 549,
+        "Symbol": "IGPL",
+        "Name": "IG_Petrochemicals_Limited"
+      },
+      {
+        "ID": 550,
+        "Symbol": "IITL",
+        "Name": "Industrial_Investment_Trust_Limited"
+      },
+      {
+        "ID": 551,
+        "Symbol": "IL&FSENGG",
+        "Name": "IL&FS_Engineering_and_Construction_Company_Limited"
+      },
+      {
+        "ID": 552,
+        "Symbol": "IL&FSTRANS",
+        "Name": "IL&FS_Transportation_Networks_Limited"
+      },
+      {
+        "ID": 553,
+        "Symbol": "IMFA",
+        "Name": "Indian_Metals_&_Ferro_Alloys_Limited"
+      },
+      {
+        "ID": 554,
+        "Symbol": "IMPAL",
+        "Name": "India_Motor_Parts_and_Accessories_Limited"
+      },
+      {
+        "ID": 555,
+        "Symbol": "IMPEXFERRO",
+        "Name": "Impex_Ferro_Tech_Limited"
+      },
+      {
+        "ID": 556,
+        "Symbol": "INDBANK",
+        "Name": "Indbank_Merchant_Banking_Services_Limited"
+      },
+      {
+        "ID": 557,
+        "Symbol": "INDHOTEL",
+        "Name": "The_Indian_Hotels_Company_Limited"
+      },
+      {
+        "ID": 558,
+        "Symbol": "INDIABULLS",
+        "Name": "Indiabulls_Financial_Services_Limited"
+      },
+      {
+        "ID": 559,
+        "Symbol": "INDIACEM",
+        "Name": "The_India_Cements_Limited"
+      },
+      {
+        "ID": 560,
+        "Symbol": "INDIAGLYCO",
+        "Name": "India_Glycols_Limited"
+      },
+      {
+        "ID": 561,
+        "Symbol": "INDIAINFO",
+        "Name": "India_Infoline_Limited"
+      },
+      {
+        "ID": 562,
+        "Symbol": "INDIANB",
+        "Name": "Indian_Bank"
+      },
+      {
+        "ID": 563,
+        "Symbol": "INDIANCARD",
+        "Name": "Indian_Card_Clothing_Company_Limited"
+      },
+      {
+        "ID": 564,
+        "Symbol": "INDIANHUME",
+        "Name": "Indian_Hume_Pipe_Company_Limited"
+      },
+      {
+        "ID": 565,
+        "Symbol": "INDLMETER",
+        "Name": "IMP_Powers_Limited"
+      },
+      {
+        "ID": 566,
+        "Symbol": "INDNIPPON",
+        "Name": "India_Nippon_Electricals_Limited"
+      },
+      {
+        "ID": 567,
+        "Symbol": "INDOASIFU",
+        "Name": "Indo_Asian_Fusegear_Limited"
+      },
+      {
+        "ID": 568,
+        "Symbol": "INDOCO",
+        "Name": "Indoco_Remedies_Limited"
+      },
+      {
+        "ID": 569,
+        "Symbol": "INDORAMA",
+        "Name": "Indo_Rama_Synthetics_(India)_Limited"
+      },
+      {
+        "ID": 570,
+        "Symbol": "INDOSOLAR",
+        "Name": "Indosolar_Limited"
+      },
+      {
+        "ID": 571,
+        "Symbol": "INDOTECH",
+        "Name": "Indo_Tech_Transformers_Limited"
+      },
+      {
+        "ID": 572,
+        "Symbol": "INDOWIND",
+        "Name": "Indowind_Energy_Limited"
+      },
+      {
+        "ID": 573,
+        "Symbol": "INDRAMEDCO",
+        "Name": "Indraprastha_Medical_Corporation_Limited"
+      },
+      {
+        "ID": 574,
+        "Symbol": "INDSWFTLAB",
+        "Name": "Ind-Swift_Laboratories_Limited"
+      },
+      {
+        "ID": 575,
+        "Symbol": "INDSWFTLTD",
+        "Name": "Ind-Swift_Limited"
+      },
+      {
+        "ID": 576,
+        "Symbol": "INDUSFILA",
+        "Name": "Indus_Fila_Limited"
+      },
+      {
+        "ID": 577,
+        "Symbol": "INDUSINDBK",
+        "Name": "IndusInd_Bank_Limited"
+      },
+      {
+        "ID": 578,
+        "Symbol": "INEABS",
+        "Name": "INEOS_ABS_(India)_Limited"
+      },
+      {
+        "ID": 579,
+        "Symbol": "INFINITE",
+        "Name": "Infinite_Computer_Solutions_(India)_Limited"
+      },
+      {
+        "ID": 580,
+        "Symbol": "INFOMEDIA",
+        "Name": "Infomedia_18_Limited"
+      },
+      {
+        "ID": 581,
+        "Symbol": "INFY",
+        "Name": "Infosys_Limited"
+      },
+      {
+        "ID": 582,
+        "Symbol": "INFOTECENT",
+        "Name": "Infotech_Enterprises_Limited"
+      },
+      {
+        "ID": 583,
+        "Symbol": "INGERRAND",
+        "Name": "Ingersoll_Rand_(India)_Limited"
+      },
+      {
+        "ID": 584,
+        "Symbol": "INGVYSYABK",
+        "Name": "ING_Vysya_Bank_Limited"
+      },
+      {
+        "ID": 585,
+        "Symbol": "INNOIND",
+        "Name": "Innoventive_Industries_Limited"
+      },
+      {
+        "ID": 586,
+        "Symbol": "INOXLEISUR",
+        "Name": "INOX_Leisure_Limited"
+      },
+      {
+        "ID": 587,
+        "Symbol": "INSECTICID",
+        "Name": "Insecticides_(India)_Limited"
+      },
+      {
+        "ID": 588,
+        "Symbol": "IOB",
+        "Name": "Indian_Overseas_Bank"
+      },
+      {
+        "ID": 589,
+        "Symbol": "IOC",
+        "Name": "Indian_Oil_Corporation_Limited"
+      },
+      {
+        "ID": 590,
+        "Symbol": "IOLCP",
+        "Name": "IOL_Chemicals_and_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 591,
+        "Symbol": "IOLN",
+        "Name": "IOL_Netcom_Limited"
+      },
+      {
+        "ID": 592,
+        "Symbol": "IPCALAB",
+        "Name": "IPCA_Laboratories_Limited"
+      },
+      {
+        "ID": 593,
+        "Symbol": "IRB",
+        "Name": "IRB_Infrastructure_Developers_Limited"
+      },
+      {
+        "ID": 594,
+        "Symbol": "ISFT",
+        "Name": "Intrasoft_Technologies_Limited"
+      },
+      {
+        "ID": 595,
+        "Symbol": "ISMTLTD",
+        "Name": "ISMT_Limited"
+      },
+      {
+        "ID": 596,
+        "Symbol": "ISPATIND",
+        "Name": "Ispat_Industries_Limited"
+      },
+      {
+        "ID": 597,
+        "Symbol": "ITC",
+        "Name": "ITC_Limited"
+      },
+      {
+        "ID": 598,
+        "Symbol": "ITDCEM",
+        "Name": "ITD_Cementation_India_Limited"
+      },
+      {
+        "ID": 599,
+        "Symbol": "ITI",
+        "Name": "ITI_Limited"
+      },
+      {
+        "ID": 600,
+        "Symbol": "IVC",
+        "Name": "IL&FS_Investment_Managers_Limited"
+      },
+      {
+        "ID": 601,
+        "Symbol": "IVP",
+        "Name": "IVP_Limited"
+      },
+      {
+        "ID": 602,
+        "Symbol": "IVRCLAH",
+        "Name": "IVRCL_Assets_&_Holdings_Limited"
+      },
+      {
+        "ID": 603,
+        "Symbol": "IVRCLINFRA",
+        "Name": "IVRCL_Limited"
+      },
+      {
+        "ID": 604,
+        "Symbol": "J&KBANK",
+        "Name": "The_Jammu_&_Kashmir_Bank_Limited"
+      },
+      {
+        "ID": 605,
+        "Symbol": "JAGRAN",
+        "Name": "Jagran_Prakashan_Limited"
+      },
+      {
+        "ID": 606,
+        "Symbol": "JAGSNPHARM",
+        "Name": "Jagsonpal_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 607,
+        "Symbol": "JAIBALAJI",
+        "Name": "Jai_Balaji_Industries_Limited"
+      },
+      {
+        "ID": 608,
+        "Symbol": "JAICORPLTD",
+        "Name": "Jai_Corp_Limited"
+      },
+      {
+        "ID": 609,
+        "Symbol": "JAINSTUDIO",
+        "Name": "Jain_Studios_Limited"
+      },
+      {
+        "ID": 610,
+        "Symbol": "JAMNAAUTO",
+        "Name": "Jamna_Auto_Industries_Limited"
+      },
+      {
+        "ID": 611,
+        "Symbol": "JAYAGROGN",
+        "Name": "Jayant_Agro_Organics_Limited"
+      },
+      {
+        "ID": 612,
+        "Symbol": "JAYBARMARU",
+        "Name": "Jay_Bharat_Maruti_Limited"
+      },
+      {
+        "ID": 613,
+        "Symbol": "JAYNECOIND",
+        "Name": "Jayaswal_Neco_Industries_Limited"
+      },
+      {
+        "ID": 614,
+        "Symbol": "JAYSREETEA",
+        "Name": "Jayshree_Tea_&_Industries_Limited"
+      },
+      {
+        "ID": 615,
+        "Symbol": "JBCHEPHARM",
+        "Name": "JB_Chemicals_&_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 616,
+        "Symbol": "JBFIND",
+        "Name": "JBF_Industries_Limited"
+      },
+      {
+        "ID": 617,
+        "Symbol": "JBMA",
+        "Name": "JBM_Auto_Limited"
+      },
+      {
+        "ID": 618,
+        "Symbol": "JCTEL",
+        "Name": "JCT_Electronics_Limited"
+      },
+      {
+        "ID": 619,
+        "Symbol": "JENSONICOL",
+        "Name": "Jenson_&_Nicholson_(India)_Limited"
+      },
+      {
+        "ID": 620,
+        "Symbol": "JETAIRWAYS",
+        "Name": "Jet_Airways_(India)_Limited"
+      },
+      {
+        "ID": 621,
+        "Symbol": "JEYPORE",
+        "Name": "The_Jeypore_Sugar_Company_Limited"
+      },
+      {
+        "ID": 622,
+        "Symbol": "JHS",
+        "Name": "JHS_Svendgaard_Laboratories_Limited"
+      },
+      {
+        "ID": 623,
+        "Symbol": "JIKIND",
+        "Name": "JIK_Industries_Limited"
+      },
+      {
+        "ID": 624,
+        "Symbol": "JINDALPHOT",
+        "Name": "Jindal_Photo_Limited"
+      },
+      {
+        "ID": 625,
+        "Symbol": "JINDALPOLY",
+        "Name": "Jindal_Poly_Films_Limited"
+      },
+      {
+        "ID": 626,
+        "Symbol": "JINDALSAW",
+        "Name": "Jindal_Saw_Limited"
+      },
+      {
+        "ID": 627,
+        "Symbol": "JINDALSTEL",
+        "Name": "Jindal_Steel_&_Power_Limited"
+      },
+      {
+        "ID": 628,
+        "Symbol": "JINDALSWHL",
+        "Name": "Jindal_South_West_Holdings_Limited"
+      },
+      {
+        "ID": 629,
+        "Symbol": "JINDCOT",
+        "Name": "Jindal_Cotex_Limited"
+      },
+      {
+        "ID": 630,
+        "Symbol": "JINDRILL",
+        "Name": "Jindal_Drilling_And_Industries_Limited"
+      },
+      {
+        "ID": 631,
+        "Symbol": "JINDWORLD",
+        "Name": "Jindal_Worldwide_Limited"
+      },
+      {
+        "ID": 632,
+        "Symbol": "JISLJALEQS",
+        "Name": "Jain_Irrigation_Systems_Limited"
+      },
+      {
+        "ID": 633,
+        "Symbol": "JKCEMENT",
+        "Name": "JK_Cement_Limited"
+      },
+      {
+        "ID": 634,
+        "Symbol": "JKIL",
+        "Name": "J.Kumar_Infraprojects_Limited"
+      },
+      {
+        "ID": 635,
+        "Symbol": "JKLAKSHMI",
+        "Name": "JK_Lakshmi_Cement_Limited"
+      },
+      {
+        "ID": 636,
+        "Symbol": "JKPAPER",
+        "Name": "JK_Paper_Limited"
+      },
+      {
+        "ID": 637,
+        "Symbol": "JKTYRE",
+        "Name": "JK_Tyre_&_Industries_Limited"
+      },
+      {
+        "ID": 638,
+        "Symbol": "JMCPROJECT",
+        "Name": "JMC_Projects_(India)_Limited"
+      },
+      {
+        "ID": 639,
+        "Symbol": "JMFINANCIL",
+        "Name": "JM_Financial_Limited"
+      },
+      {
+        "ID": 640,
+        "Symbol": "JMTAUTOLTD",
+        "Name": "JMT_Auto_Limited"
+      },
+      {
+        "ID": 641,
+        "Symbol": "JOCIL",
+        "Name": "Jocil_Limited"
+      },
+      {
+        "ID": 642,
+        "Symbol": "JPASSOCIAT",
+        "Name": "Jaiprakash_Associates_Limited"
+      },
+      {
+        "ID": 643,
+        "Symbol": "JPINFRATEC",
+        "Name": "Jaypee_Infratech_Limited"
+      },
+      {
+        "ID": 644,
+        "Symbol": "JPPOWER",
+        "Name": "Jaiprakash_Power_Ventures_Limited"
+      },
+      {
+        "ID": 645,
+        "Symbol": "JSL",
+        "Name": "JSL_Stainless_Limited"
+      },
+      {
+        "ID": 646,
+        "Symbol": "JSWENERGY",
+        "Name": "JSW_Energy_Limited"
+      },
+      {
+        "ID": 647,
+        "Symbol": "JSWSTEEL",
+        "Name": "JSW_Steel_Limited"
+      },
+      {
+        "ID": 648,
+        "Symbol": "JUBILANT",
+        "Name": "Jubilant_Life_Sciences_Limited"
+      },
+      {
+        "ID": 649,
+        "Symbol": "JUBLFOOD",
+        "Name": "Jubilant_Foodworks_Limited"
+      },
+      {
+        "ID": 650,
+        "Symbol": "JUBLINDS",
+        "Name": "Jubilant_Industries_Limited"
+      },
+      {
+        "ID": 651,
+        "Symbol": "JVLAGRO",
+        "Name": "JVL_Agro_Industries_Limited"
+      },
+      {
+        "ID": 652,
+        "Symbol": "JYOTHYLAB",
+        "Name": "Jyothy_Laboratories_Limited"
+      },
+      {
+        "ID": 653,
+        "Symbol": "JYOTISTRUC",
+        "Name": "Jyoti_Structures_Limited"
+      },
+      {
+        "ID": 654,
+        "Symbol": "KABRAEXTRU",
+        "Name": "Kabra_Extrusion_Technik_Limited"
+      },
+      {
+        "ID": 655,
+        "Symbol": "KAJARIACER",
+        "Name": "Kajaria_Ceramics_Limited"
+      },
+      {
+        "ID": 656,
+        "Symbol": "KAKATCEM",
+        "Name": "Kakatiya_Cement_Sugar_&_Industries_Limited"
+      },
+      {
+        "ID": 657,
+        "Symbol": "KALECONSUL",
+        "Name": "Kale_Consultants_Limited"
+      },
+      {
+        "ID": 658,
+        "Symbol": "KALINDEE",
+        "Name": "Kalindee_Rail_Nirman_(Engineers)_Limited"
+      },
+      {
+        "ID": 659,
+        "Symbol": "KALPATPOWR",
+        "Name": "Kalpataru_Power_Transmission_Limited"
+      },
+      {
+        "ID": 660,
+        "Symbol": "KALYANIFRG",
+        "Name": "Kalyani_Forge_Limited"
+      },
+      {
+        "ID": 661,
+        "Symbol": "KAMATHOTEL",
+        "Name": "Kamat_Hotels_(I)_Limited"
+      },
+      {
+        "ID": 662,
+        "Symbol": "KANDAGIRI",
+        "Name": "Kandagiri_Spinning_Mills_Limited."
+      },
+      {
+        "ID": 663,
+        "Symbol": "KANORICHEM",
+        "Name": "Kanoria_Chemicals_&_Industries_Limited"
+      },
+      {
+        "ID": 664,
+        "Symbol": "KANSAINER",
+        "Name": "Kansai_Nerolac_Paints_Limited"
+      },
+      {
+        "ID": 665,
+        "Symbol": "KARURVYSYA",
+        "Name": "Karur_Vysya_Bank_Limited"
+      },
+      {
+        "ID": 666,
+        "Symbol": "KAUSHALYA",
+        "Name": "Kaushalya_Infrastructure_Development_Corporation_Limited"
+      },
+      {
+        "ID": 667,
+        "Symbol": "KAVVERITEL",
+        "Name": "Kavveri_Telecom_Products_Limited"
+      },
+      {
+        "ID": 668,
+        "Symbol": "KBIL",
+        "Name": "Kirloskar_Brothers_Investments_Limited"
+      },
+      {
+        "ID": 669,
+        "Symbol": "KCP",
+        "Name": "KCP_Limited"
+      },
+      {
+        "ID": 670,
+        "Symbol": "KCPSUGIND",
+        "Name": "KCP_Sugar_and_Industries_Corporation_Limited"
+      },
+      {
+        "ID": 671,
+        "Symbol": "KEC",
+        "Name": "KEC_International_Limited"
+      },
+      {
+        "ID": 672,
+        "Symbol": "KECL",
+        "Name": "Kirloskar_Electric_Company_Limited"
+      },
+      {
+        "ID": 673,
+        "Symbol": "KEI",
+        "Name": "KEI_Industries_Limited"
+      },
+      {
+        "ID": 674,
+        "Symbol": "KEMROCK",
+        "Name": "Kemrock_Industries_and_Exports_Limited"
+      },
+      {
+        "ID": 675,
+        "Symbol": "KERNEX",
+        "Name": "Kernex_Microsystems_(India)_Limited"
+      },
+      {
+        "ID": 676,
+        "Symbol": "KESARENT",
+        "Name": "Kesar_Enterprises_Limited"
+      },
+      {
+        "ID": 677,
+        "Symbol": "KESORAMIND",
+        "Name": "Kesoram_Industries_Limited"
+      },
+      {
+        "ID": 678,
+        "Symbol": "KEYCORPSER",
+        "Name": "Keynote_Corporate_Services_Limited"
+      },
+      {
+        "ID": 679,
+        "Symbol": "KFA",
+        "Name": "Kingfisher_Airlines_Limited"
+      },
+      {
+        "ID": 680,
+        "Symbol": "KGL",
+        "Name": "Karuturi_Global_Limited"
+      },
+      {
+        "ID": 681,
+        "Symbol": "KHAITANELE",
+        "Name": "Khaitan_Electricals_Limited"
+      },
+      {
+        "ID": 682,
+        "Symbol": "KHAITANLTD",
+        "Name": "Khaitan_(India)_Limited"
+      },
+      {
+        "ID": 683,
+        "Symbol": "KHANDSE",
+        "Name": "Khandwala_Securities_Limited"
+      },
+      {
+        "ID": 684,
+        "Symbol": "KICL",
+        "Name": "Kalyani_Investment_Company_Limited"
+      },
+      {
+        "ID": 685,
+        "Symbol": "KIL",
+        "Name": "Kamdhenu_Ispat_Limited"
+      },
+      {
+        "ID": 686,
+        "Symbol": "KILITCH",
+        "Name": "Kilitch_Drugs_(India)_Limited"
+      },
+      {
+        "ID": 687,
+        "Symbol": "KINETICMOT",
+        "Name": "Kinetic_Motor_Company_Limited"
+      },
+      {
+        "ID": 688,
+        "Symbol": "KIRIINDUS",
+        "Name": "Kiri_Industries_Limited"
+      },
+      {
+        "ID": 689,
+        "Symbol": "KIRLOSBROS",
+        "Name": "Kirloskar_Brothers_Limited"
+      },
+      {
+        "ID": 690,
+        "Symbol": "KIRLOSENG",
+        "Name": "Kirloskar_Oil_Engines_Limited"
+      },
+      {
+        "ID": 691,
+        "Symbol": "KIRLOSIND",
+        "Name": "Kirloskar_Industries_Limited"
+      },
+      {
+        "ID": 692,
+        "Symbol": "KITPLYIND",
+        "Name": "Kitply_Industries_Limited"
+      },
+      {
+        "ID": 693,
+        "Symbol": "KKCL",
+        "Name": "Kewal_Kiran_Clothing_Limited"
+      },
+      {
+        "ID": 694,
+        "Symbol": "KLGSYSTEL",
+        "Name": "KLG_Systel_Limited"
+      },
+      {
+        "ID": 695,
+        "Symbol": "KMSUGAR",
+        "Name": "K.M.Sugar_Mills_Limited"
+      },
+      {
+        "ID": 696,
+        "Symbol": "KNRCON",
+        "Name": "KNR_Constructions_Limited"
+      },
+      {
+        "ID": 697,
+        "Symbol": "KOHINOOR",
+        "Name": "Kohinoor_Foods_Limited"
+      },
+      {
+        "ID": 698,
+        "Symbol": "KOLTEPATIL",
+        "Name": "Kolte_-_Patil_Developers_Limited"
+      },
+      {
+        "ID": 699,
+        "Symbol": "KOPDRUGS",
+        "Name": "KDL_Biotech_Limited"
+      },
+      {
+        "ID": 700,
+        "Symbol": "KOPRAN",
+        "Name": "Kopran_Limited"
+      },
+      {
+        "ID": 701,
+        "Symbol": "KOTAKBANK",
+        "Name": "Kotak_Mahindra_Bank_Limited"
+      },
+      {
+        "ID": 702,
+        "Symbol": "KOTARISUG",
+        "Name": "Kothari_Sugars_And_Chemicals_Limited"
+      },
+      {
+        "ID": 703,
+        "Symbol": "KOTHARIPET",
+        "Name": "Kothari_Petrochemicals_Limited"
+      },
+      {
+        "ID": 704,
+        "Symbol": "KOTHARIPRO",
+        "Name": "Kothari_Products_Limited"
+      },
+      {
+        "ID": 705,
+        "Symbol": "KOUTONS",
+        "Name": "Koutons_Retail_India_Limited"
+      },
+      {
+        "ID": 706,
+        "Symbol": "KPIT",
+        "Name": "KPIT_Cummins_Infosystems_Limited"
+      },
+      {
+        "ID": 707,
+        "Symbol": "KPRMILL",
+        "Name": "K.P.R._Mill_Limited"
+      },
+      {
+        "ID": 708,
+        "Symbol": "KRBL",
+        "Name": "KRBL_Limited"
+      },
+      {
+        "ID": 709,
+        "Symbol": "KRISHNAENG",
+        "Name": "Krishna_Engineering_Works_Limited"
+      },
+      {
+        "ID": 710,
+        "Symbol": "KSBPUMPS",
+        "Name": "KSB_Pumps_Limited"
+      },
+      {
+        "ID": 711,
+        "Symbol": "KSCL",
+        "Name": "Kaveri_Seed_Company_Limited"
+      },
+      {
+        "ID": 712,
+        "Symbol": "KSERASERA",
+        "Name": "K_Sera_Sera_Limited"
+      },
+      {
+        "ID": 713,
+        "Symbol": "KSK",
+        "Name": "KSK_Energy_Ventures_Limited"
+      },
+      {
+        "ID": 714,
+        "Symbol": "KSL",
+        "Name": "Kalyani_Steels_Limited"
+      },
+      {
+        "ID": 715,
+        "Symbol": "KSOILS",
+        "Name": "K_S_Oils_Limited"
+      },
+      {
+        "ID": 716,
+        "Symbol": "KTIL",
+        "Name": "Kesar_Terminals_&_Infrastructure_Limited"
+      },
+      {
+        "ID": 717,
+        "Symbol": "KTKBANK",
+        "Name": "The_Karnataka_Bank_Limited"
+      },
+      {
+        "ID": 718,
+        "Symbol": "LAKPRE",
+        "Name": "Lakshmi_Precision_Screws_Limited"
+      },
+      {
+        "ID": 719,
+        "Symbol": "LAKSHMIEFL",
+        "Name": "Lakshmi_Energy_and_Foods_Limited"
+      },
+      {
+        "ID": 720,
+        "Symbol": "LAKSHVILAS",
+        "Name": "Lakshmi_Vilas_Bank_Limited"
+      },
+      {
+        "ID": 721,
+        "Symbol": "LANCOIN",
+        "Name": "Lanco_Industries_Limited"
+      },
+      {
+        "ID": 722,
+        "Symbol": "LAOPALA",
+        "Name": "La_Opala_RG_Limited"
+      },
+      {
+        "ID": 723,
+        "Symbol": "LAXMIMACH",
+        "Name": "Lakshmi_Machine_Works_Limited"
+      },
+      {
+        "ID": 724,
+        "Symbol": "LGBBROSLTD",
+        "Name": "LG_Balakrishnan_&_Bros_Limited"
+      },
+      {
+        "ID": 725,
+        "Symbol": "LGBFORGE",
+        "Name": "LGB_Forge_Limited"
+      },
+      {
+        "ID": 726,
+        "Symbol": "LIBERTSHOE",
+        "Name": "Liberty_Shoes_Limited"
+      },
+      {
+        "ID": 727,
+        "Symbol": "LICHSGFIN",
+        "Name": "LIC_Housing_Finance_Limited"
+      },
+      {
+        "ID": 728,
+        "Symbol": "LITL",
+        "Name": "Lanco_Infratech_Limited"
+      },
+      {
+        "ID": 729,
+        "Symbol": "LLOYDELENG",
+        "Name": "Lloyd_Electric_&_Engineering_Limited"
+      },
+      {
+        "ID": 730,
+        "Symbol": "LLOYDFIN",
+        "Name": "Lloyds_Finance_Limited"
+      },
+      {
+        "ID": 731,
+        "Symbol": "LLOYDSTEEL",
+        "Name": "Lloyds_Steel_Industries_Limited"
+      },
+      {
+        "ID": 732,
+        "Symbol": "LML",
+        "Name": "LML_Limited"
+      },
+      {
+        "ID": 733,
+        "Symbol": "LOGIXMICRO",
+        "Name": "Logix_Microsystems_Limited"
+      },
+      {
+        "ID": 734,
+        "Symbol": "LOKESHMACH",
+        "Name": "Lokesh_Machines_Limited"
+      },
+      {
+        "ID": 735,
+        "Symbol": "LOTUSEYE",
+        "Name": "Lotus_Eye_Care_Hospital_Limited"
+      },
+      {
+        "ID": 736,
+        "Symbol": "LOVABLE",
+        "Name": "Lovable_Lingerie_Limited"
+      },
+      {
+        "ID": 737,
+        "Symbol": "LPDC",
+        "Name": "Landmark_Property_Development_Company_Limited"
+      },
+      {
+        "ID": 738,
+        "Symbol": "LT",
+        "Name": "Larsen_&_Toubro_Limited"
+      },
+      {
+        "ID": 739,
+        "Symbol": "LUMAXAUTO",
+        "Name": "Lumax_Automotive_Systems_Limited"
+      },
+      {
+        "ID": 740,
+        "Symbol": "LUMAXIND",
+        "Name": "Lumax_Industries_Limited"
+      },
+      {
+        "ID": 741,
+        "Symbol": "LUMAXTECH",
+        "Name": "Lumax_Auto_Technologies_Limited"
+      },
+      {
+        "ID": 742,
+        "Symbol": "LUPIN",
+        "Name": "Lupin_Limited"
+      },
+      {
+        "ID": 743,
+        "Symbol": "LYKALABS",
+        "Name": "Lyka_Labs_Limited"
+      },
+      {
+        "ID": 744,
+        "Symbol": "M&M",
+        "Name": "Mahindra_&_Mahindra_Limited"
+      },
+      {
+        "ID": 745,
+        "Symbol": "M&MFIN",
+        "Name": "Mahindra_&_Mahindra_Financial_Services_Limited"
+      },
+      {
+        "ID": 746,
+        "Symbol": "MAANALU",
+        "Name": "Maan_Aluminium_Limited"
+      },
+      {
+        "ID": 747,
+        "Symbol": "MADHAV",
+        "Name": "Madhav_Marbles_and_Granites_Limited"
+      },
+      {
+        "ID": 748,
+        "Symbol": "MADHUCON",
+        "Name": "Madhucon_Projects_Limited"
+      },
+      {
+        "ID": 749,
+        "Symbol": "MADRASCEM",
+        "Name": "Madras_Cements_Limited"
+      },
+      {
+        "ID": 750,
+        "Symbol": "MADRASFERT",
+        "Name": "Madras_Fertilizers_Limited"
+      },
+      {
+        "ID": 751,
+        "Symbol": "MAGMA",
+        "Name": "Magma_Fincorp_Limited"
+      },
+      {
+        "ID": 752,
+        "Symbol": "MAGNUM",
+        "Name": "Magnum_Ventures_Limited"
+      },
+      {
+        "ID": 753,
+        "Symbol": "MAHABANK",
+        "Name": "Bank_of_Maharashtra"
+      },
+      {
+        "ID": 754,
+        "Symbol": "MAHINDFORG",
+        "Name": "Mahindra_Forgings_Limited"
+      },
+      {
+        "ID": 755,
+        "Symbol": "MAHINDUGIN",
+        "Name": "Mahindra_Ugine_Steel_Company_Limited"
+      },
+      {
+        "ID": 756,
+        "Symbol": "MAHLIFE",
+        "Name": "Mahindra_Lifespace_Developers_Limited"
+      },
+      {
+        "ID": 757,
+        "Symbol": "MAHSCOOTER",
+        "Name": "Maharashtra_Scooters_Limited"
+      },
+      {
+        "ID": 758,
+        "Symbol": "MAHSEAMLES",
+        "Name": "Maharashtra_Seamless_Limited"
+      },
+      {
+        "ID": 759,
+        "Symbol": "MALWACOTT",
+        "Name": "Malwa_Cotton_Spg._Mills_Limited"
+      },
+      {
+        "ID": 760,
+        "Symbol": "MANAKSIA",
+        "Name": "Manaksia_Limited"
+      },
+      {
+        "ID": 761,
+        "Symbol": "MANALIPETC",
+        "Name": "Manali_Petrochemical_Limited"
+      },
+      {
+        "ID": 762,
+        "Symbol": "MANDHANA",
+        "Name": "Mandhana_Industries_Limited"
+      },
+      {
+        "ID": 763,
+        "Symbol": "MANGALAM",
+        "Name": "Mangalam_Drugs_And_Organics_Limited"
+      },
+      {
+        "ID": 764,
+        "Symbol": "MANGCHEFER",
+        "Name": "Mangalore_Chemicals_&_Fertilizers_Limited"
+      },
+      {
+        "ID": 765,
+        "Symbol": "MANGLMCEM",
+        "Name": "Mangalam_Cement_Limited"
+      },
+      {
+        "ID": 766,
+        "Symbol": "MANGTIMBER",
+        "Name": "Mangalam_Timber_Products_Limited"
+      },
+      {
+        "ID": 767,
+        "Symbol": "MANINDS",
+        "Name": "Man_Industries_(India)_Limited"
+      },
+      {
+        "ID": 768,
+        "Symbol": "MANINFRA",
+        "Name": "Man_Infraconstruction_Limited"
+      },
+      {
+        "ID": 769,
+        "Symbol": "MANUGRAPH",
+        "Name": "Manugraph_India_Limited"
+      },
+      {
+        "ID": 770,
+        "Symbol": "MARALOVER",
+        "Name": "Maral_Overseas_Limited"
+      },
+      {
+        "ID": 771,
+        "Symbol": "MARICO",
+        "Name": "Marico_Limited"
+      },
+      {
+        "ID": 772,
+        "Symbol": "MARKSANS",
+        "Name": "Marksans_Pharma_Limited"
+      },
+      {
+        "ID": 773,
+        "Symbol": "MARUTI",
+        "Name": "Maruti_Suzuki_India_Limited"
+      },
+      {
+        "ID": 774,
+        "Symbol": "MASTEK",
+        "Name": "Mastek_Limited"
+      },
+      {
+        "ID": 775,
+        "Symbol": "MAWANASUG",
+        "Name": "Mawana_Sugars_Limited"
+      },
+      {
+        "ID": 776,
+        "Symbol": "MAX",
+        "Name": "Max_India_Limited"
+      },
+      {
+        "ID": 777,
+        "Symbol": "MAXWELL",
+        "Name": "Maxwell_Industries_Limited"
+      },
+      {
+        "ID": 778,
+        "Symbol": "MBECL",
+        "Name": "Mcnally_Bharat_Engineering_Company_Limited"
+      },
+      {
+        "ID": 779,
+        "Symbol": "MBLINFRA",
+        "Name": "MBL_Infrastructures_Limited"
+      },
+      {
+        "ID": 780,
+        "Symbol": "MCDHOLDING",
+        "Name": "McDowell_Holdings_Limited"
+      },
+      {
+        "ID": 781,
+        "Symbol": "MCDOWELL-N",
+        "Name": "United_Spirits_Limited"
+      },
+      {
+        "ID": 782,
+        "Symbol": "MCLEODRUSS",
+        "Name": "Mcleod_Russel_India_Limited"
+      },
+      {
+        "ID": 783,
+        "Symbol": "MEGASOFT",
+        "Name": "Megasoft_Limited"
+      },
+      {
+        "ID": 784,
+        "Symbol": "MEGH",
+        "Name": "Meghmani_Organics_Limited"
+      },
+      {
+        "ID": 785,
+        "Symbol": "MELSTAR",
+        "Name": "Melstar_Information_Technologies_Limited"
+      },
+      {
+        "ID": 786,
+        "Symbol": "MERCK",
+        "Name": "Merck_Limited"
+      },
+      {
+        "ID": 787,
+        "Symbol": "MHRIL",
+        "Name": "Mahindra_Holidays_&_Resorts_India_Limited"
+      },
+      {
+        "ID": 788,
+        "Symbol": "MIC",
+        "Name": "MIC_Electronics_Limited"
+      },
+      {
+        "ID": 789,
+        "Symbol": "MICROSEC",
+        "Name": "Microsec_Financial_Services_Limited"
+      },
+      {
+        "ID": 790,
+        "Symbol": "MICROTECH",
+        "Name": "Micro_Technologies_(India)_Limited"
+      },
+      {
+        "ID": 791,
+        "Symbol": "MINDAIND",
+        "Name": "Minda_Industries_Limited"
+      },
+      {
+        "ID": 792,
+        "Symbol": "MINDTREE",
+        "Name": "MindTree_Limited"
+      },
+      {
+        "ID": 793,
+        "Symbol": "MIRCELECTR",
+        "Name": "MIRC_Electronics_Limited"
+      },
+      {
+        "ID": 794,
+        "Symbol": "MIRZAINT",
+        "Name": "Mirza_International_Limited"
+      },
+      {
+        "ID": 795,
+        "Symbol": "MLL",
+        "Name": "Mercator_Lines_Limited"
+      },
+      {
+        "ID": 796,
+        "Symbol": "MMFL",
+        "Name": "MM_Forgings_Limited"
+      },
+      {
+        "ID": 797,
+        "Symbol": "MMFSL",
+        "Name": "Money_Matters_Financial_Services_Limited"
+      },
+      {
+        "ID": 798,
+        "Symbol": "MOIL",
+        "Name": "MOIL_Limited"
+      },
+      {
+        "ID": 799,
+        "Symbol": "MONNETISPA",
+        "Name": "Monnet_Ispat_Limited"
+      },
+      {
+        "ID": 800,
+        "Symbol": "MONSANTO",
+        "Name": "Monsanto_India_Limited"
+      },
+      {
+        "ID": 801,
+        "Symbol": "MORARJETEX",
+        "Name": "Morarjee_Textiles_Limited"
+      },
+      {
+        "ID": 802,
+        "Symbol": "MOREPENLAB",
+        "Name": "Morepen_Laboratories_Limited"
+      },
+      {
+        "ID": 803,
+        "Symbol": "MOSERBAER",
+        "Name": "Moser-Baer_(I)_Limited"
+      },
+      {
+        "ID": 804,
+        "Symbol": "MOTHERSUMI",
+        "Name": "Motherson_Sumi_Systems_Limited"
+      },
+      {
+        "ID": 805,
+        "Symbol": "MOTILALOFS",
+        "Name": "Motilal_Oswal_Financial_Services_Limited"
+      },
+      {
+        "ID": 806,
+        "Symbol": "MOTOGENFIN",
+        "Name": "The_Motor_&_General_Finance_Limited"
+      },
+      {
+        "ID": 807,
+        "Symbol": "MPHASIS",
+        "Name": "MphasiS_Limited"
+      },
+      {
+        "ID": 808,
+        "Symbol": "MPSLTD",
+        "Name": "MPS_Limited"
+      },
+      {
+        "ID": 809,
+        "Symbol": "MRF",
+        "Name": "MRF_Limited"
+      },
+      {
+        "ID": 810,
+        "Symbol": "MRO-TEK",
+        "Name": "MRO-TEK_Limited"
+      },
+      {
+        "ID": 811,
+        "Symbol": "MRPL",
+        "Name": "Mangalore_Refinery_and_Petrochemicals_Limited"
+      },
+      {
+        "ID": 812,
+        "Symbol": "MSPL",
+        "Name": "MSP_Steel_&_Power_Limited"
+      },
+      {
+        "ID": 813,
+        "Symbol": "MTNL",
+        "Name": "Mahanagar_Telephone_Nigam_Limited"
+      },
+      {
+        "ID": 814,
+        "Symbol": "MUDRA",
+        "Name": "Mudra_Lifestyle_Limited"
+      },
+      {
+        "ID": 815,
+        "Symbol": "MUKANDENGG",
+        "Name": "Mukand_Engineers_Limited"
+      },
+      {
+        "ID": 816,
+        "Symbol": "MUKANDLTD",
+        "Name": "Mukand_Limited"
+      },
+      {
+        "ID": 817,
+        "Symbol": "MUKTAARTS",
+        "Name": "Mukta_Arts_Limited"
+      },
+      {
+        "ID": 818,
+        "Symbol": "MUNDRAPORT",
+        "Name": "Mundra_Port_and_Special_Economic_Zone_Limited"
+      },
+      {
+        "ID": 819,
+        "Symbol": "MUNJALAU",
+        "Name": "Munjal_Auto_Industries_Limited"
+      },
+      {
+        "ID": 820,
+        "Symbol": "MUNJALSHOW",
+        "Name": "Munjal_Showa_Limited"
+      },
+      {
+        "ID": 821,
+        "Symbol": "MURLIIND",
+        "Name": "Murli_Industries_Limited"
+      },
+      {
+        "ID": 822,
+        "Symbol": "MURUDCERA",
+        "Name": "Murudeshwar_Ceramics_Limited"
+      },
+      {
+        "ID": 823,
+        "Symbol": "MVL",
+        "Name": "MVL_Limited"
+      },
+      {
+        "ID": 824,
+        "Symbol": "MVLIND",
+        "Name": "MVL_Industries_Limited"
+      },
+      {
+        "ID": 825,
+        "Symbol": "MYSOREBANK",
+        "Name": "State_Bank_of_Mysore"
+      },
+      {
+        "ID": 826,
+        "Symbol": "NAGARFERT",
+        "Name": "Nagarjuna_Fertilizer_&_Chemicals_Limited"
+      },
+      {
+        "ID": 827,
+        "Symbol": "NAGREEKCAP",
+        "Name": "Nagreeka_Capital_&_Infrastructure_Limited"
+      },
+      {
+        "ID": 828,
+        "Symbol": "NAGREEKEXP",
+        "Name": "Nagreeka_Exports_Limited"
+      },
+      {
+        "ID": 829,
+        "Symbol": "NAHARCAP",
+        "Name": "Nahar_Capital_and_Financial_Services_Limited"
+      },
+      {
+        "ID": 830,
+        "Symbol": "NAHARINDUS",
+        "Name": "Nahar_Industrial_Enterprises_Limited"
+      },
+      {
+        "ID": 831,
+        "Symbol": "NAHARPOLY",
+        "Name": "Nahar_Poly_Films_Limited"
+      },
+      {
+        "ID": 832,
+        "Symbol": "NAHARSPING",
+        "Name": "Nahar_Spinning_Mills_Limited"
+      },
+      {
+        "ID": 833,
+        "Symbol": "NANDAN",
+        "Name": "Nandan_Exim_Limited"
+      },
+      {
+        "ID": 834,
+        "Symbol": "NATCOPHARM",
+        "Name": "Natco_Pharma_Limited"
+      },
+      {
+        "ID": 835,
+        "Symbol": "NATIONALUM",
+        "Name": "National_Aluminium_Company_Limited"
+      },
+      {
+        "ID": 836,
+        "Symbol": "NATNLSTEEL",
+        "Name": "National_Steel_And_Agro_Industries_Limited"
+      },
+      {
+        "ID": 837,
+        "Symbol": "NAUKRI",
+        "Name": "Info_Edge_(India)_Limited"
+      },
+      {
+        "ID": 838,
+        "Symbol": "NAVINFLUOR",
+        "Name": "Navin_Fluorine_International_Limited"
+      },
+      {
+        "ID": 839,
+        "Symbol": "NAVNETPUBL",
+        "Name": "Navneet_Publications_India_Limited"
+      },
+      {
+        "ID": 840,
+        "Symbol": "NBVENTURES",
+        "Name": "Nava_Bharat_Ventures_Limited"
+      },
+      {
+        "ID": 841,
+        "Symbol": "NCC",
+        "Name": "NCC_Limited"
+      },
+      {
+        "ID": 842,
+        "Symbol": "NCLIND",
+        "Name": "NCL_Industries_Limited"
+      },
+      {
+        "ID": 843,
+        "Symbol": "NDTV",
+        "Name": "New_Delhi_Television_Limited"
+      },
+      {
+        "ID": 844,
+        "Symbol": "NECLIFE",
+        "Name": "Nectar_Lifesciences_Limited"
+      },
+      {
+        "ID": 845,
+        "Symbol": "NELCAST",
+        "Name": "Nelcast_Limited"
+      },
+      {
+        "ID": 846,
+        "Symbol": "NELCO",
+        "Name": "NELCO_Limited"
+      },
+      {
+        "ID": 847,
+        "Symbol": "NEPCMICON",
+        "Name": "NEPC_India_Limited"
+      },
+      {
+        "ID": 848,
+        "Symbol": "NESCO",
+        "Name": "Nesco_Limited"
+      },
+      {
+        "ID": 849,
+        "Symbol": "NET4",
+        "Name": "Net_4_India_Limited"
+      },
+      {
+        "ID": 850,
+        "Symbol": "NETWORK18",
+        "Name": "Network18_Media_&_Investments_Limited"
+      },
+      {
+        "ID": 851,
+        "Symbol": "NEULANDLAB",
+        "Name": "Neuland_Laboratories_Limited"
+      },
+      {
+        "ID": 852,
+        "Symbol": "NEXTMEDIA",
+        "Name": "Next_Mediaworks_Limited"
+      },
+      {
+        "ID": 853,
+        "Symbol": "NEYVELILIG",
+        "Name": "Neyveli_Lignite_Corporation_Limited"
+      },
+      {
+        "ID": 854,
+        "Symbol": "NFL",
+        "Name": "National_Fertilizers_Limited"
+      },
+      {
+        "ID": 855,
+        "Symbol": "NHPC",
+        "Name": "NHPC_Limited"
+      },
+      {
+        "ID": 856,
+        "Symbol": "NICCO",
+        "Name": "Nicco_Corporation_Limited"
+      },
+      {
+        "ID": 857,
+        "Symbol": "NIITLTD",
+        "Name": "NIIT_Limited"
+      },
+      {
+        "ID": 858,
+        "Symbol": "NIITTECH",
+        "Name": "NIIT_Technologies_Limited"
+      },
+      {
+        "ID": 859,
+        "Symbol": "NILKAMAL",
+        "Name": "Nilkamal_Limited"
+      },
+      {
+        "ID": 860,
+        "Symbol": "NIPPOBATRY",
+        "Name": "Nippo_Batteries_Company_Limited"
+      },
+      {
+        "ID": 861,
+        "Symbol": "NIRMA",
+        "Name": "Nirma_Limited"
+      },
+      {
+        "ID": 862,
+        "Symbol": "NISSAN",
+        "Name": "Nissan_Copper_Limited"
+      },
+      {
+        "ID": 863,
+        "Symbol": "NITCO",
+        "Name": "Nitco_Limited"
+      },
+      {
+        "ID": 864,
+        "Symbol": "NITESHEST",
+        "Name": "Nitesh_Estates_Limited"
+      },
+      {
+        "ID": 865,
+        "Symbol": "NITINFIRE",
+        "Name": "Nitin_Fire_Protection_Industries_Limited"
+      },
+      {
+        "ID": 866,
+        "Symbol": "NITINSPIN",
+        "Name": "Nitin_Spinners_Limited"
+      },
+      {
+        "ID": 867,
+        "Symbol": "NMDC",
+        "Name": "NMDC_Limited"
+      },
+      {
+        "ID": 868,
+        "Symbol": "NOCIL",
+        "Name": "NOCIL_Limited"
+      },
+      {
+        "ID": 869,
+        "Symbol": "NOIDATOLL",
+        "Name": "Noida_Toll_Bridge_Company_Limited"
+      },
+      {
+        "ID": 870,
+        "Symbol": "NORBTEAEXP",
+        "Name": "Norben_Tea_&_Exports_Limited"
+      },
+      {
+        "ID": 871,
+        "Symbol": "NORTHGATE",
+        "Name": "Northgate_Technologies_Limited"
+      },
+      {
+        "ID": 872,
+        "Symbol": "NOVOPANIND",
+        "Name": "Novopan_Industries_Limited"
+      },
+      {
+        "ID": 873,
+        "Symbol": "NRBBEARING",
+        "Name": "NRB_Bearing_Limited"
+      },
+      {
+        "ID": 874,
+        "Symbol": "NSIL",
+        "Name": "Nalwa_Sons_Investments_Limited"
+      },
+      {
+        "ID": 875,
+        "Symbol": "NTPC",
+        "Name": "NTPC_Limited"
+      },
+      {
+        "ID": 876,
+        "Symbol": "NUCENT",
+        "Name": "Nucent_Finance_Limited"
+      },
+      {
+        "ID": 877,
+        "Symbol": "NUCHEM",
+        "Name": "Nuchem_Limited"
+      },
+      {
+        "ID": 878,
+        "Symbol": "NUCLEUS",
+        "Name": "Nucleus_Software_Exports_Limited"
+      },
+      {
+        "ID": 879,
+        "Symbol": "NUMERICPW",
+        "Name": "Numeric_Power_Systems_Limited"
+      },
+      {
+        "ID": 880,
+        "Symbol": "NUTEK",
+        "Name": "Nu_Tek_India_Limited"
+      },
+      {
+        "ID": 881,
+        "Symbol": "OBEROIRLTY",
+        "Name": "Oberoi_Realty_Limited"
+      },
+      {
+        "ID": 882,
+        "Symbol": "OCL",
+        "Name": "OCL_India_Limited"
+      },
+      {
+        "ID": 883,
+        "Symbol": "OFSS",
+        "Name": "Oracle_Financial_Services_Software_Limited"
+      },
+      {
+        "ID": 884,
+        "Symbol": "OIL",
+        "Name": "Oil_India_Limited"
+      },
+      {
+        "ID": 885,
+        "Symbol": "OILCOUNTUB",
+        "Name": "Oil_Country_Tubular_Limited"
+      },
+      {
+        "ID": 886,
+        "Symbol": "OISL",
+        "Name": "OCL_Iron_and_Steel_Limited"
+      },
+      {
+        "ID": 887,
+        "Symbol": "OMAXAUTO",
+        "Name": "Omax_Autos_Limited"
+      },
+      {
+        "ID": 888,
+        "Symbol": "OMAXE",
+        "Name": "Omaxe_Limited"
+      },
+      {
+        "ID": 889,
+        "Symbol": "OMKARCHEM",
+        "Name": "Omkar_Speciality_Chemicals_Limited"
+      },
+      {
+        "ID": 890,
+        "Symbol": "OMMETALS",
+        "Name": "OM_Metals_Infraprojects_Limited"
+      },
+      {
+        "ID": 891,
+        "Symbol": "OMNITECH",
+        "Name": "Omnitech_Infosolutions_Limited"
+      },
+      {
+        "ID": 892,
+        "Symbol": "ONGC",
+        "Name": "Oil_&_Natural_Gas_Corporation_Limited"
+      },
+      {
+        "ID": 893,
+        "Symbol": "ONMOBILE",
+        "Name": "OnMobile_Global_Limited"
+      },
+      {
+        "ID": 894,
+        "Symbol": "ONWARDTEC",
+        "Name": "Onward_Technologies_Limited"
+      },
+      {
+        "ID": 895,
+        "Symbol": "OPTOCIRCUI",
+        "Name": "Opto_Circuits_(India)_Limited"
+      },
+      {
+        "ID": 896,
+        "Symbol": "ORBITCORP",
+        "Name": "Orbit_Corporation_Limited"
+      },
+      {
+        "ID": 897,
+        "Symbol": "ORCHIDCHEM",
+        "Name": "Orchid_Chemicals_&_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 898,
+        "Symbol": "ORIENTABRA",
+        "Name": "Orient_Abrasives_Limited"
+      },
+      {
+        "ID": 899,
+        "Symbol": "ORIENTALTL",
+        "Name": "Oriental_Trimex_Limited"
+      },
+      {
+        "ID": 900,
+        "Symbol": "ORIENTBANK",
+        "Name": "Oriental_Bank_of_Commerce"
+      },
+      {
+        "ID": 901,
+        "Symbol": "ORIENTCERA",
+        "Name": "Orient_Ceramics_and_Industries_Limited"
+      },
+      {
+        "ID": 902,
+        "Symbol": "ORIENTHOT",
+        "Name": "Oriental_Hotels_Limited"
+      },
+      {
+        "ID": 903,
+        "Symbol": "ORIENTLTD",
+        "Name": "Orient_Press_Limited"
+      },
+      {
+        "ID": 904,
+        "Symbol": "ORIENTPPR",
+        "Name": "Orient_Paper_&_Industries_Limited"
+      },
+      {
+        "ID": 905,
+        "Symbol": "ORISSAMINE",
+        "Name": "The_Orissa_Minerals_Development_Company_Limited"
+      },
+      {
+        "ID": 906,
+        "Symbol": "OUDHSUG",
+        "Name": "The_Oudh_Sugar_Mills_Limited"
+      },
+      {
+        "ID": 907,
+        "Symbol": "PAEL",
+        "Name": "PAE_Limited"
+      },
+      {
+        "ID": 908,
+        "Symbol": "PAGEIND",
+        "Name": "Page_Industries_Limited"
+      },
+      {
+        "ID": 909,
+        "Symbol": "PANACEABIO",
+        "Name": "Panacea_Biotec_Limited"
+      },
+      {
+        "ID": 910,
+        "Symbol": "PANORAMUNI",
+        "Name": "Panoramic_Universal_Limited"
+      },
+      {
+        "ID": 911,
+        "Symbol": "PANTALOONR",
+        "Name": "Pantaloon_Retail_(India)_Limited"
+      },
+      {
+        "ID": 912,
+        "Symbol": "PAPERPROD",
+        "Name": "The_Paper_Products_Limited"
+      },
+      {
+        "ID": 913,
+        "Symbol": "PARABDRUGS",
+        "Name": "Parabolic_Drugs_Limited"
+      },
+      {
+        "ID": 914,
+        "Symbol": "PARACABLES",
+        "Name": "Paramount_Communications_Limited"
+      },
+      {
+        "ID": 915,
+        "Symbol": "PARAL",
+        "Name": "Parekh_Aluminex_Limited"
+      },
+      {
+        "ID": 916,
+        "Symbol": "PARAPRINT",
+        "Name": "Paramount_Printpackaging_Limited"
+      },
+      {
+        "ID": 917,
+        "Symbol": "PARASPETRO",
+        "Name": "Paras_Petrofils_Limited"
+      },
+      {
+        "ID": 918,
+        "Symbol": "PAREKHPLAT",
+        "Name": "Parekh_Platinum_Limited"
+      },
+      {
+        "ID": 919,
+        "Symbol": "PARRYSUGAR",
+        "Name": "Parrys_Sugar_Industries_Limited"
+      },
+      {
+        "ID": 920,
+        "Symbol": "PARSVNATH",
+        "Name": "Parsvnath_Developers_Limited"
+      },
+      {
+        "ID": 921,
+        "Symbol": "PATELENG",
+        "Name": "Patel_Engineering_Limited"
+      },
+      {
+        "ID": 922,
+        "Symbol": "PATINTLOG",
+        "Name": "Patel_Integrated_Logistics_Limited"
+      },
+      {
+        "ID": 923,
+        "Symbol": "PATNI",
+        "Name": "Patni_Computer_Systems_Limited"
+      },
+      {
+        "ID": 924,
+        "Symbol": "PATSPINLTD",
+        "Name": "Patspin_India_Limited"
+      },
+      {
+        "ID": 925,
+        "Symbol": "PBAINFRA",
+        "Name": "PBA_Infrastructure_Limited"
+      },
+      {
+        "ID": 926,
+        "Symbol": "PDPL",
+        "Name": "Parenteral_Drugs_(India)_Limited"
+      },
+      {
+        "ID": 927,
+        "Symbol": "PDUMJEIND",
+        "Name": "Pudumjee_Industries_Limited"
+      },
+      {
+        "ID": 928,
+        "Symbol": "PDUMJEPULP",
+        "Name": "Pudumjee_Pulp_&_Paper_Mills_Limited"
+      },
+      {
+        "ID": 929,
+        "Symbol": "PEARLPOLY",
+        "Name": "Pearl_Polymers_Limited"
+      },
+      {
+        "ID": 930,
+        "Symbol": "PENIND",
+        "Name": "Pennar_Industries_Limited"
+      },
+      {
+        "ID": 931,
+        "Symbol": "PENINLAND",
+        "Name": "Peninsula_Land_Limited"
+      },
+      {
+        "ID": 932,
+        "Symbol": "PEPL",
+        "Name": "Pearl_Engineering_Polymers_Limited"
+      },
+      {
+        "ID": 933,
+        "Symbol": "PERSISTENT",
+        "Name": "Persistent_Systems_Limited"
+      },
+      {
+        "ID": 934,
+        "Symbol": "PETRONENGG",
+        "Name": "Petron_Engineering_Construction_Limited"
+      },
+      {
+        "ID": 935,
+        "Symbol": "PETRONET",
+        "Name": "Petronet_LNG_Limited"
+      },
+      {
+        "ID": 936,
+        "Symbol": "PFC",
+        "Name": "Power_Finance_Corporation_Limited"
+      },
+      {
+        "ID": 937,
+        "Symbol": "PFIZER",
+        "Name": "Pfizer_Limited"
+      },
+      {
+        "ID": 938,
+        "Symbol": "PFOCUS",
+        "Name": "Prime_Focus_Limited"
+      },
+      {
+        "ID": 939,
+        "Symbol": "PFS",
+        "Name": "PTC_India_Financial_Services_Limited"
+      },
+      {
+        "ID": 940,
+        "Symbol": "PGHH",
+        "Name": "Procter_&_Gamble_Hygiene_and_Health_Care_Limited"
+      },
+      {
+        "ID": 941,
+        "Symbol": "PHILIPCARB",
+        "Name": "Phillips_Carbon_Black_Limited"
+      },
+      {
+        "ID": 942,
+        "Symbol": "PHOENIXLTD",
+        "Name": "The_Phoenix_Mills_Limited"
+      },
+      {
+        "ID": 943,
+        "Symbol": "PIDILITIND",
+        "Name": "Pidilite_Industries_Limited"
+      },
+      {
+        "ID": 944,
+        "Symbol": "PIIND",
+        "Name": "PI_Industries_Limited"
+      },
+      {
+        "ID": 945,
+        "Symbol": "PIONDIST",
+        "Name": "Pioneer_Distilleries_Limited"
+      },
+      {
+        "ID": 946,
+        "Symbol": "PIPAVAVYD",
+        "Name": "Pipavav_Shipyard_Limited"
+      },
+      {
+        "ID": 947,
+        "Symbol": "PIRGLASS",
+        "Name": "Piramal_Glass_Limited"
+      },
+      {
+        "ID": 948,
+        "Symbol": "PIRHEALTH",
+        "Name": "Piramal_Healthcare_Limited"
+      },
+      {
+        "ID": 949,
+        "Symbol": "PIRLIFE",
+        "Name": "Piramal_Life_Sciences_Limited"
+      },
+      {
+        "ID": 950,
+        "Symbol": "PITTILAM",
+        "Name": "Pitti_Laminations_Limited"
+      },
+      {
+        "ID": 951,
+        "Symbol": "PLASTIBLEN",
+        "Name": "Plastiblends_India_Limited"
+      },
+      {
+        "ID": 952,
+        "Symbol": "PLETHICO",
+        "Name": "Plethico_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 953,
+        "Symbol": "PNB",
+        "Name": "Punjab_National_Bank"
+      },
+      {
+        "ID": 954,
+        "Symbol": "PNBGILTS",
+        "Name": "PNB_Gilts_Limited"
+      },
+      {
+        "ID": 955,
+        "Symbol": "PNC",
+        "Name": "Pritish_Nandy_Communications_Limited"
+      },
+      {
+        "ID": 956,
+        "Symbol": "POCHIRAJU",
+        "Name": "Pochiraju_Industries_Limited"
+      },
+      {
+        "ID": 957,
+        "Symbol": "POLARIS",
+        "Name": "Polaris_Software_Lab_Limited"
+      },
+      {
+        "ID": 958,
+        "Symbol": "POLYPLEX",
+        "Name": "Polyplex_Corporation_Limited"
+      },
+      {
+        "ID": 959,
+        "Symbol": "PONNIERODE",
+        "Name": "Ponni_Sugars_(Erode)_Limited"
+      },
+      {
+        "ID": 960,
+        "Symbol": "POWERGRID",
+        "Name": "Power_Grid_Corporation_of_India_Limited"
+      },
+      {
+        "ID": 961,
+        "Symbol": "PPAP",
+        "Name": "Precision_Pipes_And_Profiles_Company_Limited"
+      },
+      {
+        "ID": 962,
+        "Symbol": "PRADIP",
+        "Name": "Pradip_Overseas_Limited"
+      },
+      {
+        "ID": 963,
+        "Symbol": "PRAENG",
+        "Name": "Prajay_Engineers_Syndicate_Limited"
+      },
+      {
+        "ID": 964,
+        "Symbol": "PRAJIND",
+        "Name": "Praj_Industries_Limited"
+      },
+      {
+        "ID": 965,
+        "Symbol": "PRAKASH",
+        "Name": "Prakash_Industries_Limited"
+      },
+      {
+        "ID": 966,
+        "Symbol": "PRAKASHSTL",
+        "Name": "Prakash_Steelage_Limited"
+      },
+      {
+        "ID": 967,
+        "Symbol": "PRATIBHA",
+        "Name": "Pratibha_Industries_Limited"
+      },
+      {
+        "ID": 968,
+        "Symbol": "PRECOT",
+        "Name": "Precot_Meridian_Limited"
+      },
+      {
+        "ID": 969,
+        "Symbol": "PRECWIRE",
+        "Name": "Precision_Wires_India_Limited"
+      },
+      {
+        "ID": 970,
+        "Symbol": "PREMIER",
+        "Name": "Premier_Limited"
+      },
+      {
+        "ID": 971,
+        "Symbol": "PRESTIGE",
+        "Name": "Prestige_Estates_Projects_Limited"
+      },
+      {
+        "ID": 972,
+        "Symbol": "PRICOL",
+        "Name": "Pricol_Limited"
+      },
+      {
+        "ID": 973,
+        "Symbol": "PRIMESECU",
+        "Name": "Prime_Securities_Limited"
+      },
+      {
+        "ID": 974,
+        "Symbol": "PRISMCEM",
+        "Name": "Prism_Cement_Limited"
+      },
+      {
+        "ID": 975,
+        "Symbol": "PRITHVI",
+        "Name": "Prithvi_Information_Solutions_Limited"
+      },
+      {
+        "ID": 976,
+        "Symbol": "PROVOGUE",
+        "Name": "Provogue_(India)_Limited"
+      },
+      {
+        "ID": 977,
+        "Symbol": "PSB",
+        "Name": "Punjab_&_Sind_Bank"
+      },
+      {
+        "ID": 978,
+        "Symbol": "PSL",
+        "Name": "PSL_Limited"
+      },
+      {
+        "ID": 979,
+        "Symbol": "PTC",
+        "Name": "PTC_India_Limited"
+      },
+      {
+        "ID": 980,
+        "Symbol": "PTL",
+        "Name": "PTL_Enterprises_Limited"
+      },
+      {
+        "ID": 981,
+        "Symbol": "PUNJABCHEM",
+        "Name": "Punjab_Chemicals_&_Crop_Protection_Limited"
+      },
+      {
+        "ID": 982,
+        "Symbol": "PUNJLLOYD",
+        "Name": "Punj_Lloyd_Limited"
+      },
+      {
+        "ID": 983,
+        "Symbol": "PURVA",
+        "Name": "Puravankara_Projects_Limited"
+      },
+      {
+        "ID": 984,
+        "Symbol": "PVP",
+        "Name": "PVP_Ventures_Limited"
+      },
+      {
+        "ID": 985,
+        "Symbol": "PVR",
+        "Name": "PVR_Limited"
+      },
+      {
+        "ID": 986,
+        "Symbol": "QUINTEGRA",
+        "Name": "Quintegra_Solutions_Limited"
+      },
+      {
+        "ID": 987,
+        "Symbol": "RADAAN",
+        "Name": "Radaan_Mediaworks_India_Limited"
+      },
+      {
+        "ID": 988,
+        "Symbol": "RADICO",
+        "Name": "Radico_Khaitan_Limited"
+      },
+      {
+        "ID": 989,
+        "Symbol": "RAINBOWPAP",
+        "Name": "Rainbow_Papers_Limited"
+      },
+      {
+        "ID": 990,
+        "Symbol": "RAINCOM",
+        "Name": "Rain_Commodities_Limited"
+      },
+      {
+        "ID": 991,
+        "Symbol": "RAIREKMOH",
+        "Name": "Raisaheb_Reckhchand_Mohota_Spinning_&_Weaving_Mills_Limited"
+      },
+      {
+        "ID": 992,
+        "Symbol": "RAJESHEXPO",
+        "Name": "Rajesh_Exports_Limited"
+      },
+      {
+        "ID": 993,
+        "Symbol": "RAJOIL",
+        "Name": "Raj_Oil_Mills_Limited"
+      },
+      {
+        "ID": 994,
+        "Symbol": "RAJRAYON",
+        "Name": "Raj_Rayon_Industries_Limited"
+      },
+      {
+        "ID": 995,
+        "Symbol": "RAJSREESUG",
+        "Name": "Rajshree_Sugars_&_Chemicals_Limited"
+      },
+      {
+        "ID": 996,
+        "Symbol": "RAJTV",
+        "Name": "Raj_Television_Network_Limited"
+      },
+      {
+        "ID": 997,
+        "Symbol": "RAJVIR",
+        "Name": "Rajvir_Industries_Limited"
+      },
+      {
+        "ID": 998,
+        "Symbol": "RALLIS",
+        "Name": "Rallis_India_Limited"
+      },
+      {
+        "ID": 999,
+        "Symbol": "RAMANEWS",
+        "Name": "Rama_Newsprint_and_Papers_Limited"
+      },
+      {
+        "ID": 1000,
+        "Symbol": "RAMCOIND",
+        "Name": "Ramco_Industries_Limited"
+      },
+      {
+        "ID": 1001,
+        "Symbol": "RAMCOSYS",
+        "Name": "Ramco_Systems_Limited"
+      },
+      {
+        "ID": 1002,
+        "Symbol": "RAMKY",
+        "Name": "Ramky_Infrastructure_Limited"
+      },
+      {
+        "ID": 1003,
+        "Symbol": "RAMSARUP",
+        "Name": "Ramsarup_Industries_Limited"
+      },
+      {
+        "ID": 1004,
+        "Symbol": "RANASUG",
+        "Name": "Rana_Sugars_Limited"
+      },
+      {
+        "ID": 1005,
+        "Symbol": "RANBAXY",
+        "Name": "Ranbaxy_Laboratories_Limited"
+      },
+      {
+        "ID": 1006,
+        "Symbol": "RANEENGINE",
+        "Name": "Rane_Engine_Valve_Limited"
+      },
+      {
+        "ID": 1007,
+        "Symbol": "RANEHOLDIN",
+        "Name": "Rane_Holdings_Limited"
+      },
+      {
+        "ID": 1008,
+        "Symbol": "RATNAMANI",
+        "Name": "Ratnamani_Metals_&_Tubes_Limited"
+      },
+      {
+        "ID": 1009,
+        "Symbol": "RAYMOND",
+        "Name": "Raymond_Limited"
+      },
+      {
+        "ID": 1010,
+        "Symbol": "RBL",
+        "Name": "Rane_Brake_Lining_Limited"
+      },
+      {
+        "ID": 1011,
+        "Symbol": "RBN",
+        "Name": "Reliance_Broadcast_Network_Limited"
+      },
+      {
+        "ID": 1012,
+        "Symbol": "RCF",
+        "Name": "Rashtriya_Chemicals_and_Fertilizers_Limited"
+      },
+      {
+        "ID": 1013,
+        "Symbol": "RCOM",
+        "Name": "Reliance_Communications_Limited"
+      },
+      {
+        "ID": 1014,
+        "Symbol": "RECLTD",
+        "Name": "Rural_Electrification_Corporation_Limited"
+      },
+      {
+        "ID": 1015,
+        "Symbol": "REDINGTON",
+        "Name": "Redington_(India)_Limited"
+      },
+      {
+        "ID": 1016,
+        "Symbol": "REFEX",
+        "Name": "Refex_Refrigerants_Limited"
+      },
+      {
+        "ID": 1017,
+        "Symbol": "REIAGROLTD",
+        "Name": "Rei_Agro_Limited"
+      },
+      {
+        "ID": 1018,
+        "Symbol": "REISIXTEN",
+        "Name": "REI_Six_Ten_Retail_Limited"
+      },
+      {
+        "ID": 1019,
+        "Symbol": "RELAXO",
+        "Name": "Relaxo_Footwears_Limited"
+      },
+      {
+        "ID": 1020,
+        "Symbol": "RELCAPITAL",
+        "Name": "Reliance_Capital_Limited"
+      },
+      {
+        "ID": 1021,
+        "Symbol": "RELIANCE",
+        "Name": "Reliance_Industries_Limited"
+      },
+      {
+        "ID": 1022,
+        "Symbol": "RELIGARE",
+        "Name": "Religare_Enterprises_Limited"
+      },
+      {
+        "ID": 1023,
+        "Symbol": "RELINFRA",
+        "Name": "Reliance_Infrastructure_Limited"
+      },
+      {
+        "ID": 1024,
+        "Symbol": "RELMEDIA",
+        "Name": "Reliance_MediaWorks_Limited"
+      },
+      {
+        "ID": 1025,
+        "Symbol": "RENUKA",
+        "Name": "Shree_Renuka_Sugars_Limited"
+      },
+      {
+        "ID": 1026,
+        "Symbol": "REPRO",
+        "Name": "Repro_India_Limited"
+      },
+      {
+        "ID": 1027,
+        "Symbol": "RESPONIND",
+        "Name": "Responsive_Industries_Limited"
+      },
+      {
+        "ID": 1028,
+        "Symbol": "RESURGERE",
+        "Name": "Resurgere_Mines_&_Minerals_India_Limited"
+      },
+      {
+        "ID": 1029,
+        "Symbol": "REVATHI",
+        "Name": "Revathi_Equipment_Limited"
+      },
+      {
+        "ID": 1030,
+        "Symbol": "RICOAUTO",
+        "Name": "Rico_Auto_Industries_Limited"
+      },
+      {
+        "ID": 1031,
+        "Symbol": "RIIL",
+        "Name": "Reliance_Industrial_Infrastructure_Limited"
+      },
+      {
+        "ID": 1032,
+        "Symbol": "RJL",
+        "Name": "Renaissance_Jewellery_Limited"
+      },
+      {
+        "ID": 1033,
+        "Symbol": "RKFORGE",
+        "Name": "Ramkrishna_Forgings_Limited"
+      },
+      {
+        "ID": 1034,
+        "Symbol": "RMCL",
+        "Name": "Radha_Madhav_Corporation_Limited"
+      },
+      {
+        "ID": 1035,
+        "Symbol": "RML",
+        "Name": "Rane_(Madras)_Limited"
+      },
+      {
+        "ID": 1036,
+        "Symbol": "ROHITFERRO",
+        "Name": "Rohit_Ferro-Tech_Limited"
+      },
+      {
+        "ID": 1037,
+        "Symbol": "ROHLTD",
+        "Name": "Royal_Orchid_Hotels_Limited"
+      },
+      {
+        "ID": 1038,
+        "Symbol": "ROLTA",
+        "Name": "Rolta_India_Limited"
+      },
+      {
+        "ID": 1039,
+        "Symbol": "ROMAN",
+        "Name": "Roman_Tarmat_Limited"
+      },
+      {
+        "ID": 1040,
+        "Symbol": "RPGLIFE",
+        "Name": "RPG_Life_Sciences_Limited"
+      },
+      {
+        "ID": 1041,
+        "Symbol": "RPOWER",
+        "Name": "Reliance_Power_Limited"
+      },
+      {
+        "ID": 1042,
+        "Symbol": "RPPINFRA",
+        "Name": "R.P.P._Infra_Projects_Limited"
+      },
+      {
+        "ID": 1043,
+        "Symbol": "RSSOFTWARE",
+        "Name": "R._S._Software_(India)_Limited"
+      },
+      {
+        "ID": 1044,
+        "Symbol": "RSWM",
+        "Name": "RSWM_Limited"
+      },
+      {
+        "ID": 1045,
+        "Symbol": "RSYSTEMS",
+        "Name": "R_Systems_International_Limited"
+      },
+      {
+        "ID": 1046,
+        "Symbol": "RUBYMILLS",
+        "Name": "The_Ruby_Mills_Limited"
+      },
+      {
+        "ID": 1047,
+        "Symbol": "RUCHIRA",
+        "Name": "Ruchira_Papers_Limited"
+      },
+      {
+        "ID": 1048,
+        "Symbol": "RUCHISOYA",
+        "Name": "Ruchi_Soya_Industries_Limited"
+      },
+      {
+        "ID": 1049,
+        "Symbol": "RUCHINFRA",
+        "Name": "Ruchi_Infrastructure_Limited"
+      },
+      {
+        "ID": 1050,
+        "Symbol": "SABERORGAN",
+        "Name": "Sabero_Organics_Gujarat_Limited"
+      },
+      {
+        "ID": 1051,
+        "Symbol": "SABTN",
+        "Name": "Sri_Adhikari_Brothers_Television_Network_Limited"
+      },
+      {
+        "ID": 1052,
+        "Symbol": "SADBHAV",
+        "Name": "Sadbhav_Engineering_Limited"
+      },
+      {
+        "ID": 1053,
+        "Symbol": "SAGCEM",
+        "Name": "Sagar_Cements_Limited"
+      },
+      {
+        "ID": 1054,
+        "Symbol": "SAHPETRO",
+        "Name": "Sah_Petroleums_Limited"
+      },
+      {
+        "ID": 1055,
+        "Symbol": "SAIL",
+        "Name": "Steel_Authority_of_India_Limited"
+      },
+      {
+        "ID": 1056,
+        "Symbol": "SAKHTISUG",
+        "Name": "Sakthi_Sugars_Limited"
+      },
+      {
+        "ID": 1057,
+        "Symbol": "SAKSOFT",
+        "Name": "Saksoft_Limited"
+      },
+      {
+        "ID": 1058,
+        "Symbol": "SAKUMA",
+        "Name": "Sakuma_Exports_Limited"
+      },
+      {
+        "ID": 1059,
+        "Symbol": "SALORAINTL",
+        "Name": "Salora_International_Limited"
+      },
+      {
+        "ID": 1060,
+        "Symbol": "SALSTEEL",
+        "Name": "S.A.L._Steel_Limited"
+      },
+      {
+        "ID": 1061,
+        "Symbol": "SAMBHAAV",
+        "Name": "Sambhaav_Media_Limited"
+      },
+      {
+        "ID": 1062,
+        "Symbol": "SAMTEL",
+        "Name": "Samtel_Color_Limited"
+      },
+      {
+        "ID": 1063,
+        "Symbol": "SANDESH",
+        "Name": "The_Sandesh_Limited"
+      },
+      {
+        "ID": 1064,
+        "Symbol": "SANGAMIND",
+        "Name": "Sangam_(India)_Limited"
+      },
+      {
+        "ID": 1065,
+        "Symbol": "SANGHIIND",
+        "Name": "Sanghi_Industries_Limited"
+      },
+      {
+        "ID": 1066,
+        "Symbol": "SANGHVIFOR",
+        "Name": "Sanghvi_Forging_and_Engineering_Limited"
+      },
+      {
+        "ID": 1067,
+        "Symbol": "SANGHVIMOV",
+        "Name": "Sanghvi_Movers_Limited"
+      },
+      {
+        "ID": 1068,
+        "Symbol": "SANWARIA",
+        "Name": "Sanwaria_Agro_Oils_Limited"
+      },
+      {
+        "ID": 1069,
+        "Symbol": "SARDAEN",
+        "Name": "Sarda_Energy_&_Minerals_Limited"
+      },
+      {
+        "ID": 1070,
+        "Symbol": "SAREGAMA",
+        "Name": "Saregama_India_Limited"
+      },
+      {
+        "ID": 1071,
+        "Symbol": "SARLAPOLY",
+        "Name": "Sarla_Performance_Fibers_Limited"
+      },
+      {
+        "ID": 1072,
+        "Symbol": "SASKEN",
+        "Name": "Sasken_Communication_Technologies_Limited"
+      },
+      {
+        "ID": 1073,
+        "Symbol": "SATHAISPAT",
+        "Name": "Sathavahana_Ispat_Limited"
+      },
+      {
+        "ID": 1074,
+        "Symbol": "SATYAMCOMP",
+        "Name": "Satyam_Computer_Services_Limited"
+      },
+      {
+        "ID": 1075,
+        "Symbol": "SAVERA",
+        "Name": "Savera_Industries_Limited"
+      },
+      {
+        "ID": 1076,
+        "Symbol": "SB&TINTL",
+        "Name": "SB&T_International_Limited"
+      },
+      {
+        "ID": 1077,
+        "Symbol": "SBBJ",
+        "Name": "State_Bank_of_Bikaner_and_Jaipur"
+      },
+      {
+        "ID": 1078,
+        "Symbol": "SBIN",
+        "Name": "State_Bank_of_India"
+      },
+      {
+        "ID": 1079,
+        "Symbol": "SBT",
+        "Name": "State_Bank_of_Travancore"
+      },
+      {
+        "ID": 1080,
+        "Symbol": "SCI",
+        "Name": "Shipping_Corporation_Of_India_Limited"
+      },
+      {
+        "ID": 1081,
+        "Symbol": "SEAMECLTD",
+        "Name": "Seamec_Limited"
+      },
+      {
+        "ID": 1082,
+        "Symbol": "SEINVEST",
+        "Name": "S.E._Investments_Limited"
+      },
+      {
+        "ID": 1083,
+        "Symbol": "SELAN",
+        "Name": "Selan_Exploration_Technology_Limited"
+      },
+      {
+        "ID": 1084,
+        "Symbol": "SELMCL",
+        "Name": "SEL_Manufacturing_Company_Limited"
+      },
+      {
+        "ID": 1085,
+        "Symbol": "SERVALL",
+        "Name": "Servalakshmi_Paper_Limited"
+      },
+      {
+        "ID": 1086,
+        "Symbol": "SESAGOA",
+        "Name": "Sesa_Goa_Limited"
+      },
+      {
+        "ID": 1087,
+        "Symbol": "SESHAPAPER",
+        "Name": "Seshasayee_Paper_and_Boards_Limi"
+      },
+      {
+        "ID": 1088,
+        "Symbol": "SEZALGLASS",
+        "Name": "Sezal_Glass_Limited"
+      },
+      {
+        "ID": 1089,
+        "Symbol": "SGFL",
+        "Name": "Shree_Ganesh_Forgings_Limited"
+      },
+      {
+        "ID": 1090,
+        "Symbol": "SGJHL",
+        "Name": "Shree_Ganesh_Jewellery_House_Limited"
+      },
+      {
+        "ID": 1091,
+        "Symbol": "SGL",
+        "Name": "STL_Global_Limited"
+      },
+      {
+        "ID": 1092,
+        "Symbol": "SHAHALLOYS",
+        "Name": "Shah_Alloys_Limited"
+      },
+      {
+        "ID": 1093,
+        "Symbol": "SHALPAINTS",
+        "Name": "Shalimar_Paints_Limited"
+      },
+      {
+        "ID": 1094,
+        "Symbol": "SHANTIGEAR",
+        "Name": "Shanthi_Gears_Limited"
+      },
+      {
+        "ID": 1095,
+        "Symbol": "SHARRESLTD",
+        "Name": "Sharyans_Resources_Limited"
+      },
+      {
+        "ID": 1096,
+        "Symbol": "SHASUNPHAR",
+        "Name": "Shasun_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 1097,
+        "Symbol": "SHILPAMED",
+        "Name": "Shilpa_Medicare_Limited"
+      },
+      {
+        "ID": 1098,
+        "Symbol": "SHILPI",
+        "Name": "Shilpi_Cable_Technologies_Limited"
+      },
+      {
+        "ID": 1099,
+        "Symbol": "SHIVAMAUTO",
+        "Name": "Shivam_Autotech_Limited"
+      },
+      {
+        "ID": 1100,
+        "Symbol": "SHIVTEX",
+        "Name": "Shiva_Texyarn_Limited"
+      },
+      {
+        "ID": 1101,
+        "Symbol": "SHIV-VANI",
+        "Name": "Shiv-Vani_Oil_&_Gas_Exploration_Services_Limited"
+      },
+      {
+        "ID": 1102,
+        "Symbol": "SHLAKSHMI",
+        "Name": "Shri_Lakshmi_Cotsyn_Limited"
+      },
+      {
+        "ID": 1103,
+        "Symbol": "SHOPERSTOP",
+        "Name": "Shoppers_Stop_Limited"
+      },
+      {
+        "ID": 1104,
+        "Symbol": "SHPRE",
+        "Name": "Shree_Precoated_Steels_Limited"
+      },
+      {
+        "ID": 1105,
+        "Symbol": "SHREEASHTA",
+        "Name": "Shree_Ashtavinayak_Cine_Vision_Limited"
+      },
+      {
+        "ID": 1106,
+        "Symbol": "SHREECEM",
+        "Name": "Shree_Cements_Limited"
+      },
+      {
+        "ID": 1107,
+        "Symbol": "SHREERAMA",
+        "Name": "Shree_Rama_Multi-Tech_Limited"
+      },
+      {
+        "ID": 1108,
+        "Symbol": "SHRENUJ",
+        "Name": "Shrenuj_&_Company_Limited"
+      },
+      {
+        "ID": 1109,
+        "Symbol": "SHREYANIND",
+        "Name": "Shreyans_Industries_Limited"
+      },
+      {
+        "ID": 1110,
+        "Symbol": "SHREYAS",
+        "Name": "Shreyas_Shipping_&_Logistics_Limited"
+      },
+      {
+        "ID": 1111,
+        "Symbol": "SHRIRAMCIT",
+        "Name": "Shriram_City_Union_Finance_Limited"
+      },
+      {
+        "ID": 1112,
+        "Symbol": "SHRIRAMEPC",
+        "Name": "Shriram_EPC_Limited"
+      },
+      {
+        "ID": 1113,
+        "Symbol": "SHYAMTEL",
+        "Name": "Shyam_Telecom_Limited"
+      },
+      {
+        "ID": 1114,
+        "Symbol": "SICAGEN",
+        "Name": "Sicagen_India_Limited"
+      },
+      {
+        "ID": 1115,
+        "Symbol": "SICAL",
+        "Name": "Sical_Logistics_Limited"
+      },
+      {
+        "ID": 1116,
+        "Symbol": "SIEMENS",
+        "Name": "Siemens_Limited"
+      },
+      {
+        "ID": 1117,
+        "Symbol": "SIL",
+        "Name": "Standard_Industries_Limited"
+      },
+      {
+        "ID": 1118,
+        "Symbol": "SILINV",
+        "Name": "SIL_Investments_Limited"
+      },
+      {
+        "ID": 1119,
+        "Symbol": "SIMBHSUGAR",
+        "Name": "Simbhaoli_Sugars_Limited"
+      },
+      {
+        "ID": 1120,
+        "Symbol": "SIMPLEX",
+        "Name": "Simplex_Projects_Limited"
+      },
+      {
+        "ID": 1121,
+        "Symbol": "SIMPLEXINF",
+        "Name": "Simplex_Infrastructures_Limited"
+      },
+      {
+        "ID": 1122,
+        "Symbol": "SINTEX",
+        "Name": "Sintex_Industries_Limited"
+      },
+      {
+        "ID": 1123,
+        "Symbol": "SIRPAPER",
+        "Name": "The_Sirpur_Paper_Mills_Limited"
+      },
+      {
+        "ID": 1124,
+        "Symbol": "SITASHREE",
+        "Name": "Sita_Shree_Food_Products_Limited"
+      },
+      {
+        "ID": 1125,
+        "Symbol": "SIYSIL",
+        "Name": "Siyaram_Silk_Mills_Limited"
+      },
+      {
+        "ID": 1126,
+        "Symbol": "SJVN",
+        "Name": "SJVN_Limited"
+      },
+      {
+        "ID": 1127,
+        "Symbol": "SKFINDIA",
+        "Name": "SKF_India_Limited"
+      },
+      {
+        "ID": 1128,
+        "Symbol": "SKMEGGPROD",
+        "Name": "SKM_Egg_Products_Export_(India)_Limited"
+      },
+      {
+        "ID": 1129,
+        "Symbol": "SKSMICRO",
+        "Name": "SKS_Microfinance_Limited"
+      },
+      {
+        "ID": 1130,
+        "Symbol": "SKUMARSYNF",
+        "Name": "S._Kumars_Nationwide_Limited"
+      },
+      {
+        "ID": 1131,
+        "Symbol": "SMARTLINK",
+        "Name": "Smartlink_Network_Systems_Limited"
+      },
+      {
+        "ID": 1132,
+        "Symbol": "SMLISUZU",
+        "Name": "SML_Isuzu_Limited"
+      },
+      {
+        "ID": 1133,
+        "Symbol": "SMPL",
+        "Name": "Sujana_Metal_Products_Limited"
+      },
+      {
+        "ID": 1134,
+        "Symbol": "SMSPHARMA",
+        "Name": "SMS_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 1135,
+        "Symbol": "SOBHA",
+        "Name": "Sobha_Developers_Limited"
+      },
+      {
+        "ID": 1136,
+        "Symbol": "SOFTTECHGR",
+        "Name": "Software_Technology_Group_International_Limited"
+      },
+      {
+        "ID": 1137,
+        "Symbol": "SOLARINDS",
+        "Name": "Solar_Industries_India_Limited"
+      },
+      {
+        "ID": 1138,
+        "Symbol": "SOMANYCERA",
+        "Name": "Somany_Ceramics_Limited"
+      },
+      {
+        "ID": 1139,
+        "Symbol": "SOMATEX",
+        "Name": "Soma_Textiles_&_Industries_Limited"
+      },
+      {
+        "ID": 1140,
+        "Symbol": "SONASTEER",
+        "Name": "Sona_Koyo_Steering_Systems_Limited"
+      },
+      {
+        "ID": 1141,
+        "Symbol": "SONATSOFTW",
+        "Name": "Sonata_Software_Limited"
+      },
+      {
+        "ID": 1142,
+        "Symbol": "SOTL",
+        "Name": "Savita_Oil_Technologies_Limited"
+      },
+      {
+        "ID": 1143,
+        "Symbol": "SOUTHBANK",
+        "Name": "The_South_Indian_Bank_Limited"
+      },
+      {
+        "ID": 1144,
+        "Symbol": "SPANCO",
+        "Name": "Spanco_Limited"
+      },
+      {
+        "ID": 1145,
+        "Symbol": "SPARC",
+        "Name": "Sun_Pharma_Advanced_Research_Company_Limited"
+      },
+      {
+        "ID": 1146,
+        "Symbol": "SPECTACLE",
+        "Name": "Spectacle_Infotek_Limited"
+      },
+      {
+        "ID": 1147,
+        "Symbol": "SPENTEX",
+        "Name": "Spentex_Industries_Limited"
+      },
+      {
+        "ID": 1148,
+        "Symbol": "SPIC",
+        "Name": "Southern_Petrochemicals_Industries_Corporation_Limited"
+      },
+      {
+        "ID": 1149,
+        "Symbol": "SPICEMOBIL",
+        "Name": "Spice_Mobility_Limited"
+      },
+      {
+        "ID": 1150,
+        "Symbol": "SPLIL",
+        "Name": "SPL_Industries_Limited"
+      },
+      {
+        "ID": 1151,
+        "Symbol": "SPMLINFRA",
+        "Name": "SPML_Infra_Limited"
+      },
+      {
+        "ID": 1152,
+        "Symbol": "SPYL",
+        "Name": "Shekhawati_Poly-Yarn_Limited"
+      },
+      {
+        "ID": 1153,
+        "Symbol": "SREINFRA",
+        "Name": "SREI_Infrastructure_Finance_Limited"
+      },
+      {
+        "ID": 1154,
+        "Symbol": "SRF",
+        "Name": "SRF_Limited"
+      },
+      {
+        "ID": 1155,
+        "Symbol": "SRGINFOTEC",
+        "Name": "SRG_Infotec_(India)_Limited"
+      },
+      {
+        "ID": 1156,
+        "Symbol": "SRHHLINDST",
+        "Name": "SRHHL_Industries_Limited"
+      },
+      {
+        "ID": 1157,
+        "Symbol": "SRHHYPOLTD",
+        "Name": "Sree_Rayalaseema_Hi-Strength_Hypo_Limited"
+      },
+      {
+        "ID": 1158,
+        "Symbol": "SRTRANSFIN",
+        "Name": "Shriram_Transport_Finance_Company_Limited"
+      },
+      {
+        "ID": 1159,
+        "Symbol": "SSWL",
+        "Name": "Steel_Strips_Wheels_Limited"
+      },
+      {
+        "ID": 1160,
+        "Symbol": "STAR",
+        "Name": "Strides_Arcolab_Limited"
+      },
+      {
+        "ID": 1161,
+        "Symbol": "STARPAPER",
+        "Name": "Star_Paper_Mills_Limited"
+      },
+      {
+        "ID": 1162,
+        "Symbol": "STCINDIA",
+        "Name": "The_State_Trading_Corporation_of_India_Limited"
+      },
+      {
+        "ID": 1163,
+        "Symbol": "STER",
+        "Name": "Sterlite_Industries_(_India_)_Limited"
+      },
+      {
+        "ID": 1164,
+        "Symbol": "STERLINBIO",
+        "Name": "Sterling_Biotech_Limited"
+      },
+      {
+        "ID": 1165,
+        "Symbol": "STERTOOLS",
+        "Name": "Sterling_Tools_Limited"
+      },
+      {
+        "ID": 1166,
+        "Symbol": "STINDIA",
+        "Name": "STI_India_Limited"
+      },
+      {
+        "ID": 1167,
+        "Symbol": "STOREONE",
+        "Name": "Store_One_Retail_India_Limited"
+      },
+      {
+        "ID": 1168,
+        "Symbol": "STRTECH",
+        "Name": "Sterlite_Technologies_Limited"
+      },
+      {
+        "ID": 1169,
+        "Symbol": "SUBEX",
+        "Name": "Subex_Limited"
+      },
+      {
+        "ID": 1170,
+        "Symbol": "SUBROS",
+        "Name": "Subros_Limited"
+      },
+      {
+        "ID": 1171,
+        "Symbol": "SUDAR",
+        "Name": "Sudar_Garments_Limited"
+      },
+      {
+        "ID": 1172,
+        "Symbol": "SUDARSCHEM",
+        "Name": "Sudarshan_Chemical_Industries_Limited"
+      },
+      {
+        "ID": 1173,
+        "Symbol": "SUJANATOW",
+        "Name": "Sujana_Tower_Limited"
+      },
+      {
+        "ID": 1174,
+        "Symbol": "SUJANAUNI",
+        "Name": "Sujana_Universal_Industries_Limited"
+      },
+      {
+        "ID": 1175,
+        "Symbol": "SUMEETINDS",
+        "Name": "Sumeet_Industries_Limited"
+      },
+      {
+        "ID": 1176,
+        "Symbol": "SUMMITSEC",
+        "Name": "Summit_Securities_Limited"
+      },
+      {
+        "ID": 1177,
+        "Symbol": "SUNCLAYTON",
+        "Name": "Sundaram_Clayton_Limited"
+      },
+      {
+        "ID": 1178,
+        "Symbol": "SUNDARAM",
+        "Name": "Sundaram_Multi_Pap_Limited"
+      },
+      {
+        "ID": 1179,
+        "Symbol": "SUNDARMFIN",
+        "Name": "Sundaram_Finance_Limited"
+      },
+      {
+        "ID": 1180,
+        "Symbol": "SUNDRMBRAK",
+        "Name": "Sundaram_Brake_Linings_Limited"
+      },
+      {
+        "ID": 1181,
+        "Symbol": "SUNDRMFAST",
+        "Name": "Sundram_Fasteners_Limited"
+      },
+      {
+        "ID": 1182,
+        "Symbol": "SUNFLAG",
+        "Name": "Sunflag_Iron_And_Steel_Company_Limited"
+      },
+      {
+        "ID": 1183,
+        "Symbol": "SUNILHITEC",
+        "Name": "Sunil_Hitech_Engineers_Limited"
+      },
+      {
+        "ID": 1184,
+        "Symbol": "SUNPHARMA",
+        "Name": "Sun_Pharmaceuticals_Industries_Limited"
+      },
+      {
+        "ID": 1185,
+        "Symbol": "SUNTECK",
+        "Name": "Sunteck_Realty_Limited"
+      },
+      {
+        "ID": 1186,
+        "Symbol": "SUNTV",
+        "Name": "Sun_TV_Network_Limited"
+      },
+      {
+        "ID": 1187,
+        "Symbol": "SUPERSPIN",
+        "Name": "Super_Spinning_Mills_Limited"
+      },
+      {
+        "ID": 1188,
+        "Symbol": "SUPPETRO",
+        "Name": "Supreme_Petrochem_Limited"
+      },
+      {
+        "ID": 1189,
+        "Symbol": "SUPRAJIT",
+        "Name": "Suprajit_Engineering_Limited"
+      },
+      {
+        "ID": 1190,
+        "Symbol": "SUPREMEIND",
+        "Name": "Supreme_Industries_Limited"
+      },
+      {
+        "ID": 1191,
+        "Symbol": "SUPREMEINF",
+        "Name": "Supreme_Infrastructure_India_Limited"
+      },
+      {
+        "ID": 1192,
+        "Symbol": "SUPREMETEX",
+        "Name": "Supreme_Tex_Mart_Limited"
+      },
+      {
+        "ID": 1193,
+        "Symbol": "SURAJDIAMN",
+        "Name": "Su-Raj_Diamonds_and_Jewellery_Limited"
+      },
+      {
+        "ID": 1194,
+        "Symbol": "SURANACORP",
+        "Name": "Surana_Corporation_Limited"
+      },
+      {
+        "ID": 1195,
+        "Symbol": "SURANAIND",
+        "Name": "Surana_Industries_Limited"
+      },
+      {
+        "ID": 1196,
+        "Symbol": "SURANAT&P",
+        "Name": "Surana_Telecom_and_Power_Limited"
+      },
+      {
+        "ID": 1197,
+        "Symbol": "SURYAJYOTI",
+        "Name": "Suryajyoti_Spinning_Mills_Limited"
+      },
+      {
+        "ID": 1198,
+        "Symbol": "SURYALAXMI",
+        "Name": "Suryalakshmi_Cotton_Mills_Limited"
+      },
+      {
+        "ID": 1199,
+        "Symbol": "SURYAPHARM",
+        "Name": "Surya_Pharmaceutical_Limited"
+      },
+      {
+        "ID": 1200,
+        "Symbol": "SURYAROSNI",
+        "Name": "Surya_Roshni_Limited"
+      },
+      {
+        "ID": 1201,
+        "Symbol": "SUTLEJTEX",
+        "Name": "Sutlej_Textiles_and_Industries_Limited"
+      },
+      {
+        "ID": 1202,
+        "Symbol": "SUVEN",
+        "Name": "Suven_Life_Sciences_Limited"
+      },
+      {
+        "ID": 1203,
+        "Symbol": "SUZLON",
+        "Name": "Suzlon_Energy_Limited"
+      },
+      {
+        "ID": 1204,
+        "Symbol": "SWARAJENG",
+        "Name": "Swaraj_Engines_Limited"
+      },
+      {
+        "ID": 1205,
+        "Symbol": "SYMPHONY",
+        "Name": "Symphony_Limited"
+      },
+      {
+        "ID": 1206,
+        "Symbol": "SYNCOM",
+        "Name": "Syncom_Healthcare_Limited"
+      },
+      {
+        "ID": 1207,
+        "Symbol": "SYNDIBANK",
+        "Name": "Syndicate_Bank"
+      },
+      {
+        "ID": 1208,
+        "Symbol": "TAINWALCHM",
+        "Name": "Tainwala_Chemical_and_Plastic_(I)_Limited"
+      },
+      {
+        "ID": 1209,
+        "Symbol": "TAJGVK",
+        "Name": "Taj_GVK_Hotels_&_Resorts_Limited"
+      },
+      {
+        "ID": 1210,
+        "Symbol": "TAKE",
+        "Name": "Take_Solutions_Limited"
+      },
+      {
+        "ID": 1211,
+        "Symbol": "TALBROAUTO",
+        "Name": "Talbros_Automotive_Components_Limited"
+      },
+      {
+        "ID": 1212,
+        "Symbol": "TALWALKARS",
+        "Name": "Talwalkars_Better_Value_Fitness_Limited"
+      },
+      {
+        "ID": 1213,
+        "Symbol": "TANLA",
+        "Name": "Tanla_Solutions_Limited"
+      },
+      {
+        "ID": 1214,
+        "Symbol": "TANTIACONS",
+        "Name": "Tantia_Constructions_Limited"
+      },
+      {
+        "ID": 1215,
+        "Symbol": "TARAPUR",
+        "Name": "Tarapur_Transformers_Limited"
+      },
+      {
+        "ID": 1216,
+        "Symbol": "TATACHEM",
+        "Name": "Tata_Chemicals_Limited"
+      },
+      {
+        "ID": 1217,
+        "Symbol": "TATACOMM",
+        "Name": "Tata_Communications_Limited"
+      },
+      {
+        "ID": 1218,
+        "Symbol": "TATAELXSI",
+        "Name": "Tata_Elxsi_Limited"
+      },
+      {
+        "ID": 1219,
+        "Symbol": "TATACOFFEE",
+        "Name": "Tata_Coffee_Limited"
+      },
+      {
+        "ID": 1220,
+        "Symbol": "TATAGLOBAL",
+        "Name": "Tata_Global_Beverages_Limited"
+      },
+      {
+        "ID": 1221,
+        "Symbol": "TATAINVEST",
+        "Name": "Tata_Investment_Corporation_Limited"
+      },
+      {
+        "ID": 1222,
+        "Symbol": "TATAMETALI",
+        "Name": "Tata_Metaliks_Limited"
+      },
+      {
+        "ID": 1223,
+        "Symbol": "TATAMOTORS",
+        "Name": "Tata_Motors_Limited"
+      },
+      {
+        "ID": 1224,
+        "Symbol": "TATAPOWER",
+        "Name": "Tata_Power_Company_Limited"
+      },
+      {
+        "ID": 1225,
+        "Symbol": "TATASPONGE",
+        "Name": "Tata_Sponge_Iron_Limited"
+      },
+      {
+        "ID": 1226,
+        "Symbol": "TATASTEEL",
+        "Name": "Tata_Steel_Limited"
+      },
+      {
+        "ID": 1227,
+        "Symbol": "TCI",
+        "Name": "Transport_Corporation_of_India_Limited"
+      },
+      {
+        "ID": 1228,
+        "Symbol": "TCIDEVELOP",
+        "Name": "TCI_Developers_Limited"
+      },
+      {
+        "ID": 1229,
+        "Symbol": "TCIFINANCE",
+        "Name": "TCI_Finance_Limited"
+      },
+      {
+        "ID": 1230,
+        "Symbol": "TCS",
+        "Name": "Tata_Consultancy_Services_Limited"
+      },
+      {
+        "ID": 1231,
+        "Symbol": "TECHM",
+        "Name": "Tech_Mahindra_Limited"
+      },
+      {
+        "ID": 1232,
+        "Symbol": "TECHNO",
+        "Name": "Techno_Electric_&_Engineering_Company_Limited"
+      },
+      {
+        "ID": 1233,
+        "Symbol": "TECHNOFAB",
+        "Name": "Technofab_Engineering_Limited"
+      },
+      {
+        "ID": 1234,
+        "Symbol": "TECPRO",
+        "Name": "Tecpro_Systems_Limited"
+      },
+      {
+        "ID": 1235,
+        "Symbol": "TELEDATAIT",
+        "Name": "Teledata_Technology_Solutions_Limited"
+      },
+      {
+        "ID": 1236,
+        "Symbol": "TEXMACOLTD",
+        "Name": "Texmaco_Limited"
+      },
+      {
+        "ID": 1237,
+        "Symbol": "TEXMOPIPES",
+        "Name": "Texmo_Pipes_and_Products_Limited"
+      },
+      {
+        "ID": 1238,
+        "Symbol": "TFCILTD",
+        "Name": "Tourism_Finance_Corporation_of_India_Limited"
+      },
+      {
+        "ID": 1239,
+        "Symbol": "TFL",
+        "Name": "Transwarranty_Finance_Limited"
+      },
+      {
+        "ID": 1240,
+        "Symbol": "THANGAMAYL",
+        "Name": "Thangamayil_Jewellery_Limited"
+      },
+      {
+        "ID": 1241,
+        "Symbol": "THEMISMED",
+        "Name": "Themis_Medicare_Limited"
+      },
+      {
+        "ID": 1242,
+        "Symbol": "THERMAX",
+        "Name": "Thermax_Limited"
+      },
+      {
+        "ID": 1243,
+        "Symbol": "THINKSOFT",
+        "Name": "Thinksoft_Global_Services_Limited"
+      },
+      {
+        "ID": 1244,
+        "Symbol": "THIRUSUGAR",
+        "Name": "Thiru_Arooran_Sugars_Limited"
+      },
+      {
+        "ID": 1245,
+        "Symbol": "THOMASCOOK",
+        "Name": "Thomas_Cook_(India)_Limited"
+      },
+      {
+        "ID": 1246,
+        "Symbol": "TI",
+        "Name": "Tilaknagar_Industries_Limited"
+      },
+      {
+        "ID": 1247,
+        "Symbol": "TIDEWATER",
+        "Name": "Tide_Water_Oil_Company_(India)_Limited"
+      },
+      {
+        "ID": 1248,
+        "Symbol": "TIIL",
+        "Name": "Technocraft_Industries_(India)_Limited"
+      },
+      {
+        "ID": 1249,
+        "Symbol": "TIL",
+        "Name": "TIL_Limited"
+      },
+      {
+        "ID": 1250,
+        "Symbol": "TIMESGTY",
+        "Name": "Times_Guaranty_Limited"
+      },
+      {
+        "ID": 1251,
+        "Symbol": "TIMETECHNO",
+        "Name": "Time_Technoplast_Limited"
+      },
+      {
+        "ID": 1252,
+        "Symbol": "TIMKEN",
+        "Name": "Timken_India_Limited"
+      },
+      {
+        "ID": 1253,
+        "Symbol": "TINPLATE",
+        "Name": "The_Tinplate_Company_of_India_Limited"
+      },
+      {
+        "ID": 1254,
+        "Symbol": "TIPSINDLTD",
+        "Name": "TIPS_Industries_Limited"
+      },
+      {
+        "ID": 1255,
+        "Symbol": "TIRUMALCHM",
+        "Name": "Thirumalai_Chemicals_Limited"
+      },
+      {
+        "ID": 1256,
+        "Symbol": "TITAN",
+        "Name": "Titan_Industries_Limited"
+      },
+      {
+        "ID": 1257,
+        "Symbol": "TNPETRO",
+        "Name": "Tamilnadu_PetroProducts_Limited"
+      },
+      {
+        "ID": 1258,
+        "Symbol": "TNPL",
+        "Name": "Tamil_Nadu_Newsprint_&_Papers_Limited"
+      },
+      {
+        "ID": 1259,
+        "Symbol": "TNTELE",
+        "Name": "Tamilnadu_Telecommunication_Limited"
+      },
+      {
+        "ID": 1260,
+        "Symbol": "TODAYS",
+        "Name": "Todays_Writing_Products_Limited"
+      },
+      {
+        "ID": 1261,
+        "Symbol": "TOKYOPLAST",
+        "Name": "Tokyo_Plast_International_Limited"
+      },
+      {
+        "ID": 1262,
+        "Symbol": "TORNTPHARM",
+        "Name": "Torrent_Pharmaceuticals_Limited"
+      },
+      {
+        "ID": 1263,
+        "Symbol": "TORNTPOWER",
+        "Name": "Torrent_Power_Limited"
+      },
+      {
+        "ID": 1264,
+        "Symbol": "TRENT",
+        "Name": "Trent_Limited"
+      },
+      {
+        "ID": 1265,
+        "Symbol": "TRF",
+        "Name": "TRF_Limited"
+      },
+      {
+        "ID": 1266,
+        "Symbol": "TRICOM",
+        "Name": "Tricom_India_Limited"
+      },
+      {
+        "ID": 1267,
+        "Symbol": "TRIGYN",
+        "Name": "Trigyn_Technologies_Limited"
+      },
+      {
+        "ID": 1268,
+        "Symbol": "TRIL",
+        "Name": "Transformers_And_Rectifiers_(India)_Limited"
+      },
+      {
+        "ID": 1269,
+        "Symbol": "TRIVENI",
+        "Name": "Triveni_Engineering_&_Industries_Limited"
+      },
+      {
+        "ID": 1270,
+        "Symbol": "TTKHEALTH",
+        "Name": "TTK_Healthcare_Limited"
+      },
+      {
+        "ID": 1271,
+        "Symbol": "TTKPRESTIG",
+        "Name": "TTK_Prestige_Limited"
+      },
+      {
+        "ID": 1272,
+        "Symbol": "TTL",
+        "Name": "T_T_Limited"
+      },
+      {
+        "ID": 1273,
+        "Symbol": "TTML",
+        "Name": "Tata_Teleservices_(Maharashtra)_Limited"
+      },
+      {
+        "ID": 1274,
+        "Symbol": "TUBEINVEST",
+        "Name": "Tube_Investments_of_India_Limited"
+      },
+      {
+        "ID": 1275,
+        "Symbol": "TRIDENT",
+        "Name": "Trident_Limited"
+      },
+      {
+        "ID": 1276,
+        "Symbol": "TULIP",
+        "Name": "Tulip_Telecom_Limited"
+      },
+      {
+        "ID": 1277,
+        "Symbol": "TULSI",
+        "Name": "Tulsi_Extrusions_Limited"
+      },
+      {
+        "ID": 1278,
+        "Symbol": "TVSELECT",
+        "Name": "TVS_Electronics_Limited"
+      },
+      {
+        "ID": 1279,
+        "Symbol": "TVSMOTOR",
+        "Name": "TVS_Motor_Company_Limited"
+      },
+      {
+        "ID": 1280,
+        "Symbol": "TVSSRICHAK",
+        "Name": "TVS_Srichakra_Limited"
+      },
+      {
+        "ID": 1281,
+        "Symbol": "TVTODAY",
+        "Name": "TV_Today_Network_Limited"
+      },
+      {
+        "ID": 1282,
+        "Symbol": "TWILITAKA",
+        "Name": "Twilight_Litaka_Pharma_Limited"
+      },
+      {
+        "ID": 1283,
+        "Symbol": "TWL",
+        "Name": "Titagarh_Wagons_Limited"
+      },
+      {
+        "ID": 1284,
+        "Symbol": "UBENGG",
+        "Name": "UB_Engineering_Limited"
+      },
+      {
+        "ID": 1285,
+        "Symbol": "UBHOLDINGS",
+        "Name": "United_Breweries_(Holdings)_Limited"
+      },
+      {
+        "ID": 1286,
+        "Symbol": "UCALFUEL",
+        "Name": "Ucal_Fuel_Systems_Limited"
+      },
+      {
+        "ID": 1287,
+        "Symbol": "UCOBANK",
+        "Name": "UCO_Bank"
+      },
+      {
+        "ID": 1288,
+        "Symbol": "UFLEX",
+        "Name": "UFLEX_Limited"
+      },
+      {
+        "ID": 1289,
+        "Symbol": "UGARSUGAR",
+        "Name": "The_Ugar_Sugar_Works_Limited"
+      },
+      {
+        "ID": 1290,
+        "Symbol": "ULTRACEMCO",
+        "Name": "UltraTech_Cement_Limited"
+      },
+      {
+        "ID": 1291,
+        "Symbol": "UMESLTD",
+        "Name": "Usha_Martin_Education_&_Solutions_Limited"
+      },
+      {
+        "ID": 1292,
+        "Symbol": "UNICHEMLAB",
+        "Name": "Unichem_Laboratories_Limited"
+      },
+      {
+        "ID": 1293,
+        "Symbol": "UNIENTER",
+        "Name": "Uniphos_Enterprises_Limited"
+      },
+      {
+        "ID": 1294,
+        "Symbol": "UNIONBANK",
+        "Name": "Union_Bank_of_India"
+      },
+      {
+        "ID": 1295,
+        "Symbol": "UNIPHOS",
+        "Name": "United_Phosphorus_Limited"
+      },
+      {
+        "ID": 1296,
+        "Symbol": "UNIPLY",
+        "Name": "Uniply_Industries_Limited"
+      },
+      {
+        "ID": 1297,
+        "Symbol": "UNITECH",
+        "Name": "Unitech_Limited"
+      },
+      {
+        "ID": 1298,
+        "Symbol": "UBL",
+        "Name": "United_Breweries_Limited"
+      },
+      {
+        "ID": 1299,
+        "Symbol": "UNITY",
+        "Name": "Unity_Infraprojects_Limited"
+      },
+      {
+        "ID": 1300,
+        "Symbol": "UNIVCABLES",
+        "Name": "Universal_Cables_Limited"
+      },
+      {
+        "ID": 1301,
+        "Symbol": "UNITEDBNK",
+        "Name": "United_Bank_of_India"
+      },
+      {
+        "ID": 1302,
+        "Symbol": "UPERGANGES",
+        "Name": "Upper_Ganges_Sugar_&_Industries_Limited"
+      },
+      {
+        "ID": 1303,
+        "Symbol": "USHAMART",
+        "Name": "Usha_Martin_Limited"
+      },
+      {
+        "ID": 1304,
+        "Symbol": "USHERAGRO",
+        "Name": "Usher_Agro_Limited"
+      },
+      {
+        "ID": 1305,
+        "Symbol": "UTTAMSTL",
+        "Name": "Uttam_Galva_Steels_Limited"
+      },
+      {
+        "ID": 1306,
+        "Symbol": "UTTAMSUGAR",
+        "Name": "Uttam_Sugar_Mills_Limited"
+      },
+      {
+        "ID": 1307,
+        "Symbol": "UTVSOF",
+        "Name": "UTV_Software_Communications_Limited"
+      },
+      {
+        "ID": 1308,
+        "Symbol": "VADILALIND",
+        "Name": "Vadilal_Industries_Limited"
+      },
+      {
+        "ID": 1309,
+        "Symbol": "VAIBHAVGEM",
+        "Name": "Vaibhav_Gems_Limited"
+      },
+      {
+        "ID": 1310,
+        "Symbol": "VAKRANSOFT",
+        "Name": "Vakrangee_Softwares_Limited"
+      },
+      {
+        "ID": 1311,
+        "Symbol": "VALECHAENG",
+        "Name": "Valecha_Engineering_Limited"
+      },
+      {
+        "ID": 1312,
+        "Symbol": "VALUEIND",
+        "Name": "Value_Industries_Limited"
+      },
+      {
+        "ID": 1313,
+        "Symbol": "VARDHACRLC",
+        "Name": "Vardhman_Acrylics_Limited"
+      },
+      {
+        "ID": 1314,
+        "Symbol": "VARDMNPOLY",
+        "Name": "Vardhman_Polytex_Limited"
+      },
+      {
+        "ID": 1315,
+        "Symbol": "VARUN",
+        "Name": "Varun_Industries_Limited"
+      },
+      {
+        "ID": 1316,
+        "Symbol": "VARUNSHIP",
+        "Name": "Varun_Shipping_Company_Limited"
+      },
+      {
+        "ID": 1317,
+        "Symbol": "VASCONEQ",
+        "Name": "Vascon_Engineers_Limited"
+      },
+      {
+        "ID": 1318,
+        "Symbol": "VENKEYS",
+        "Name": "Venky's_(India)_Limited"
+      },
+      {
+        "ID": 1319,
+        "Symbol": "VENUSREM",
+        "Name": "Venus_Remedies_Limited"
+      },
+      {
+        "ID": 1320,
+        "Symbol": "VESUVIUS",
+        "Name": "Vesuvius_India_Limited"
+      },
+      {
+        "ID": 1321,
+        "Symbol": "VGUARD",
+        "Name": "V-Guard_Industries_Limited"
+      },
+      {
+        "ID": 1322,
+        "Symbol": "VHL",
+        "Name": "Vardhman_Holdings_Limited"
+      },
+      {
+        "ID": 1323,
+        "Symbol": "VICEROY",
+        "Name": "Viceroy_Hotels_Limited"
+      },
+      {
+        "ID": 1324,
+        "Symbol": "VIDEOIND",
+        "Name": "Videocon_Industries_Limited"
+      },
+      {
+        "ID": 1325,
+        "Symbol": "VIJAYABANK",
+        "Name": "Vijaya_Bank"
+      },
+      {
+        "ID": 1326,
+        "Symbol": "VIJSHAN",
+        "Name": "Vijay_Shanthi_Builders_Limited"
+      },
+      {
+        "ID": 1327,
+        "Symbol": "VIKASHMET",
+        "Name": "Vikash_Metal_&_Power_Limited"
+      },
+      {
+        "ID": 1328,
+        "Symbol": "VIMTALABS",
+        "Name": "Vimta_Labs_Limited"
+      },
+      {
+        "ID": 1329,
+        "Symbol": "VINATIORGA",
+        "Name": "Vinati_Organics_Limited"
+      },
+      {
+        "ID": 1330,
+        "Symbol": "VINDHYATEL",
+        "Name": "Vindhya_Telelinks_Limited"
+      },
+      {
+        "ID": 1331,
+        "Symbol": "VIPIND",
+        "Name": "VIP_Industries_Limited"
+      },
+      {
+        "ID": 1332,
+        "Symbol": "VISAKAIND",
+        "Name": "Visaka_Industries_Limited"
+      },
+      {
+        "ID": 1333,
+        "Symbol": "VISASTEEL",
+        "Name": "Visa_Steel_Limited"
+      },
+      {
+        "ID": 1334,
+        "Symbol": "VISESHINFO",
+        "Name": "Visesh_Infotecnics_Limited"
+      },
+      {
+        "ID": 1335,
+        "Symbol": "VISHALRET",
+        "Name": "Vishal_Retail_Limited"
+      },
+      {
+        "ID": 1336,
+        "Symbol": "VISUINTL",
+        "Name": "Visu_International_Limited"
+      },
+      {
+        "ID": 1337,
+        "Symbol": "VIVIMEDLAB",
+        "Name": "Vivimed_Labs_Limited"
+      },
+      {
+        "ID": 1338,
+        "Symbol": "VLSFINANCE",
+        "Name": "VLS_Finance_Limited"
+      },
+      {
+        "ID": 1339,
+        "Symbol": "VOLTAMP",
+        "Name": "Voltamp_Transformers_Limited"
+      },
+      {
+        "ID": 1340,
+        "Symbol": "VOLTAS",
+        "Name": "Voltas_Limited"
+      },
+      {
+        "ID": 1341,
+        "Symbol": "VSTIND",
+        "Name": "VST_Industries_Limited"
+      },
+      {
+        "ID": 1342,
+        "Symbol": "VSTTILLERS",
+        "Name": "V.S.T_Tillers_Tractors_Limited"
+      },
+      {
+        "ID": 1343,
+        "Symbol": "VTL",
+        "Name": "Vardhman_Textiles_Limited"
+      },
+      {
+        "ID": 1344,
+        "Symbol": "WABAG",
+        "Name": "VA_Tech_Wabag_Limited"
+      },
+      {
+        "ID": 1345,
+        "Symbol": "WABCO-TVS",
+        "Name": "WABCO-TVS_(INDIA)_Limited"
+      },
+      {
+        "ID": 1346,
+        "Symbol": "WALCHANNAG",
+        "Name": "Walchandnagar_Industries_Limited"
+      },
+      {
+        "ID": 1347,
+        "Symbol": "WANBURY",
+        "Name": "Wanbury_Limited"
+      },
+      {
+        "ID": 1348,
+        "Symbol": "WEBELSOLAR",
+        "Name": "Websol_Energy_Systems_Limited"
+      },
+      {
+        "ID": 1349,
+        "Symbol": "WEIZMANIND",
+        "Name": "Weizmann_Limited"
+      },
+      {
+        "ID": 1350,
+        "Symbol": "WELCORP",
+        "Name": "Welspun_Corp_Limited"
+      },
+      {
+        "ID": 1351,
+        "Symbol": "WELINV",
+        "Name": "Welspun_Investments_and_Commercials_Limited"
+      },
+      {
+        "ID": 1352,
+        "Symbol": "WELPROJ",
+        "Name": "Welspun_Projects_Limited"
+      },
+      {
+        "ID": 1353,
+        "Symbol": "WELSPUNIND",
+        "Name": "Welspun_India_Limited"
+      },
+      {
+        "ID": 1354,
+        "Symbol": "WENDT",
+        "Name": "Wendt_(India)_Limited"
+      },
+      {
+        "ID": 1355,
+        "Symbol": "WHEELS",
+        "Name": "Wheels_India_Limited"
+      },
+      {
+        "ID": 1356,
+        "Symbol": "WHIRLPOOL",
+        "Name": "Whirlpool_of_India_Limited"
+      },
+      {
+        "ID": 1357,
+        "Symbol": "WILLAMAGOR",
+        "Name": "Williamson_Magor_&_Company_Limited"
+      },
+      {
+        "ID": 1358,
+        "Symbol": "WINDSOR",
+        "Name": "Windsor_Machines_Limited"
+      },
+      {
+        "ID": 1359,
+        "Symbol": "WINSOMYARN",
+        "Name": "Winsome_Yarns_Limited"
+      },
+      {
+        "ID": 1360,
+        "Symbol": "WIPRO",
+        "Name": "Wipro_Limited"
+      },
+      {
+        "ID": 1361,
+        "Symbol": "WSI",
+        "Name": "W_S_Industries_(I)_Limited"
+      },
+      {
+        "ID": 1362,
+        "Symbol": "WSTCSTPAPR",
+        "Name": "West_Coast_Paper_Mills_Limited"
+      },
+      {
+        "ID": 1363,
+        "Symbol": "WOCKPHARMA",
+        "Name": "Wockhardt_Limited"
+      },
+      {
+        "ID": 1364,
+        "Symbol": "WWIL",
+        "Name": "Wire_and_Wireless_(India)_Limited"
+      },
+      {
+        "ID": 1365,
+        "Symbol": "WYETH",
+        "Name": "Wyeth_Limited"
+      },
+      {
+        "ID": 1366,
+        "Symbol": "XPROINDIA",
+        "Name": "Xpro_India_Limited"
+      },
+      {
+        "ID": 1367,
+        "Symbol": "XLENERGY",
+        "Name": "XL_Energy_Limited"
+      },
+      {
+        "ID": 1368,
+        "Symbol": "YESBANK",
+        "Name": "Yes_Bank_Limited"
+      },
+      {
+        "ID": 1369,
+        "Symbol": "ZANDUREALT",
+        "Name": "Zandu_Realty_Limited"
+      },
+      {
+        "ID": 1370,
+        "Symbol": "ZEEL",
+        "Name": "Zee_Entertainment_Enterprises_Limited"
+      },
+      {
+        "ID": 1371,
+        "Symbol": "ZEELEARN",
+        "Name": "Zee_Learn_Limited"
+      },
+      {
+        "ID": 1372,
+        "Symbol": "ZEENEWS",
+        "Name": "Zee_News_Limited"
+      },
+      {
+        "ID": 1373,
+        "Symbol": "ZENITHBIR",
+        "Name": "Zenith_Birla_(India)_Limited"
+      },
+      {
+        "ID": 1374,
+        "Symbol": "ZENITHCOMP",
+        "Name": "Zenith_Computers_Limited"
+      },
+      {
+        "ID": 1375,
+        "Symbol": "ZENITHEXPO",
+        "Name": "Zenith_Exports_Limited"
+      },
+      {
+        "ID": 1376,
+        "Symbol": "ZENITHINFO",
+        "Name": "Zenith_Infotech_Limited"
+      },
+      {
+        "ID": 1377,
+        "Symbol": "ZENSARTECH",
+        "Name": "Zensar_Technologies_Limited"
+      },
+      {
+        "ID": 1378,
+        "Symbol": "ZICOM",
+        "Name": "Zicom_Electronic_Security_Systems_Limited"
+      },
+      {
+        "ID": 1379,
+        "Symbol": "ZODIACLOTH",
+        "Name": "Zodiac_Clothing_Company_Limited"
+      },
+      {
+        "ID": 1380,
+        "Symbol": "ZODJRDMKJ",
+        "Name": "Zodiac_JRD-_MKJ_Limited"
+      },
+      {
+        "ID": 1381,
+        "Symbol": "ZUARIAGRO",
+        "Name": "Zuari_Industries_Limited"
+      },
+      {
+        "ID": 1382,
+        "Symbol": "ZYDUSWELL",
+        "Name": "Zydus_Wellness_Limited"
+      },
+      {
+        "ID": 1383,
+        "Symbol": "ZYLOG",
+        "Name": "Zylog_Systems_Limited"
       }
     ]
   }

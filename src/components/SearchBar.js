@@ -1,6 +1,7 @@
 import React,{ Component } from 'react';
 import PropTypes from 'prop-types';
 
+import DummyData from '../variables/dummydata.json'
 
 export class SearchBar extends Component {
     
@@ -18,7 +19,14 @@ export class SearchBar extends Component {
     onChange = (e) => {
         console.log('onChanges');
 
-        const { suggestions } = this.props;
+        var suggestions = [];
+        
+        suggestions = DummyData["data"].map(function(name){
+          return name["Name"]
+        })
+
+
+        // const { suggestions } = this.props;
         const userInput = e.currentTarget.value;
 
         const filteredOptions = suggestions.filter(
