@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Switch>
-          <Route path="/" render={props => <MainLayout {...props} />} />
+          <Route path="/app" render={props => <MainLayout {...props} />} />
           
           <Redirect from="/" to="/app" />
       </Switch>
