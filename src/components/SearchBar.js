@@ -20,7 +20,7 @@ export class SearchBar extends Component {
         console.log('onChanges');
 
         var suggestions = [];
-        
+
         suggestions = DummyData["data"].map(function(name){
           return name["Name"]
         })
@@ -84,8 +84,10 @@ export class SearchBar extends Component {
           } = this;
 
          let suggestionList;
+         
          if (showOptions && userInput) {
             if (filteredOptions.length) {
+              
               suggestionList = (
                 <ul className="options">
                   {filteredOptions.map((optionName, index) => {
@@ -126,6 +128,7 @@ export class SearchBar extends Component {
                   })}
                 </ul>
               );
+              
             } else {
               suggestionList = (
                 <div className="no-options text-white text-4xl font-medium title-font text-center">

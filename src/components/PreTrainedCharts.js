@@ -7,8 +7,23 @@ import {
   chartExample2
 } from "../variables/charts.js";
 
+import{
+  AxisBankChart
+} from '../variables/AxisTrainedCharts.js'
+import{
+  ICICIBankChart
+} from '../variables/ICICITrainedChart.js'
+import{
+  KotakBankChart
+} from '../variables/KotakTrainedChart.js'
+
+
+
+
 const Tabs = ({ color }) => {
   const [openTab, setOpenTab] = React.useState(1);
+
+  
   return (
     <>
       <div className="flex flex-wrap">
@@ -83,13 +98,13 @@ const Tabs = ({ color }) => {
 
                   <center>
                     <div className="row pt-1 pb-3"> 
-                        <ChartCard data={chartExample4.data} options={chartExample4.options} />
+                        <ChartCard data={AxisBankChart.data} options={AxisBankChart.options} />
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={chartExample2.data} options={chartExample2.options} />
+                        <ChartCard data={ICICIBankChart.data} options={ICICIBankChart.options} />
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={chartExample4.data} options={chartExample4.options} />
+                        <ChartCard data={KotakBankChart.data} options={KotakBankChart.options} />
                     </div>
                   </center>
                   

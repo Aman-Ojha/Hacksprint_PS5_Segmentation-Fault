@@ -14,7 +14,7 @@ class ChartCard extends React.Component {
     render(){
         return(
             <>
-                <div className="rounded shadow-xl overflow-hidden w-full md:flex" style={{maxWidth: 900}}>
+                <div className="rounded shadow-xl overflow-hidden w-full md:flex" style={{height:"330px"}}>
                     <div className="flex w-full md:w-1/2 px-5 pb-4 pt-8 bg-gray-800 text-white items-center">
                         <Line
                         data={this.props.data}
