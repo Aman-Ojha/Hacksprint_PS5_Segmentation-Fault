@@ -1,6 +1,10 @@
 var AxisBankJson = require('./AXIS_1year.json');
 var AxisPredJson = require('./pred/axis_pred.json');
 
+ var color1Data = AxisPredJson["values"].slice(0,11);
+// color1Data.push(NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,)
+ var color2Data = AxisPredJson["values"].slice(10,20);
+ color2Data.unshift(NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN);
 
 var AxisBankDates = AxisBankJson.map(function(object){
     return object["Date"]
@@ -30,7 +34,7 @@ var AxisBankAverage = AxisBankJson.map(function(object){
         labels: ["20 Apr","21 Apr","22 Apr","23 Apr","24 Apr","25 Apr","26 Apr","27 Apr","28 Apr","29 Apr","30 Apr","1 May","2 May","3 May","4 May","5 May","6 May","7 May","8 May","9 May",],
         datasets: [
           {
-            label: "Data",
+            label: "DataSet Values",
             fill: true,
             backgroundColor: gradientStroke,
             borderColor: "#1f8ef1",
@@ -44,7 +48,24 @@ var AxisBankAverage = AxisBankJson.map(function(object){
             pointHoverRadius: 4,
             pointHoverBorderWidth: 15,
             pointRadius: 0,
-            data: AxisPredJson["values"]
+            data: color1Data,
+          },
+          {
+            label: "Predicted Values",
+            fill: true,
+            backgroundColor: gradientStroke,
+            borderColor: "#f76d05",
+            borderWidth: 2,
+            borderDash: [],
+            borderDashOffset: 0.0,
+            pointBackgroundColor: "#f76d05",
+            pointBorderColor: "rgba(247, 109, 5, 1)",
+            pointHoverBackgroundColor: "#1f8ef1",
+            pointBorderWidth: 20,
+            pointHoverRadius: 4,
+            pointHoverBorderWidth: 15,
+            pointRadius: 0,
+            data: color2Data
           }
         ]
       };
@@ -91,6 +112,7 @@ var AxisBankAverage = AxisBankJson.map(function(object){
                 zeroLineColor: "transparent"
               },
               ticks: {
+                
                 padding: 20,
                 fontColor: "#9a9a9a"
               }
@@ -166,8 +188,8 @@ const AxisBankChart = {
                 // zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 0,
-                suggestedMax: 50,
+                suggestedMin: 400,
+                suggestedMax: 800,
                 padding: 20,
                 fontColor: "#9e9e9e"
               }

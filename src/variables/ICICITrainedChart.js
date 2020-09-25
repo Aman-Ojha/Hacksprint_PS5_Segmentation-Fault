@@ -1,6 +1,10 @@
 var ICICIBankJson = require('./ICICIBANK_old_1_year.json');
 var ICICIPredJson = require('./pred/icici_pred.json');
 
+var color1Data = ICICIPredJson["values"].slice(0,11);
+// color1Data.push(NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,)
+var color2Data = ICICIPredJson["values"].slice(10,20);
+color2Data.unshift(NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN);
 
 var ICICIBankDates = ICICIBankJson.map(function(object){
     return object["Date"]
@@ -40,7 +44,24 @@ const ICICIBankChart2 = {
                 pointHoverRadius: 4,
                 pointHoverBorderWidth: 15,
                 pointRadius: 0,
-                data: ICICIPredJson["values"]
+                data: color1Data
+              },
+              {
+                label: "Predicted Values",
+                fill: true,
+                backgroundColor: gradientStroke,
+                borderColor: "#f76d05",
+                borderWidth: 2,
+                borderDash: [],
+                borderDashOffset: 0.0,
+                pointBackgroundColor: "#f76d05",
+                pointBorderColor: "rgba(247, 109, 5, 1)",
+                pointHoverBackgroundColor: "#1f8ef1",
+                pointBorderWidth: 20,
+                pointHoverRadius: 4,
+                pointHoverBorderWidth: 15,
+                pointRadius: 0,
+                data: color2Data
               }
             ]
       };
@@ -163,8 +184,8 @@ const ICICIBankChart = {
                 zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 0,
-                suggestedMax: 25,
+                suggestedMin: 400,
+                suggestedMax: 400,
                 padding: 20,
                 fontColor: "#9a9a9a"
               }
@@ -174,6 +195,7 @@ const ICICIBankChart = {
             {
               barPercentage: 1.6,
               gridLines: {
+                display: 0,
                 drawBorder: false,
                 color: "rgba(29,140,248,0.1)",
                 zeroLineColor: "transparent"

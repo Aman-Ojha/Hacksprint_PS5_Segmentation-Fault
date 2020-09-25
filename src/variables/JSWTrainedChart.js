@@ -1,6 +1,11 @@
 var JSWBankJson = require('./JSWSTEEL_data_old_1_year.json');
 var JSWPredJson = require('./pred/jsw_pred.json');
 
+var color1Data = JSWPredJson["values"].slice(0,11);
+// color1Data.push(NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,)
+var color2Data = JSWPredJson["values"].slice(10,20);
+color2Data.unshift(NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN);
+
 
 
 var JSWBankDates = JSWBankJson.map(function(object){
@@ -41,7 +46,24 @@ const JSWBankChart2 = {
           pointHoverRadius: 4,
           pointHoverBorderWidth: 15,
           pointRadius: 0,
-          data: JSWPredJson["values"]
+          data: color1Data
+        },
+        {
+          label: "Predicted Values",
+          fill: true,
+          backgroundColor: gradientStroke,
+          borderColor: "#f76d05",
+          borderWidth: 2,
+          borderDash: [],
+          borderDashOffset: 0.0,
+          pointBackgroundColor: "#f76d05",
+          pointBorderColor: "rgba(247, 109, 5, 1)",
+          pointHoverBackgroundColor: "#1f8ef1",
+          pointBorderWidth: 20,
+          pointHoverRadius: 4,
+          pointHoverBorderWidth: 15,
+          pointRadius: 0,
+          data: color2Data
         }
       ]
     };
@@ -162,8 +184,8 @@ const JSWBankChart = {
                 zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 0,
-                suggestedMax: 20,
+                suggestedMin: 250,
+                suggestedMax: 450,
                 padding: 20,
                 fontColor: "#9e9e9e"
               }
@@ -174,6 +196,7 @@ const JSWBankChart = {
             {
               barPercentage: 1.6,
               gridLines: {
+                display: 0,
                 drawBorder: false,
                 color: "rgba(0,242,195,0.1)",
                 zeroLineColor: "transparent"
