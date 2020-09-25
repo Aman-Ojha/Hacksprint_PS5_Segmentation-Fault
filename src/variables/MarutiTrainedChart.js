@@ -1,17 +1,17 @@
-var ICICIBankJson = require('./ICICIBANK_old_1_year.json');
+var MarutiJson = require('./MARUTI_data_old_1_year');
 
 
-var ICICIBankDates = ICICIBankJson.map(function(object){
+var MarutiDates = MarutiJson.map(function(object){
     return object["Date"]
     
 })
 
-var ICICIBankAverage = ICICIBankJson.map(function(object){
+var MarutiAverage = MarutiJson.map(function(object){
     return Math.round(object["Average"]*100)/100
     
 })
 
-const ICICIBankChart = {
+const MarutiChart = {
     data: canvas => {
       let ctx = canvas.getContext("2d");
   
@@ -22,7 +22,7 @@ const ICICIBankChart = {
       gradientStroke.addColorStop(0, "rgba(29,140,248,0)"); //blue colors
   
       return {
-        labels: ICICIBankDates,
+        labels: MarutiDates,
         datasets: [
           {
             label: "Data",
@@ -39,7 +39,7 @@ const ICICIBankChart = {
             pointHoverRadius: 4,
             pointHoverBorderWidth: 15,
             pointRadius: 0,
-            data: ICICIBankAverage
+            data: MarutiAverage
           }
         ]
       };
@@ -100,7 +100,7 @@ const ICICIBankChart = {
 
 
 module.exports = {
-    ICICIBankChart
+    MarutiChart
 };
 
 

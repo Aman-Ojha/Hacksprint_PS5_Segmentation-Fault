@@ -1,17 +1,17 @@
-var KotakBankJson = require('./KOTAKBANK_data_old_1_year.json');
+var JSWBankJson = require('./JSWSTEEL_data_old_1_year.json');
 
 
-var KotakBankDates = KotakBankJson.map(function(object){
+var JSWBankDates = JSWBankJson.map(function(object){
     return object["Date"]
     
 })
 
-var KotakBankAverage = KotakBankJson.map(function(object){
+var JSWBankAverage = JSWBankJson.map(function(object){
     return Math.round(object["Average"]*100)/100
     
 })
 
-const KotakBankChart = {
+const JSWBankChart = {
     data: canvas => {
         let ctx = canvas.getContext("2d");
 
@@ -22,7 +22,7 @@ const KotakBankChart = {
         gradientStroke.addColorStop(0, "rgba(66,134,121,0)"); 
 
         return{
-            labels: KotakBankDates,
+            labels: JSWBankDates,
             datasets: [
                 {
                   label: "My First dataset",
@@ -39,7 +39,7 @@ const KotakBankChart = {
                   pointHoverRadius: 4,
                   pointHoverBorderWidth: 15,
                   pointRadius: 0,
-                  data: KotakBankAverage
+                  data: JSWBankAverage
                 }
               ]
         };
@@ -76,7 +76,7 @@ const KotakBankChart = {
               },
               ticks: {
                 suggestedMin: 0,
-                suggestedMax: 50,
+                suggestedMax: 20,
                 padding: 20,
                 fontColor: "#9e9e9e"
               }
@@ -106,7 +106,7 @@ const KotakBankChart = {
 
 
 module.exports = {
-    KotakBankChart
+    JSWBankChart
 };
 
 

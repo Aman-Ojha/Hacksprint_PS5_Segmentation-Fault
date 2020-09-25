@@ -1,17 +1,17 @@
-var ICICIBankJson = require('./ICICIBANK_old_1_year.json');
+var JMTJson = require('./JMTAUTOLTD_data_old_1_year.json');
 
 
-var ICICIBankDates = ICICIBankJson.map(function(object){
+var JMTDates = JMTJson.map(function(object){
     return object["Date"]
     
 })
 
-var ICICIBankAverage = ICICIBankJson.map(function(object){
+var JMTAverage = JMTJson.map(function(object){
     return Math.round(object["Average"]*100)/100
     
 })
 
-const ICICIBankChart = {
+const JMTSTEELChart = {
     data: canvas => {
       let ctx = canvas.getContext("2d");
   
@@ -22,7 +22,7 @@ const ICICIBankChart = {
       gradientStroke.addColorStop(0, "rgba(29,140,248,0)"); //blue colors
   
       return {
-        labels: ICICIBankDates,
+        labels: JMTDates,
         datasets: [
           {
             label: "Data",
@@ -39,7 +39,7 @@ const ICICIBankChart = {
             pointHoverRadius: 4,
             pointHoverBorderWidth: 15,
             pointRadius: 0,
-            data: ICICIBankAverage
+            data: JMTAverage
           }
         ]
       };
@@ -71,7 +71,7 @@ const ICICIBankChart = {
               },
               ticks: {
                 suggestedMin: 0,
-                suggestedMax: 25,
+                suggestedMax: 0.8,
                 padding: 20,
                 fontColor: "#9a9a9a"
               }
@@ -100,7 +100,7 @@ const ICICIBankChart = {
 
 
 module.exports = {
-    ICICIBankChart
+  JMTSTEELChart
 };
 
 

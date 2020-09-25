@@ -2,11 +2,6 @@ import React from "react";
 
 import ChartCard from './ChartCard'
 
-import {
-  chartExample4,
-  chartExample2
-} from "../variables/charts.js";
-
 import{
   AxisBankChart
 } from '../variables/AxisTrainedCharts.js'
@@ -16,6 +11,27 @@ import{
 import{
   KotakBankChart
 } from '../variables/KotakTrainedChart.js'
+import{
+  JindalBankChart
+} from '../variables/JindalTrainedChart.js'
+import{
+  JSWBankChart
+} from '../variables/JSWTrainedChart.js'
+import{
+  TATASTEELChart
+} from '../variables/TATASTEELTrainedChart.js'
+import{
+  JMTSTEELChart
+} from '../variables/JMTTrainedChart.js'
+import{
+  MarutiChart
+} from '../variables/MarutiTrainedChart.js'
+import{
+  TATAMOTORSChart
+} from '../variables/TATAMOTORSTrainedChart.js'
+
+
+
 
 
 
@@ -113,13 +129,13 @@ const Tabs = ({ color }) => {
 
                   <center>
                     <div className="row pt-1 pb-3"> 
-                        <ChartCard data={chartExample2.data} options={chartExample2.options} />
+                        <ChartCard data={JindalBankChart.data} options={JindalBankChart.options} />
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={chartExample4.data} options={chartExample4.options} />
+                        <ChartCard data={JSWBankChart.data} options={JSWBankChart.options} />
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={chartExample2.data} options={chartExample4.options} />
+                        <ChartCard data={TATASTEELChart.data} options={TATASTEELChart.options} />
                     </div>
                   </center>
 
@@ -127,13 +143,13 @@ const Tabs = ({ color }) => {
                 <div className={openTab === 3 ? "block" : "hidden"} id="link3">
                     <center>
                       <div className="row pt-1 pb-3"> 
-                          <ChartCard data={chartExample4.data} options={chartExample4.options} />
+                          <ChartCard data={JMTSTEELChart.data} options={JMTSTEELChart.options} />
                       </div>
                       <div className="row py-3"> 
-                          <ChartCard data={chartExample2.data} options={chartExample2.options} />
+                          <ChartCard data={MarutiChart.data} options={MarutiChart.options} />
                       </div>
                       <div className="row py-3"> 
-                          <ChartCard data={chartExample4.data} options={chartExample4.options} />
+                          <ChartCard data={TATAMOTORSChart.data} options={TATAMOTORSChart.options} />
                       </div>
                     </center>
                 </div>

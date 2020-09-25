@@ -1,17 +1,17 @@
-var ICICIBankJson = require('./ICICIBANK_old_1_year.json');
+var JindalBankJson = require('./JINDALSTEL_data_old_1_year.json');
 
 
-var ICICIBankDates = ICICIBankJson.map(function(object){
+var JindalBankDates = JindalBankJson.map(function(object){
     return object["Date"]
     
 })
 
-var ICICIBankAverage = ICICIBankJson.map(function(object){
+var JindalBankAverage = JindalBankJson.map(function(object){
     return Math.round(object["Average"]*100)/100
     
 })
 
-const ICICIBankChart = {
+const JindalBankChart = {
     data: canvas => {
       let ctx = canvas.getContext("2d");
   
@@ -22,7 +22,7 @@ const ICICIBankChart = {
       gradientStroke.addColorStop(0, "rgba(29,140,248,0)"); //blue colors
   
       return {
-        labels: ICICIBankDates,
+        labels: JindalBankDates,
         datasets: [
           {
             label: "Data",
@@ -39,7 +39,7 @@ const ICICIBankChart = {
             pointHoverRadius: 4,
             pointHoverBorderWidth: 15,
             pointRadius: 0,
-            data: ICICIBankAverage
+            data: JindalBankAverage
           }
         ]
       };
@@ -100,7 +100,7 @@ const ICICIBankChart = {
 
 
 module.exports = {
-    ICICIBankChart
+    JindalBankChart
 };
 
 

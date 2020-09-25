@@ -1,17 +1,17 @@
-var KotakBankJson = require('./KOTAKBANK_data_old_1_year.json');
+var TATAMOTORSJson = require('./TATAMOTORS_data_old_1_year.json');
 
 
-var KotakBankDates = KotakBankJson.map(function(object){
+var TATAMOTORSDates = TATAMOTORSJson.map(function(object){
     return object["Date"]
     
 })
 
-var KotakBankAverage = KotakBankJson.map(function(object){
+var TATAMOTORSAverage = TATAMOTORSJson.map(function(object){
     return Math.round(object["Average"]*100)/100
     
 })
 
-const KotakBankChart = {
+const TATAMOTORSChart = {
     data: canvas => {
         let ctx = canvas.getContext("2d");
 
@@ -22,7 +22,7 @@ const KotakBankChart = {
         gradientStroke.addColorStop(0, "rgba(66,134,121,0)"); 
 
         return{
-            labels: KotakBankDates,
+            labels:TATAMOTORSDates,
             datasets: [
                 {
                   label: "My First dataset",
@@ -39,7 +39,7 @@ const KotakBankChart = {
                   pointHoverRadius: 4,
                   pointHoverBorderWidth: 15,
                   pointRadius: 0,
-                  data: KotakBankAverage
+                  data: TATAMOTORSAverage
                 }
               ]
         };
@@ -106,7 +106,7 @@ const KotakBankChart = {
 
 
 module.exports = {
-    KotakBankChart
+    TATAMOTORSChart
 };
 
 
