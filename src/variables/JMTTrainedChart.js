@@ -13,36 +13,36 @@ var JMTAverage = JMTJson.map(function(object){
 
 const JMTSTEELChart = {
     data: canvas => {
-      let ctx = canvas.getContext("2d");
-  
-      let gradientStroke = ctx.createLinearGradient(0, 230, 0, 50);
-  
-      gradientStroke.addColorStop(1, "rgba(29,140,248,0.2)");
-      gradientStroke.addColorStop(0.4, "rgba(29,140,248,0.0)");
-      gradientStroke.addColorStop(0, "rgba(29,140,248,0)"); //blue colors
-  
-      return {
-        labels: JMTDates,
-        datasets: [
-          {
-            label: "Data",
-            fill: true,
-            backgroundColor: gradientStroke,
-            borderColor: "#1f8ef1",
-            borderWidth: 2,
-            borderDash: [],
-            borderDashOffset: 0.0,
-            pointBackgroundColor: "#1f8ef1",
-            pointBorderColor: "rgba(255,255,255,0)",
-            pointHoverBackgroundColor: "#1f8ef1",
-            pointBorderWidth: 20,
-            pointHoverRadius: 4,
-            pointHoverBorderWidth: 15,
-            pointRadius: 0,
-            data: JMTAverage
-          }
-        ]
-      };
+        let ctx = canvas.getContext("2d");
+
+        let gradientStroke = ctx.createLinearGradient(0, 230, 0, 50);
+
+        gradientStroke.addColorStop(1, "rgba(66,134,121,0.15)");
+        gradientStroke.addColorStop(0.4, "rgba(66,134,121,0.0)"); 
+        gradientStroke.addColorStop(0, "rgba(66,134,121,0)"); 
+
+        return{
+            labels:JMTDates,
+            datasets: [
+                {
+                  label: "My First dataset",
+                  fill: true,
+                  backgroundColor: gradientStroke,
+                  borderColor: "#00d6b4",
+                  borderWidth: 2,
+                  borderDash: [],
+                  borderDashOffset: 0.0,
+                  pointBackgroundColor: "#00d6b4",
+                  pointBorderColor: "rgba(255,255,255,0)",
+                  pointHoverBackgroundColor: "#00d6b4",
+                  pointBorderWidth: 1,
+                  pointHoverRadius: 4,
+                  pointHoverBorderWidth: 15,
+                  pointRadius: 0,
+                  data: JMTAverage
+                }
+              ]
+        };
     },
     options: {
         maintainAspectRatio: false,
@@ -96,12 +96,18 @@ const JMTSTEELChart = {
 }
 
 
+const JMTCurrPrice  = Math.round(JMTJson[JMTJson.length-1]["Average"]*100)/100;
+
 
 
 
 module.exports = {
-  JMTSTEELChart
+    JMTSTEELChart,
+    JMTCurrPrice
 };
+
+
+
 
 
 

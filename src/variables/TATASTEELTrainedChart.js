@@ -97,11 +97,14 @@ const TATASTEELChart = {
 
 
 
+const  TATASTEELCurrPrice  = Math.round(TATASTEELJson[TATASTEELJson.length-1]["Average"]*100)/100;
 
 
 module.exports = {
-    TATASTEELChart
+    TATASTEELChart,
+    TATASTEELCurrPrice
 };
+
 
 
 

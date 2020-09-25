@@ -106,10 +106,12 @@ const AxisBankChart = {
       }
 }
 
+const AxisCurrPrice = Math.round(AxisBankJson[AxisBankJson.length-1]["Average"]*100)/100;
 
 
 
 
 module.exports = {
-    AxisBankChart
+    AxisBankChart,
+    AxisCurrPrice
 };

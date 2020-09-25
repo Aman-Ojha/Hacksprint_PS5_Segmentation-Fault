@@ -102,12 +102,16 @@ const KotakBankChart = {
 }
 
 
-
+const KotakCurrPrice  = Math.round(KotakBankJson[KotakBankJson.length-1]["Average"]*100)/100;
 
 
 module.exports = {
-    KotakBankChart
+    KotakBankChart,
+    KotakCurrPrice
 };
+
+
+
 
 
 

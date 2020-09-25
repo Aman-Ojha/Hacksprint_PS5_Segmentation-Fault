@@ -76,7 +76,7 @@ const TATAMOTORSChart = {
               },
               ticks: {
                 suggestedMin: 0,
-                suggestedMax: 50,
+                suggestedMax: 25,
                 padding: 20,
                 fontColor: "#9e9e9e"
               }
@@ -102,12 +102,13 @@ const TATAMOTORSChart = {
 }
 
 
+const  TATAMOTORSCurrPrice  = Math.round(TATAMOTORSJson[TATAMOTORSJson.length-1]["Average"]*100)/100;
 
-
+console.log(TATAMOTORSCurrPrice)
 
 module.exports = {
-    TATAMOTORSChart
+    TATAMOTORSChart,
+    TATAMOTORSCurrPrice
 };
-
 
 

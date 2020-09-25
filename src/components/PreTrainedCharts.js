@@ -3,31 +3,40 @@ import React from "react";
 import ChartCard from './ChartCard'
 
 import{
-  AxisBankChart
+  AxisBankChart,
+  AxisCurrPrice
 } from '../variables/AxisTrainedCharts.js'
 import{
-  ICICIBankChart
+  ICICIBankChart,
+  ICICICurrPrice
 } from '../variables/ICICITrainedChart.js'
 import{
-  KotakBankChart
+  KotakBankChart,
+  KotakCurrPrice
 } from '../variables/KotakTrainedChart.js'
 import{
-  JindalBankChart
+  JindalBankChart,
+  JindalCurrPrice
 } from '../variables/JindalTrainedChart.js'
 import{
-  JSWBankChart
+  JSWBankChart,
+  JSWCurrPrice
 } from '../variables/JSWTrainedChart.js'
 import{
-  TATASTEELChart
+  TATASTEELChart,
+  TATASTEELCurrPrice
 } from '../variables/TATASTEELTrainedChart.js'
 import{
-  JMTSTEELChart
+  JMTSTEELChart,
+  JMTCurrPrice
 } from '../variables/JMTTrainedChart.js'
 import{
-  MarutiChart
+  MarutiChart,
+  MarutiCurrPrice
 } from '../variables/MarutiTrainedChart.js'
 import{
-  TATAMOTORSChart
+  TATAMOTORSChart,
+  TATAMOTORSCurrPrice
 } from '../variables/TATAMOTORSTrainedChart.js'
 
 
@@ -114,13 +123,13 @@ const Tabs = ({ color }) => {
 
                   <center>
                     <div className="row pt-1 pb-3"> 
-                        <ChartCard data={AxisBankChart.data} options={AxisBankChart.options} />
+                        <ChartCard data={AxisBankChart.data} options={AxisBankChart.options} name="Axis Bank" symbol="AXISBANK" price={AxisCurrPrice} />
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={ICICIBankChart.data} options={ICICIBankChart.options} />
+                        <ChartCard data={ICICIBankChart.data} options={ICICIBankChart.options} name="ICICI Bank" symbol="ICICIBANK" price={ICICICurrPrice} />
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={KotakBankChart.data} options={KotakBankChart.options} />
+                        <ChartCard data={KotakBankChart.data} options={KotakBankChart.options} name="Kotak Mahindra Bank" symbol="KOTAKBANK" price={KotakCurrPrice} />
                     </div>
                   </center>
                   
@@ -129,13 +138,13 @@ const Tabs = ({ color }) => {
 
                   <center>
                     <div className="row pt-1 pb-3"> 
-                        <ChartCard data={JindalBankChart.data} options={JindalBankChart.options} />
+                        <ChartCard data={JindalBankChart.data} options={JindalBankChart.options} name="Jindal Steel and Power" symbol="JINDALSTEEL" price={JindalCurrPrice}/>
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={JSWBankChart.data} options={JSWBankChart.options} />
+                        <ChartCard data={JSWBankChart.data} options={JSWBankChart.options} name="JSW Steel" symbol="JSWSTEEL" price={JSWCurrPrice}/>
                     </div>
                     <div className="row py-3"> 
-                        <ChartCard data={TATASTEELChart.data} options={TATASTEELChart.options} />
+                        <ChartCard data={TATASTEELChart.data} options={TATASTEELChart.options} name="Tata Steel Ltd." symbol="TATASTEEL" price={TATASTEELCurrPrice}/>
                     </div>
                   </center>
 
@@ -143,13 +152,13 @@ const Tabs = ({ color }) => {
                 <div className={openTab === 3 ? "block" : "hidden"} id="link3">
                     <center>
                       <div className="row pt-1 pb-3"> 
-                          <ChartCard data={JMTSTEELChart.data} options={JMTSTEELChart.options} />
+                          <ChartCard data={JMTSTEELChart.data} options={JMTSTEELChart.options} name="Jmt Auto" symbol="JMTAUTOLTD"  price={JMTCurrPrice} />
                       </div>
                       <div className="row py-3"> 
-                          <ChartCard data={MarutiChart.data} options={MarutiChart.options} />
+                          <ChartCard data={MarutiChart.data} options={MarutiChart.options} name="Maruti Suzuki" symbol="MARUTI" price={MarutiCurrPrice} />
                       </div>
                       <div className="row py-3"> 
-                          <ChartCard data={TATAMOTORSChart.data} options={TATAMOTORSChart.options} />
+                          <ChartCard data={TATAMOTORSChart.data} options={TATAMOTORSChart.options} name="Tata Motors" symbol="TATAMOTORS" price={TATAMOTORSCurrPrice} />
                       </div>
                     </center>
                 </div>

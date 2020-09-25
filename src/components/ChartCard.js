@@ -23,10 +23,10 @@ class ChartCard extends React.Component {
                     </div>
                     <div className="flex w-full md:w-1/2 p-10 bg-gray-800 text-gray-600 items-center">
                     <div className="w-full">
-                        <h3 className="text-lg font-semibold leading-tight text-gray-100" >SW Limited.</h3>
-                        <h6 className="text-sm leading-tight mb-2 text-gray-100"><span>ASX:SFW </span>&nbsp;&nbsp;-&nbsp;&nbsp;Aug 2nd 4:00pm AEST</h6>
+                        <h3 className="text-lg font-semibold leading-tight text-gray-100" > {this.props.name} </h3>
+                        <h6 className="text-sm leading-tight mb-2 text-gray-100"><span>{this.props.symbol} </span>&nbsp;&nbsp;-&nbsp;&nbsp;May 5th 2019</h6>
                         <div className="flex w-full items-end mb-6">
-                        <span className="block leading-none text-3xl text-gray-100" >0</span>
+                        <span className="block leading-none text-3xl text-gray-100" >  {this.props.price} </span>
                         <span className="block leading-5 text-sm ml-4 text-green-500" />
                         </div>
                         <div className="flex w-full text-xs">

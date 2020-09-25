@@ -102,12 +102,16 @@ const JSWBankChart = {
 }
 
 
+const JSWCurrPrice  = Math.round(JSWBankJson[JSWBankJson.length-1]["Average"]*100)/100;
+
 
 
 
 module.exports = {
-    JSWBankChart
+    JSWBankChart,
+    JSWCurrPrice
 };
+
 
 
 

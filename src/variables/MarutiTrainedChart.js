@@ -95,13 +95,10 @@ const MarutiChart = {
       }
 }
 
-
-
+const  MarutiCurrPrice  = Math.round(MarutiJson[MarutiJson.length-1]["Average"]*100)/100;
 
 
 module.exports = {
-    MarutiChart
+    MarutiChart,
+    MarutiCurrPrice
 };
-
-
-

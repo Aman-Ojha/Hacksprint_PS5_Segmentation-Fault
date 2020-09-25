@@ -95,13 +95,12 @@ const ICICIBankChart = {
       }
 }
 
+const ICICICurrPrice = Math.round(ICICIBankJson[ICICIBankJson.length-1]["Average"]*100)/100;
 
 
 
 
 module.exports = {
-    ICICIBankChart
+    ICICIBankChart,
+    ICICICurrPrice
 };
-
-
-

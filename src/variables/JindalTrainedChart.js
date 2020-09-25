@@ -96,12 +96,17 @@ const JindalBankChart = {
 }
 
 
+const JindalCurrPrice  = Math.round(JindalBankJson[JindalBankJson.length-1]["Average"]*100)/100;
+
 
 
 
 module.exports = {
-    JindalBankChart
+    JindalBankChart,
+    JindalCurrPrice
 };
+
+
 
 
 
