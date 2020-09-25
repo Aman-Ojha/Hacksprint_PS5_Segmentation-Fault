@@ -2,6 +2,8 @@ import React from 'react'
 
 import { Line } from "react-chartjs-2";
 
+import {Link} from 'react-router-dom';
+
 
 
 class ChartCard extends React.Component {
@@ -60,11 +62,14 @@ class ChartCard extends React.Component {
                             </div>
                             </div>
                             <div className="pl-64 ml-24 pt-12">
+                                <Link to={`/details/${this.props.symbol}`}>
                                 <button className="inline-flex items-center bg-green-500 text-white font-extrabold border-0 py-1 px-3 round focus:outline-none hover:bg-green-700  rounded-lg text-base mt-4 md:mt-0">Learn More
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-4 h-4 ml-1" viewBox="0 0 24 24">
                                         <path d="M5 12h14M12 5l7 7-7 7" />
                                     </svg>
                                 </button>
+                                </Link>
+                                
                             </div>
                         </div>
                         

@@ -4,7 +4,7 @@ import Navbar from './components/Navbar'
 import MainLayout from './views/MainLayout'
 import HomePage from './views/Homepage'
 import RequestPage from './views/Requestpage'
-
+import DetailsPage from './views/DetailsPage'
 
 function App() {
   return (
@@ -15,6 +15,11 @@ function App() {
           <Route path="/home" render={props =><HomePage {...props} />} />
           <Route path="/pretrained" render={props => <MainLayout {...props} />} />
           <Route path="/request" render={props => <RequestPage {...props} />} />
+          <Route 
+            exact
+            path="/details/:symbol"
+            render={props => <DetailsPage {...props} />} 
+          />
           
           <Redirect from="/" to="/home" />
       </Switch>
