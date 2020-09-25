@@ -10,7 +10,7 @@ const HomePage = () => {
             <section className="text-gray-500 body-font bg-gray-900">
                 <div className="container flex flex-wrap px-5 py-24 mx-auto items-center">
                     <div className="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 md:mb-0 mb-10 pb-10 border-b border-gray-800">
-                    <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">A Simple and Catchy Slogan</h1>
+                    <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">We know the stonks, You'll know it too!!</h1>
                     <p className="leading-relaxed text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi reiciendis, cumque sunt alias, aliquam quas tempore aut repellendus omnis molestiae, consectetur iusto. A repellendus dignissimos fuga rem velit porro id!</p>
                     <a className="text-blue-500 inline-flex items-center mt-4" href="/">Learn More
                         <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-4 h-4 ml-2" viewBox="0 0 24 24">

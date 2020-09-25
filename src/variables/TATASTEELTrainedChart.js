@@ -78,8 +78,8 @@ const TATASTEEKBankChart2 = {
               // zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 0,
-              suggestedMax: 50,
+              suggestedMin: 580,
+              suggestedMax: 450,
               padding: 20,
               fontColor: "#9e9e9e"
             }

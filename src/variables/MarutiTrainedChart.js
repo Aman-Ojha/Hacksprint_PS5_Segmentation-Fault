@@ -78,8 +78,8 @@ const MarutiChart2 = {
               // zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 0,
-              suggestedMax: 50,
+              suggestedMin: 6500,
+              suggestedMax: 6800,
               padding: 20,
               fontColor: "#9e9e9e"
             }

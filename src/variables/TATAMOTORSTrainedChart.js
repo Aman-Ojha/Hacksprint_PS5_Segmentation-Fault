@@ -72,8 +72,8 @@ const TATAMOTORSChart2 = {
               zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 0,
-              suggestedMax: 25,
+              suggestedMin: 170,
+              suggestedMax: 215,
               padding: 20,
               fontColor: "#9a9a9a"
             }

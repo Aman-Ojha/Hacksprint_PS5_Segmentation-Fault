@@ -195,7 +195,7 @@ const JindalCurrPrice  = Math.round(JindalBankJson[JindalBankJson.length-1]["Ave
 
 
 module.exports = {
-    JindalBankChart,
+  JindalBankChart,
     JindalBankChart2,
     JindalCurrPrice
 };

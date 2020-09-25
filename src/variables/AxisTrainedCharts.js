@@ -75,8 +75,8 @@ var AxisBankAverage = AxisBankJson.map(function(object){
                 zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 0,
-                suggestedMax: 25,
+                suggestedMin: 650,
+                suggestedMax: 780,
                 padding: 20,
                 fontColor: "#9a9a9a"
               }

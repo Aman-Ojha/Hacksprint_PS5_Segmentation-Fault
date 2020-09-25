@@ -77,8 +77,8 @@ const ICICIBankChart2 = {
               // zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 0,
-              suggestedMax: 50,
+              suggestedMin: 340,
+              suggestedMax: 420,
               padding: 20,
               fontColor: "#9e9e9e"
             }

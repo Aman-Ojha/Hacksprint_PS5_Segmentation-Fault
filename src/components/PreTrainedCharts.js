@@ -138,7 +138,7 @@ const Tabs = ({ color }) => {
 
                   <center>
                     <div className="row pt-1 pb-3"> 
-                        <ChartCard data={JindalBankChart.data} options={JindalBankChart.options} name="Jindal Steel and Power" symbol="JINDALSTEEL" price={JindalCurrPrice}/>
+                        <ChartCard data={JindalBankChart.data} options={JindalBankChart.options} name="Jindal Steel and Power" symbol="JINDALSTEL" price={JindalCurrPrice}/>
                     </div>
                     <div className="row py-3"> 
                         <ChartCard data={JSWBankChart.data} options={JSWBankChart.options} name="JSW Steel" symbol="JSWSTEEL" price={JSWCurrPrice}/>

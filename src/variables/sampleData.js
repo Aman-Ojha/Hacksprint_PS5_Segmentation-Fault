@@ -75,7 +75,7 @@ const sampleData = [
     },
     {
         name : "JSW Steel",
-        symbol:' JSWSTEEL',
+        symbol:'JSWSTEEL',
         chart1: JSWBankChart,
         chart2: JSWBankChart2,
         currPrice: JSWCurrPrice
@@ -89,7 +89,7 @@ const sampleData = [
     },
     {
         name : "Jmt Auto",
-        symbol:' JMTAUTOLTD',
+        symbol:'JMTAUTOLTD',
         chart1: JMTSTEELChart,
         chart2: JMTSTEELChart2,
         currPrice: JMTCurrPrice

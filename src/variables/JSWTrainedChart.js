@@ -72,8 +72,8 @@ const JSWBankChart2 = {
               zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 0,
-              suggestedMax: 25,
+              suggestedMin: 260,
+              suggestedMax: 320,
               padding: 20,
               fontColor: "#9a9a9a"
             }

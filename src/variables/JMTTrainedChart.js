@@ -71,8 +71,8 @@ const JMTSTEELChart2 = {
               zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 0,
-              suggestedMax: 25,
+              suggestedMin: 1.9,
+              suggestedMax: 2.3,
               padding: 20,
               fontColor: "#9a9a9a"
             }
