@@ -188,8 +188,6 @@ const AxisBankChart = {
                 // zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 400,
-                suggestedMax: 800,
                 padding: 20,
                 fontColor: "#9e9e9e"
               }

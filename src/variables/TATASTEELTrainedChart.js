@@ -98,8 +98,7 @@ const TATASTEEKBankChart2 = {
               // zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 580,
-              suggestedMax: 450,
+              
               padding: 20,
               fontColor: "#9e9e9e"
             }
@@ -184,8 +183,7 @@ const TATASTEELChart = {
                 zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 450,
-                suggestedMax: 600,
+              
                 padding: 20,
                 fontColor: "#9a9a9a"
               }

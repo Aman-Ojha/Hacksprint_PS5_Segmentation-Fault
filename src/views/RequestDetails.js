@@ -256,7 +256,7 @@ const RequestDetails = (props) =>  {
                     </div>
                     
                     <div className="row container">
-                        <center>
+                    <center>
                             <div class=" md:w-1/2 ">
                                 <div class="flex rounded-lg h-full bg-gray-800 p-8 flex-col">
                                 <div class="flex items-center mb-3">
@@ -266,45 +266,24 @@ const RequestDetails = (props) =>  {
                                     <h2 class="text-white text-lg title-font font-medium">Additional Information</h2>
                                 </div>
                                 <div class="flex-grow">
-                                    <h3 className="text-lg text-left  font-semibold leading-tight mt-3 text-gray-100" > {state.name} </h3>
-                                    <h6 className="text-sm leading-tight mb-2 text-gray-100 text-left "><span>{symbol} </span>&nbsp;&nbsp;|&nbsp;&nbsp;May 5th 2019</h6>
+                                    <h3 className="text-lg text-center  font-semibold leading-tight mt-3 text-gray-100" > {state.name} </h3>
+                                    <h6 className="text-sm leading-tight mb-2 text-gray-100 text-center "><span>{symbol} </span>&nbsp;&nbsp;|&nbsp;&nbsp;May 5th 2019</h6>
                                     <div className="flex w-full items-end mb-6">
-                                    <span className="block leading-none text-3xl text-gray-100" >  {state.currPrice} </span>
-                                    <span className="block leading-5 text-sm ml-4 text-green-500" />
-                                    </div>
-                                    <div className="flex w-full text-xs">
-                                    <div className="flex w-5/12">
-                                        <div className="flex-1 pr-3 text-left font-semibold text-gray-100">Open</div>
-                                        <div className="flex-1 px-3 text-right text-gray-100">0</div>
-                                    </div>
-                                    <div className="flex w-7/12">
-                                        <div className="flex-1 px-3 text-left font-semibold text-gray-100">Market Cap</div>
-                                        <div className="flex-1 pl-3 text-right text-gray-100">0</div>
-                                    </div>
-                                    </div>
-                                    <div className="flex w-full text-xs">
-                                    <div className="flex w-5/12">
-                                        <div className="flex-1 pr-3 text-left font-semibold text-gray-100">High</div>
-                                        <div className="px-3 text-right text-gray-100" >0</div>
-                                    </div>
-                                    <div className="flex w-7/12">
-                                        <div className="flex-1 px-3 text-left font-semibold text-gray-100">P/E ratio</div>
-                                        <div className="pl-3 text-right text-gray-100">0</div>
-                                    </div>
-                                    </div>
-                                    <div className="flex w-full text-xs">
-                                    <div className="flex w-5/12">
-                                        <div className="flex-1 pr-3 text-left font-semibold text-gray-100">Low</div>
-                                        <div className="px-3 text-right text-gray-100">0</div>
-                                    </div>
-                                    <div className="flex w-7/12">
-                                        <div className="flex-1 px-3 text-left font-semibold text-gray-100">Dividend yield</div>
-                                        <div className="pl-3 text-right text-gray-100">0%</div>
-                                    </div>
-                                    </div>
-                                </div>
-                                </div>
+                                    <span className="block leading-none text-xl text-gray-300">
+                                    <span className="block leading-none text-4xl pt-8 pl-10 text-gray-100" >  {state.currPrice} </span>
+                                    </span>
+                            
+                             
+                            <span className="text-gray-500" >&nbsp;&nbsp;LCV </span>
+                            <span className="block leading-5 text-sm ml-4 text-green-500" />
                             </div>
+                            <div className="flex w-full text-xs">
+                            
+                            </div>
+                                    </div>
+                                </div>
+                                </div>
+                        
                         </center>
                     </div>
 

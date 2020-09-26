@@ -1,5 +1,10 @@
 import React from 'react'
 import Img1 from '../assets/img/homepage.svg'
+import Img2 from '../assets/img/Karan.jpg'
+import Img3 from '../assets/img/arshit.jpg'
+ import Img4 from '../assets/img/aman.jpg'
+import Img5 from '../assets/img/shobit.jpg'
+
 
 
 
@@ -33,14 +38,14 @@ const HomePage = () => {
                     <h1 className="text-2xl font-medium title-font mb-4 text-white tracking-widest">OUR TEAM</h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
                     </div>
-                    <div className="flex flex-wrap -m-4">
+                    <div className="flex flex-wrap -m-4 ml-24">
                     <div className="p-4 lg:w-1/2">
                         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/200x200" />
+                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={Img2} />
                         <div className="flex-grow sm:pl-8">
                             <h2 className="title-font font-medium text-lg text-white">Karan Nandwani</h2>
-                            <h3 className="text-gray-600 mb-3">Leader and Web Dev</h3>
-                            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                            <h3 className="text-gray-600 mb-3">Leader , ML and Data</h3>
+                            <a className="mb-4 text-blue-400" href="https://www.linkedin.com/in/karan-nandwani-16aa66176/">LinkedIN</a>
                             <span className="inline-flex">
                             <a className="text-gray-700" href="/home">
                                 <svg fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-5 h-5" viewBox="0 0 24 24">
@@ -63,11 +68,11 @@ const HomePage = () => {
                     </div>
                     <div className="p-4 lg:w-1/2">
                         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/201x201" />
+                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={Img3} />
                         <div className="flex-grow sm:pl-8">
                             <h2 className="title-font font-medium text-lg text-white">Arshit Kumar</h2>
                             <h3 className="text-gray-600 mb-3">Data and ML</h3>
-                            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                            <a className="mb-4 text-blue-400" href="https://www.linkedin.com/in/arshit-kumar-477850177/">LinkedIN</a>
                             <span className="inline-flex">
                             <a className="text-gray-700" href="/home">
                                 <svg fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-5 h-5" viewBox="0 0 24 24">
@@ -90,11 +95,11 @@ const HomePage = () => {
                     </div>
                     <div className="p-4 lg:w-1/2">
                         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/204x204" />
+                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={Img4} />
                         <div className="flex-grow sm:pl-8">
                             <h2 className="title-font font-medium text-lg text-white">Aman Ojha</h2>
                             <h3 className="text-gray-600 mb-3">Data and ML</h3>
-                            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                            <a className="mb-4 text-blue-400" href="https://www.linkedin.com/in/aman-ojha-2a0767191/">LinkedIN</a>
                             <span className="inline-flex">
                             <a className="text-gray-700" href="/home">
                                 <svg fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-5 h-5" viewBox="0 0 24 24">
@@ -117,11 +122,12 @@ const HomePage = () => {
                     </div>
                     <div className="p-4 lg:w-1/2">
                         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/206x206" />
+                        <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={Img5} />
                         <div className="flex-grow sm:pl-8">
                             <h2 className="title-font font-medium text-lg text-white">Shobit Puri</h2>
                             <h3 className="text-gray-600 mb-3">Web Dev</h3>
-                            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                            
+                            <a className="mb-4 text-blue-400" href="https://www.linkedin.com/in/shobit-puri-3b30bb18b/">LinkedIN</a>
                             <span className="inline-flex">
                             <a className="text-gray-700" href="/home">
                                 <svg fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-5 h-5" viewBox="0 0 24 24">

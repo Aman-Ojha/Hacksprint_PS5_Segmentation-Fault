@@ -98,8 +98,7 @@ const JindalBankChart2 = {
               // zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 150,
-              suggestedMax: 170,
+        
               padding: 20,
               fontColor: "#9e9e9e"
             }
@@ -184,8 +183,7 @@ const JindalBankChart = {
                 zeroLineColor: "transparent"
               },
               ticks: {
-                suggestedMin: 100,
-                suggestedMax: 250,
+            
                 padding: 20,
                 fontColor: "#9a9a9a"
               }
