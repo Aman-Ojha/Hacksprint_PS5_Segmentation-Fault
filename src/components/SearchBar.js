@@ -49,6 +49,17 @@ export class SearchBar extends Component {
           showOptions: false,
           userInput: e.currentTarget.innerText
         });
+        const index = DummyData["data"].findIndex(object => object["Name"]===e.currentTarget.innerText)
+          console.log(index)
+          const symbol = DummyData["data"][index]["Symbol"]
+          if(index){
+           
+            const route = "/requestchart/"+symbol
+            window.location.replace(route)  
+          }
+          else{
+            window.alert("Try Again!!")
+          }
     };
 
     onKeyDown = (e) => {
@@ -60,6 +71,18 @@ export class SearchBar extends Component {
             showOptions: false,
             userInput: filteredOptions[activeOption]
           });
+          const index = DummyData["data"].findIndex(object => object["Name"]===filteredOptions[activeOption])
+          console.log(index)
+          const symbol = DummyData["data"][index]["Symbol"]
+          if(index){
+           
+            const route = "/requestchart/"+symbol
+            window.location.replace(route)  
+          }
+          else{
+            window.alert("Try Again!!")
+          }
+          
         } else if (e.keyCode === 38) {
           if (activeOption === 0) {
             return;

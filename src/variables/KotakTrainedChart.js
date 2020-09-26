@@ -94,8 +94,8 @@ const KotakBankChart2 = {
               zeroLineColor: "transparent"
             },
             ticks: {
-              suggestedMin: 1350,
-              suggestedMax: 1440,
+              suggestedMin: 1370,
+              suggestedMax: 1420,
               padding: 20,
               fontColor: "#9a9a9a"
             }
