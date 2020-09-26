@@ -7,7 +7,7 @@ We've all heard it, only those striving to fail tread unknown waters and make no
 ## Deliverables
 
 * ### [Presentation:](https://www.canva.com/design/DAEIzolMBu0/Aff8n0-juQ1MiF1ZEah5aw/view?utm_content=DAEIzolMBu0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) Please follow the link
-* ### [Website:](https://stonks-sage.vercel.app/home) Please follow the link
+* ### [Website:](https://stonks-b00mgpmji.vercel.app/) Please follow the link
 
 
 ## Solution Highlights  
