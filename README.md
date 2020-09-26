@@ -13,45 +13,20 @@ We've all heard it, only those striving to fail tread unknown waters and make no
 ## Solution Highlights  
 
 
-1. The Presentation Demonstration and GitHub illustrations vividly explain the issues experienced in real-world issues we faced
+1. XGBoost is an ensemble technqiue based on decision trees that leverages gradient boosting for fast speed and high performance.
 
-     The enterprise systems and processes exposed limitations in availability, staffing and hence timely availability of
-     results even after testing results were available.
 
-     Gaps in telehealth systems for full auditability / traceability and non-repudiation as more businesses are relying on
-     these test results.
-  
-     Issues around accountability, transparency, speediness, and privacy protected reporting of de-identified , aggregated
-     numbers for public health use.
-  
-     And the realization that re-opening of the economy and wide-spread high scale SAFE testing are 2 sides of the same coin.
+2. In XGBoost, decision trees are added to correct the errors made by the previous trees until no further improvements can be made.
 
- The opportunities to solve these real world problems
-    
-     - To increase not just patient safety ,but doctor/health worker safety.
 
-     - To have a key tool for safe re-opening of the economy with privacy based minimalistic proof needed for overall safety yet protecting civil liberties.
+3. It uses gradient descent to minimise the loss when adding new models. It has in-built regularisation.
 
-2.The solution addresses the primary goal of the hackathon to solve the real world problems identified 
 
-     - by leveraging decentralization based technologies including IPFS, the ethereum blockchain to prove existence of key data and metadata across organizations for an audit-ready yet privacy protected designs based on the ethereum stack 
+4. A max depth parameter is specified while designing XGBoost model. Once the tree reaches max depth,
+it starts pruning upwards removing branches with no positive gain.
 
-     - by using components already available in the blockchain ecosystem including DID specifications and components, 
-     secure distributed file storage systems
 
-3. The solution addresses the gaps in current systems
-
-       - by having key cross-organizational patient data/ meta-data secured for accountability, and cryptographically secured data to quickly send information between parties in the teletext workflow reducing delays
-
-       - allowing whichever parties who are covered entities that have the consented data to report to public health without delays
-    
-       - de-identifying personal data and also reducing chances of re-identification 
-
-4. The solution entails innovative elements to 
-
-       - incorporate standards like FHIR in to the solution for the business objects
-
-       - use Zero Knowledge proof designs and to design the arithmetic circuits to find if the user has been tested, and the status of their test results to the checker archetype in a minimalistic proof.
+5. It takes advantage of hardware optimization to improve efficiency,reduce computational time and allocate optimal memory resources.
 
 ## Illustrations
 
@@ -76,7 +51,11 @@ What follows is the predicted stock prices for the next 10 days for a certain co
 
 Even though the backend is what makes a product work, what sells it is its presentation. In other words, the frontend.
  
- <img src="images/covid.png">
+ <img src="images/home.png">
+ 
+ <img src="images/pasttrend.png">
+ 
+ <img src="images/forec.png">
  
 
 # Team
